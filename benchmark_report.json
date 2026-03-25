@@ -1,5 +1,5 @@
 {
-  "date": "2026-03-25T13:04:11.742Z",
+  "date": "2026-03-25T16:08:52.373Z",
   "summary": {
     "total_sites": 3,
     "successful_sites": 3,
@@ -463,6 +463,13 @@
     },
     {
       "site": "Bloom and Fresh",
+      "name": "Verona Aura",
+      "price": 3299.9,
+      "category": "Karma/Diğer",
+      "url": "https://www.bloomandfresh.com/p/verona-aura"
+    },
+    {
+      "site": "Bloom and Fresh",
       "name": "Aria Silver",
       "price": 2299.9,
       "category": "Karma/Diğer",
@@ -614,13 +621,6 @@
       "price": 1999.9,
       "category": "Karma/Diğer",
       "url": "https://www.bloomandfresh.com/p/jihane-vazoda-pembe-katmerli-laleler"
-    },
-    {
-      "site": "Bloom and Fresh",
-      "name": "Verona Aura",
-      "price": 3299.9,
-      "category": "Karma/Diğer",
-      "url": "https://www.bloomandfresh.com/p/verona-aura"
     },
     {
       "site": "Bloom and Fresh",
