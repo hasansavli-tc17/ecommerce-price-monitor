@@ -1,5 +1,5 @@
 {
-  "date": "2026-03-25T05:44:13.719Z",
+  "date": "2026-03-25T09:52:28.964Z",
   "summary": {
     "total_sites": 3,
     "successful_sites": 3,
@@ -212,7 +212,7 @@
     {
       "site": "Çiçek Sepeti",
       "name": "11'li Kırmızı Gül Çiçek Buketi",
-      "price": 989.99,
+      "price": 969.99,
       "category": "Gül",
       "url": "https://www.ciceksepeti.com/11li-kirmizi-gul-cicek-buketi-at4273-1"
     },
@@ -569,14 +569,14 @@
     {
       "site": "Bloom and Fresh",
       "name": "Birthday Box Black",
-      "price": 1599.9,
+      "price": 1799.9,
       "category": "Karma/Diğer",
       "url": "https://www.bloomandfresh.com/p/birthday-box-black"
     },
     {
       "site": "Bloom and Fresh",
       "name": "Chess & Cheers",
-      "price": 2399.9,
+      "price": 2599.9,
       "category": "Karma/Diğer",
       "url": "https://www.bloomandfresh.com/p/chess-cheers"
     },
@@ -641,7 +641,7 @@
     "by_site": {
       "Çiçek Sepeti": {
         "product_count": 30,
-        "avg_price": "826.49",
+        "avg_price": "825.83",
         "min_price": "439.99",
         "max_price": "1799.00"
       },
@@ -653,7 +653,7 @@
       },
       "Bloom and Fresh": {
         "product_count": 30,
-        "avg_price": "2539.90",
+        "avg_price": "2553.23",
         "min_price": "1099.90",
         "max_price": "5999.90"
       }
@@ -674,14 +674,14 @@
         "prices_by_site": {
           "Çiçek Sepeti": {
             "count": 14,
-            "avg": "990.42"
+            "avg": "988.99"
           },
           "Hızlı Çiçek": {
             "count": 10,
             "avg": "2125.00"
           }
         },
-        "avg_price": "1463.16"
+        "avg_price": "1462.33"
       },
       "Gerbera": {
         "count": 7,
@@ -726,10 +726,10 @@
           },
           "Bloom and Fresh": {
             "count": 28,
-            "avg": "2582.04"
+            "avg": "2596.33"
           }
         },
-        "avg_price": "2608.63"
+        "avg_price": "2618.63"
       },
       "Lale": {
         "count": 3,
