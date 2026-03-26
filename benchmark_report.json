@@ -1,5 +1,5 @@
 {
-  "date": "2026-03-26T05:57:19.315Z",
+  "date": "2026-03-26T09:59:30.779Z",
   "summary": {
     "total_sites": 3,
     "successful_sites": 3,
@@ -428,6 +428,20 @@
     },
     {
       "site": "Bloom and Fresh",
+      "name": "Galaxy of Love",
+      "price": 2799.9,
+      "category": "Karma/Diğer",
+      "url": "https://www.bloomandfresh.com/p/galaxy-of-love"
+    },
+    {
+      "site": "Bloom and Fresh",
+      "name": "Molly",
+      "price": 1699.9,
+      "category": "Karma/Diğer",
+      "url": "https://www.bloomandfresh.com/p/molly"
+    },
+    {
+      "site": "Bloom and Fresh",
       "name": "Mistral",
       "price": 2399.9,
       "category": "Karma/Diğer",
@@ -442,6 +456,13 @@
     },
     {
       "site": "Bloom and Fresh",
+      "name": "Maggie",
+      "price": 2799.9,
+      "category": "Karma/Diğer",
+      "url": "https://www.bloomandfresh.com/p/maggie"
+    },
+    {
+      "site": "Bloom and Fresh",
       "name": "Primavera",
       "price": 2199.9,
       "category": "Karma/Diğer",
@@ -449,17 +470,17 @@
     },
     {
       "site": "Bloom and Fresh",
-      "name": "Chloe",
-      "price": 1999.9,
-      "category": "Karma/Diğer",
-      "url": "https://www.bloomandfresh.com/p/chloe"
-    },
-    {
-      "site": "Bloom and Fresh",
       "name": "Verona Aura",
       "price": 3299.9,
       "category": "Karma/Diğer",
       "url": "https://www.bloomandfresh.com/p/verona-aura"
+    },
+    {
+      "site": "Bloom and Fresh",
+      "name": "Bumblebee Lemon",
+      "price": 2299.9,
+      "category": "Karma/Diğer",
+      "url": "https://www.bloomandfresh.com/p/bumblebee-lemon"
     },
     {
       "site": "Bloom and Fresh",
@@ -481,6 +502,20 @@
       "price": 5299.9,
       "category": "Karma/Diğer",
       "url": "https://www.bloomandfresh.com/p/formidablo-white"
+    },
+    {
+      "site": "Bloom and Fresh",
+      "name": "Golden Succulent",
+      "price": 1299.9,
+      "category": "Karma/Diğer",
+      "url": "https://www.bloomandfresh.com/p/golden-succulent"
+    },
+    {
+      "site": "Bloom and Fresh",
+      "name": "Lily Cubes",
+      "price": 2599.9,
+      "category": "Karma/Diğer",
+      "url": "https://www.bloomandfresh.com/p/lily-cubes"
     },
     {
       "site": "Bloom and Fresh",
@@ -512,17 +547,17 @@
     },
     {
       "site": "Bloom and Fresh",
-      "name": "Dark Sienna Bronze",
-      "price": 1899.9,
-      "category": "Karma/Diğer",
-      "url": "https://www.bloomandfresh.com/p/dark-sienna-bronze"
-    },
-    {
-      "site": "Bloom and Fresh",
       "name": "B&F Macarons (12'li)",
       "price": 1199.9,
       "category": "Karma/Diğer",
       "url": "https://www.bloomandfresh.com/p/12li-makaron"
+    },
+    {
+      "site": "Bloom and Fresh",
+      "name": "Godiva x Labubu Masterpieces Çikolata | Limited Edition (Metal Kutu)",
+      "price": 1299.9,
+      "category": "Karma/Diğer",
+      "url": "https://www.bloomandfresh.com/p/godiva-x-labubu-masterpieces-cikolata-limited-edition-metal-kutu"
     },
     {
       "site": "Bloom and Fresh",
@@ -548,7 +583,7 @@
     {
       "site": "Bloom and Fresh",
       "name": "Divan Selection Box",
-      "price": 3999.9,
+      "price": 3599.9,
       "category": "Karma/Diğer",
       "url": "https://www.bloomandfresh.com/p/divan-selection-box-cikolata"
     },
@@ -600,41 +635,6 @@
       "price": 2299.9,
       "category": "Karma/Diğer",
       "url": "https://www.bloomandfresh.com/p/lego-iconic-sevgili-kus-tweety-412-parca-40824"
-    },
-    {
-      "site": "Bloom and Fresh",
-      "name": "Goldie - 20 ad. Sarı Lale",
-      "price": 1799.9,
-      "category": "Lale",
-      "url": "https://www.bloomandfresh.com/p/goldie-sari-lale-buketi"
-    },
-    {
-      "site": "Bloom and Fresh",
-      "name": "Columbus - 25 ad. Pembe Katmerli Lale",
-      "price": 2099.9,
-      "category": "Lale",
-      "url": "https://www.bloomandfresh.com/p/colombus-katmerli-pembe-lale-buketi"
-    },
-    {
-      "site": "Bloom and Fresh",
-      "name": "Jihane",
-      "price": 1999.9,
-      "category": "Karma/Diğer",
-      "url": "https://www.bloomandfresh.com/p/jihane-vazoda-pembe-katmerli-laleler"
-    },
-    {
-      "site": "Bloom and Fresh",
-      "name": "Teatro Grande",
-      "price": 3999.9,
-      "category": "Karma/Diğer",
-      "url": "https://www.bloomandfresh.com/p/teatro-grande"
-    },
-    {
-      "site": "Bloom and Fresh",
-      "name": "LEGO Art Mona Lisa - 1503 Parça (31213)",
-      "price": 5999.9,
-      "category": "Karma/Diğer",
-      "url": "https://www.bloomandfresh.com/p/lego-art-mona-lisa-1503-parca-31213-"
     }
   ],
   "price_analysis": {
@@ -653,9 +653,9 @@
       },
       "Bloom and Fresh": {
         "product_count": 30,
-        "avg_price": "2553.23",
+        "avg_price": "2373.23",
         "min_price": "1099.90",
-        "max_price": "5999.90"
+        "max_price": "5599.90"
       }
     },
     "by_category": {
@@ -718,32 +718,28 @@
         "avg_price": "1074.00"
       },
       "Karma/Diğer": {
-        "count": 40,
+        "count": 42,
         "prices_by_site": {
           "Hızlı Çiçek": {
             "count": 12,
             "avg": "3154.83"
           },
           "Bloom and Fresh": {
-            "count": 28,
-            "avg": "2596.33"
+            "count": 30,
+            "avg": "2373.23"
           }
         },
-        "avg_price": "2763.88"
+        "avg_price": "2596.55"
       },
       "Lale": {
-        "count": 3,
+        "count": 1,
         "prices_by_site": {
           "Hızlı Çiçek": {
             "count": 1,
             "avg": "1199.00"
-          },
-          "Bloom and Fresh": {
-            "count": 2,
-            "avg": "1949.90"
           }
         },
-        "avg_price": "1699.60"
+        "avg_price": "1199.00"
       },
       "Lilyum": {
         "count": 1,
