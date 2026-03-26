@@ -1,5 +1,5 @@
 {
-  "date": "2026-03-26T09:59:30.779Z",
+  "date": "2026-03-26T13:08:37.683Z",
   "summary": {
     "total_sites": 3,
     "successful_sites": 3,
@@ -239,6 +239,13 @@
     },
     {
       "site": "Hızlı Çiçek",
+      "name": "Beyaz Gerbera Buketi",
+      "price": 599,
+      "category": "Gerbera",
+      "url": "https://hizlicicek.com/urun/beyaz-gerbera-buketi"
+    },
+    {
+      "site": "Hızlı Çiçek",
       "name": "Aynalı Kırmızı Gül Buketi",
       "price": 2999,
       "category": "Gül",
@@ -379,13 +386,6 @@
     },
     {
       "site": "Hızlı Çiçek",
-      "name": "Cheerful Bloom",
-      "price": 859,
-      "category": "Karma/Diğer",
-      "url": "https://hizlicicek.com/urun/cheerful-bloom"
-    },
-    {
-      "site": "Hızlı Çiçek",
       "name": "Kırmızı Gerbera Buketi",
       "price": 599,
       "category": "Gerbera",
@@ -407,6 +407,13 @@
     },
     {
       "site": "Hızlı Çiçek",
+      "name": "Beyaz Gerbera Buketi",
+      "price": 599,
+      "category": "Gerbera",
+      "url": "https://hizlicicek.com/urun/beyaz-gerbera-buketi"
+    },
+    {
+      "site": "Hızlı Çiçek",
       "name": "Aynalı Kırmızı Gül Buketi",
       "price": 2999,
       "category": "Gül",
@@ -418,13 +425,6 @@
       "price": 1379,
       "category": "Gül",
       "url": "https://hizlicicek.com/urun/lux-lila-gul-buketi"
-    },
-    {
-      "site": "Hızlı Çiçek",
-      "name": "Premium 51 Kırmızı Gül",
-      "price": 3299,
-      "category": "Gül",
-      "url": "https://hizlicicek.com/urun/premium-51-kirmizi-gul"
     },
     {
       "site": "Bloom and Fresh",
@@ -467,6 +467,13 @@
       "price": 2199.9,
       "category": "Karma/Diğer",
       "url": "https://www.bloomandfresh.com/p/primavera"
+    },
+    {
+      "site": "Bloom and Fresh",
+      "name": "Chloe",
+      "price": 1999.9,
+      "category": "Karma/Diğer",
+      "url": "https://www.bloomandfresh.com/p/chloe"
     },
     {
       "site": "Bloom and Fresh",
@@ -628,13 +635,6 @@
       "price": 1999.9,
       "category": "Karma/Diğer",
       "url": "https://www.bloomandfresh.com/p/out-of-the-blue-kurukafa-masa-organiser-ve-gozluk-tutucu"
-    },
-    {
-      "site": "Bloom and Fresh",
-      "name": "LEGO Iconic Sevgili Kuş Tweety - 412 Parça (40824)",
-      "price": 2299.9,
-      "category": "Karma/Diğer",
-      "url": "https://www.bloomandfresh.com/p/lego-iconic-sevgili-kus-tweety-412-parca-40824"
     }
   ],
   "price_analysis": {
@@ -647,13 +647,13 @@
       },
       "Hızlı Çiçek": {
         "product_count": 30,
-        "avg_price": "2276.67",
+        "avg_price": "2178.00",
         "min_price": "599.00",
         "max_price": "5779.00"
       },
       "Bloom and Fresh": {
         "product_count": 30,
-        "avg_price": "2373.23",
+        "avg_price": "2363.23",
         "min_price": "1099.90",
         "max_price": "5599.90"
       }
@@ -670,32 +670,32 @@
         "avg_price": "724.87"
       },
       "Gül": {
-        "count": 24,
+        "count": 23,
         "prices_by_site": {
           "Çiçek Sepeti": {
             "count": 14,
             "avg": "988.99"
           },
           "Hızlı Çiçek": {
-            "count": 10,
-            "avg": "2125.00"
+            "count": 9,
+            "avg": "1994.56"
           }
         },
-        "avg_price": "1462.33"
+        "avg_price": "1382.47"
       },
       "Gerbera": {
-        "count": 7,
+        "count": 9,
         "prices_by_site": {
           "Çiçek Sepeti": {
             "count": 5,
             "avg": "655.99"
           },
           "Hızlı Çiçek": {
-            "count": 2,
+            "count": 4,
             "avg": "599.00"
           }
         },
-        "avg_price": "639.71"
+        "avg_price": "630.66"
       },
       "Karanfil": {
         "count": 3,
@@ -718,18 +718,18 @@
         "avg_price": "1074.00"
       },
       "Karma/Diğer": {
-        "count": 42,
+        "count": 41,
         "prices_by_site": {
           "Hızlı Çiçek": {
-            "count": 12,
-            "avg": "3154.83"
+            "count": 11,
+            "avg": "3363.55"
           },
           "Bloom and Fresh": {
             "count": 30,
-            "avg": "2373.23"
+            "avg": "2363.23"
           }
         },
-        "avg_price": "2596.55"
+        "avg_price": "2631.61"
       },
       "Lale": {
         "count": 1,
