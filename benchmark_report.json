@@ -1,18 +1,11 @@
 {
-  "date": "2026-03-27T05:57:10.419Z",
+  "date": "2026-03-27T09:53:18.028Z",
   "summary": {
     "total_sites": 3,
     "successful_sites": 3,
     "total_products": 90
   },
   "all_products": [
-    {
-      "site": "Çiçek Sepeti",
-      "name": "Kelebek Bukette Pembe Papatyalar ve Okaliptus",
-      "price": 729.99,
-      "category": "Papatya",
-      "url": "https://www.ciceksepeti.com/kelebek-bukette-pembe-papatyalar-ve-okaliptus-at5826"
-    },
     {
       "site": "Çiçek Sepeti",
       "name": "11'li Kırmızı Gül Çiçek Buketi",
@@ -217,6 +210,13 @@
       "url": "https://www.ciceksepeti.com/askin-adi-5-beyaz-gul-at3600"
     },
     {
+      "site": "Çiçek Sepeti",
+      "name": "Beyaz Karanfil Çiçek Buketi",
+      "price": 679.99,
+      "category": "Karanfil",
+      "url": "https://www.ciceksepeti.com/beyaz-karanfil-cicek-buketi-at4263"
+    },
+    {
       "site": "Hızlı Çiçek",
       "name": "Kırmızı Gerbera Buketi",
       "price": 599,
@@ -295,10 +295,10 @@
     },
     {
       "site": "Hızlı Çiçek",
-      "name": "Honey Bloom Bag",
+      "name": "Honey Bloom Hasır Sepet",
       "price": 4399,
       "category": "Karma/Diğer",
-      "url": "https://hizlicicek.com/urun/honey-bloom-bag"
+      "url": "https://hizlicicek.com/urun/honey-bloom-hasir-sepet"
     },
     {
       "site": "Hızlı Çiçek",
@@ -309,10 +309,10 @@
     },
     {
       "site": "Hızlı Çiçek",
-      "name": "Sunny Bloom Bag",
+      "name": "Sunny Bloom Hasır Sepet",
       "price": 5399,
       "category": "Karma/Diğer",
-      "url": "https://hizlicicek.com/urun/sunny-bloom-bag"
+      "url": "https://hizlicicek.com/urun/sunny-bloom-hasir-sepet"
     },
     {
       "site": "Hızlı Çiçek",
@@ -541,7 +541,7 @@
     {
       "site": "Bloom and Fresh",
       "name": "Pinky White",
-      "price": 1299.9,
+      "price": 1459.9,
       "category": "Karma/Diğer",
       "url": "https://www.bloomandfresh.com/p/pinky-white"
     },
@@ -641,7 +641,7 @@
     "by_site": {
       "Çiçek Sepeti": {
         "product_count": 30,
-        "avg_price": "809.89",
+        "avg_price": "808.22",
         "min_price": "439.99",
         "max_price": "1799.00"
       },
@@ -653,22 +653,12 @@
       },
       "Bloom and Fresh": {
         "product_count": 30,
-        "avg_price": "2363.23",
+        "avg_price": "2368.57",
         "min_price": "1099.90",
         "max_price": "5599.90"
       }
     },
     "by_category": {
-      "Papatya": {
-        "count": 8,
-        "prices_by_site": {
-          "Çiçek Sepeti": {
-            "count": 8,
-            "avg": "724.87"
-          }
-        },
-        "avg_price": "724.87"
-      },
       "Gül": {
         "count": 23,
         "prices_by_site": {
@@ -697,15 +687,25 @@
         },
         "avg_price": "639.55"
       },
-      "Karanfil": {
-        "count": 3,
+      "Papatya": {
+        "count": 7,
         "prices_by_site": {
           "Çiçek Sepeti": {
-            "count": 3,
-            "avg": "619.99"
+            "count": 7,
+            "avg": "724.14"
           }
         },
-        "avg_price": "619.99"
+        "avg_price": "724.14"
+      },
+      "Karanfil": {
+        "count": 4,
+        "prices_by_site": {
+          "Çiçek Sepeti": {
+            "count": 4,
+            "avg": "634.99"
+          }
+        },
+        "avg_price": "634.99"
       },
       "Orkide": {
         "count": 4,
@@ -726,10 +726,10 @@
           },
           "Bloom and Fresh": {
             "count": 30,
-            "avg": "2363.23"
+            "avg": "2368.57"
           }
         },
-        "avg_price": "2631.61"
+        "avg_price": "2635.51"
       },
       "Lale": {
         "count": 1,
