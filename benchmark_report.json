@@ -1,5 +1,5 @@
 {
-  "date": "2026-03-28T09:34:50.588Z",
+  "date": "2026-03-28T12:49:42.522Z",
   "summary": {
     "total_sites": 3,
     "successful_sites": 3,
@@ -526,13 +526,6 @@
     },
     {
       "site": "Bloom and Fresh",
-      "name": "Bonsai Obaku",
-      "price": 2399.9,
-      "category": "Karma/Diğer",
-      "url": "https://www.bloomandfresh.com/p/ficus-ginseng-bonsai-agaci-obaku"
-    },
-    {
-      "site": "Bloom and Fresh",
       "name": "Lily Mesh",
       "price": 2399.9,
       "category": "Karma/Diğer",
@@ -635,6 +628,13 @@
       "price": 1999.9,
       "category": "Karma/Diğer",
       "url": "https://www.bloomandfresh.com/p/out-of-the-blue-kurukafa-masa-organiser-ve-gozluk-tutucu"
+    },
+    {
+      "site": "Bloom and Fresh",
+      "name": "LEGO Iconic Sevgili Kuş Tweety - 412 Parça (40824)",
+      "price": 2299.9,
+      "category": "Karma/Diğer",
+      "url": "https://www.bloomandfresh.com/p/lego-iconic-sevgili-kus-tweety-412-parca-40824"
     }
   ],
   "price_analysis": {
@@ -653,7 +653,7 @@
       },
       "Bloom and Fresh": {
         "product_count": 30,
-        "avg_price": "2368.57",
+        "avg_price": "2365.23",
         "min_price": "1099.90",
         "max_price": "5599.90"
       }
@@ -726,10 +726,10 @@
           },
           "Bloom and Fresh": {
             "count": 30,
-            "avg": "2368.57"
+            "avg": "2365.23"
           }
         },
-        "avg_price": "2635.51"
+        "avg_price": "2633.07"
       },
       "Lale": {
         "count": 1,
