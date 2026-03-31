@@ -1,5 +1,5 @@
 {
-  "date": "2026-03-31T06:01:54.719Z",
+  "date": "2026-03-31T10:04:44.951Z",
   "summary": {
     "total_sites": 3,
     "successful_sites": 3,
@@ -107,7 +107,7 @@
     {
       "site": "Çiçek Sepeti",
       "name": "Lila Bukette Pembe Gerberalar ve Hüsnüyusuflar",
-      "price": 1199,
+      "price": 639.99,
       "category": "Gerbera",
       "url": "https://www.ciceksepeti.com/lila-bukette-pembe-gerberalar-ve-husnuyusuflar-at5450"
     },
@@ -218,6 +218,13 @@
     },
     {
       "site": "Hızlı Çiçek",
+      "name": "Red Dream Kırmızı Gül Buketi",
+      "price": 1999,
+      "category": "Gül",
+      "url": "https://hizlicicek.com/urun/red-dream-kirmizi-gul-buketi"
+    },
+    {
+      "site": "Hızlı Çiçek",
       "name": "Lux Lila Gül Buketi",
       "price": 1199,
       "category": "Gül",
@@ -246,6 +253,13 @@
     },
     {
       "site": "Hızlı Çiçek",
+      "name": "Natural Ayçiçeği Buketi",
+      "price": 799,
+      "category": "Karma/Diğer",
+      "url": "https://hizlicicek.com/urun/natural-aycicegi-buketi"
+    },
+    {
+      "site": "Hızlı Çiçek",
       "name": "Double Sweet Purple Orkide",
       "price": 1199,
       "category": "Orkide",
@@ -268,7 +282,7 @@
     {
       "site": "Hızlı Çiçek",
       "name": "Love Kırmızı Gül Buketi",
-      "price": 1099,
+      "price": 899,
       "category": "Gül",
       "url": "https://hizlicicek.com/urun/love-kirmizi-gul-buketi"
     },
@@ -372,17 +386,10 @@
     },
     {
       "site": "Hızlı Çiçek",
-      "name": "Cheerful Bloom",
-      "price": 859,
-      "category": "Karma/Diğer",
-      "url": "https://hizlicicek.com/urun/cheerful-bloom"
-    },
-    {
-      "site": "Hızlı Çiçek",
-      "name": "White Tulip Muse",
-      "price": 2979,
-      "category": "Lale",
-      "url": "https://hizlicicek.com/urun/white-tulip-muse"
+      "name": "Red Dream Kırmızı Gül Buketi",
+      "price": 1999,
+      "category": "Gül",
+      "url": "https://hizlicicek.com/urun/red-dream-kirmizi-gul-buketi"
     },
     {
       "site": "Hızlı Çiçek",
@@ -414,17 +421,10 @@
     },
     {
       "site": "Hızlı Çiçek",
-      "name": "Double Sweet Purple Orkide",
-      "price": 1199,
-      "category": "Orkide",
-      "url": "https://hizlicicek.com/urun/double-sweet-purple-orkide"
-    },
-    {
-      "site": "Hızlı Çiçek",
-      "name": "Beyaz Gerbera Buketi",
-      "price": 599,
-      "category": "Gerbera",
-      "url": "https://hizlicicek.com/urun/beyaz-gerbera-buketi"
+      "name": "Natural Ayçiçeği Buketi",
+      "price": 799,
+      "category": "Karma/Diğer",
+      "url": "https://hizlicicek.com/urun/natural-aycicegi-buketi"
     },
     {
       "site": "Bloom and Fresh",
@@ -477,13 +477,6 @@
     },
     {
       "site": "Bloom and Fresh",
-      "name": "Bumblebee Lemon",
-      "price": 2299.9,
-      "category": "Karma/Diğer",
-      "url": ""
-    },
-    {
-      "site": "Bloom and Fresh",
       "name": "Coral Glam",
       "price": 2499.9,
       "category": "Karma/Diğer",
@@ -492,6 +485,27 @@
     {
       "site": "Bloom and Fresh",
       "name": "Gina Scandic",
+      "price": 2499.9,
+      "category": "Karma/Diğer",
+      "url": ""
+    },
+    {
+      "site": "Bloom and Fresh",
+      "name": "Aria Gold",
+      "price": 2399.9,
+      "category": "Karma/Diğer",
+      "url": ""
+    },
+    {
+      "site": "Bloom and Fresh",
+      "name": "Avelyn",
+      "price": 2299.9,
+      "category": "Karma/Diğer",
+      "url": ""
+    },
+    {
+      "site": "Bloom and Fresh",
+      "name": "Wonder Traverten",
       "price": 2499.9,
       "category": "Karma/Diğer",
       "url": ""
@@ -526,8 +540,8 @@
     },
     {
       "site": "Bloom and Fresh",
-      "name": "Pinky White",
-      "price": 1459.9,
+      "name": "Bloom High",
+      "price": 1599.9,
       "category": "Karma/Diğer",
       "url": ""
     },
@@ -621,57 +635,43 @@
       "price": 1999.9,
       "category": "Karma/Diğer",
       "url": ""
-    },
-    {
-      "site": "Bloom and Fresh",
-      "name": "LEGO Iconic Sevgili Kuş Tweety - 412 Parça (40824)",
-      "price": 2299.9,
-      "category": "Karma/Diğer",
-      "url": ""
-    },
-    {
-      "site": "Bloom and Fresh",
-      "name": "The Duchess",
-      "price": 1799.9,
-      "category": "Karma/Diğer",
-      "url": ""
     }
   ],
   "price_analysis": {
     "by_site": {
       "Çiçek Sepeti": {
         "product_count": 30,
-        "avg_price": "888.43",
+        "avg_price": "869.79",
         "min_price": "489.99",
         "max_price": "1649.00"
       },
       "Hızlı Çiçek": {
         "product_count": 30,
-        "avg_price": "1928.00",
+        "avg_price": "1920.00",
         "min_price": "599.00",
         "max_price": "5599.00"
       },
       "Bloom and Fresh": {
         "product_count": 30,
-        "avg_price": "2298.57",
+        "avg_price": "2329.90",
         "min_price": "1099.90",
         "max_price": "5599.90"
       }
     },
     "by_category": {
       "Gül": {
-        "count": 24,
+        "count": 26,
         "prices_by_site": {
           "Çiçek Sepeti": {
             "count": 15,
             "avg": "984.93"
           },
           "Hızlı Çiçek": {
-            "count": 9,
-            "avg": "1821.22"
+            "count": 11,
+            "avg": "1835.36"
           }
         },
-        "avg_price": "1298.54"
+        "avg_price": "1344.73"
       },
       "Karanfil": {
         "count": 4,
@@ -694,56 +694,56 @@
         "avg_price": "877.49"
       },
       "Gerbera": {
-        "count": 8,
+        "count": 7,
         "prices_by_site": {
           "Çiçek Sepeti": {
             "count": 4,
-            "avg": "767.24"
+            "avg": "627.49"
           },
           "Hızlı Çiçek": {
-            "count": 4,
+            "count": 3,
             "avg": "599.00"
           }
         },
-        "avg_price": "683.12"
+        "avg_price": "615.28"
       },
       "Karma/Diğer": {
-        "count": 43,
+        "count": 44,
         "prices_by_site": {
           "Çiçek Sepeti": {
             "count": 3,
             "avg": "719.99"
           },
           "Hızlı Çiçek": {
-            "count": 10,
-            "avg": "2808.00"
+            "count": 11,
+            "avg": "2619.91"
           },
           "Bloom and Fresh": {
             "count": 30,
-            "avg": "2298.57"
+            "avg": "2329.90"
           }
         },
-        "avg_price": "2306.91"
+        "avg_price": "2292.64"
       },
       "Orkide": {
-        "count": 4,
+        "count": 3,
         "prices_by_site": {
           "Hızlı Çiçek": {
-            "count": 4,
-            "avg": "1074.00"
+            "count": 3,
+            "avg": "1032.33"
           }
         },
-        "avg_price": "1074.00"
+        "avg_price": "1032.33"
       },
       "Lale": {
-        "count": 2,
+        "count": 1,
         "prices_by_site": {
           "Hızlı Çiçek": {
-            "count": 2,
-            "avg": "2089.00"
+            "count": 1,
+            "avg": "1199.00"
           }
         },
-        "avg_price": "2089.00"
+        "avg_price": "1199.00"
       },
       "Lilyum": {
         "count": 1,
