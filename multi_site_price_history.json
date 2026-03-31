@@ -1,221 +1,221 @@
 {
-  "last_update": "2026-03-30T16:05:06.622Z",
+  "last_update": "2026-03-31T06:01:54.719Z",
   "sites": {
     "ciceksepeti": {
       "name": "Çiçek Sepeti",
       "products": {
-        "ciceksepeti_siyah-buket-kagidinda-kirmizi-gerbera-ve-okaliptus-at5698": {
-          "name": "Siyah Buket Kağıdında Kırmızı Gerbera ve Okaliptus",
-          "price": 519.99,
-          "url": "https://www.ciceksepeti.com/siyah-buket-kagidinda-kirmizi-gerbera-ve-okaliptus-at5698",
-          "category": "Gerbera",
-          "timestamp": "2026-03-30T16:04:23.000Z"
-        },
-        "ciceksepeti_mor-bukette-pembe-lilyumlar-ve-papatyalar-vbt1604": {
-          "name": "Mor Bukette Pembe Lilyumlar ve Papatyalar",
-          "price": 1099,
-          "url": "https://www.ciceksepeti.com/mor-bukette-pembe-lilyumlar-ve-papatyalar-vbt1604",
-          "category": "Papatya",
-          "timestamp": "2026-03-30T16:04:23.000Z"
-        },
-        "ciceksepeti_kahverengi-ambalaj-kagidinda-beyaz-papatya-buketi-kcm386637": {
-          "name": "Kahverengi Ambalaj Kağıdında Beyaz Papatya Buketi",
-          "price": 700,
-          "url": "https://www.ciceksepeti.com/kahverengi-ambalaj-kagidinda-beyaz-papatya-buketi-kcm386637",
-          "category": "Papatya",
-          "timestamp": "2026-03-30T16:04:23.000Z"
+        "ciceksepeti_biricik-askima-15-kirmizi-gul-buketi-at4034": {
+          "name": "15'li Kırmızı Gül Buketi",
+          "price": 1249,
+          "url": "https://www.ciceksepeti.com/biricik-askima-15-kirmizi-gul-buketi-at4034",
+          "category": "Gül",
+          "timestamp": "2026-03-31T06:01:11.130Z"
         },
         "ciceksepeti_lila-pembe-bukette-kirmizi-karanfiller-at5456": {
           "name": "Lila Pembe Bukette Kırmızı Karanfiller",
           "price": 739.99,
           "url": "https://www.ciceksepeti.com/lila-pembe-bukette-kirmizi-karanfiller-at5456",
           "category": "Karanfil",
-          "timestamp": "2026-03-30T16:04:23.000Z"
+          "timestamp": "2026-03-31T06:01:11.130Z"
         },
-        "ciceksepeti_koyu-somon-bukette-10-pembe-gul-vbt1486": {
-          "name": "Somon Buket Kağıdında 10'lu Pembe Gül Buketi",
-          "price": 1149,
-          "url": "https://www.ciceksepeti.com/koyu-somon-bukette-10-pembe-gul-vbt1486",
-          "category": "Gül",
-          "timestamp": "2026-03-30T16:04:23.000Z"
-        },
-        "ciceksepeti_askin-adi-5-beyaz-gul-at3600": {
-          "name": "5'li Beyaz Gül Buketi",
-          "price": 749.99,
-          "url": "https://www.ciceksepeti.com/askin-adi-5-beyaz-gul-at3600",
-          "category": "Gül",
-          "timestamp": "2026-03-30T16:04:23.000Z"
+        "ciceksepeti_kisiye-ozel-fotograf-pankartli-bukette-papatyalar-at6035": {
+          "name": "Kişiye Özel Fotoğraf Pankartlı Bukette Papatyalar",
+          "price": 779.99,
+          "url": "https://www.ciceksepeti.com/kisiye-ozel-fotograf-pankartli-bukette-papatyalar-at6035",
+          "category": "Papatya",
+          "timestamp": "2026-03-31T06:01:11.130Z"
         },
         "ciceksepeti_kisiye-ozel-pankartli-kirmizi-gerbera-buketi-at6036": {
           "name": "Kişiye Özel Pankartlı Kırmızı Gerbera Buketi",
           "price": 599.99,
           "url": "https://www.ciceksepeti.com/kisiye-ozel-pankartli-kirmizi-gerbera-buketi-at6036",
           "category": "Gerbera",
-          "timestamp": "2026-03-30T16:04:23.000Z"
+          "timestamp": "2026-03-31T06:01:11.130Z"
         },
-        "ciceksepeti_kelebek-bukette-kirmizi-guller-ve-beyaz-papatyalar-at5824": {
-          "name": "Kelebek Bukette Kırmızı Güller ve Beyaz Papatyalar",
-          "price": 829.99,
-          "url": "https://www.ciceksepeti.com/kelebek-bukette-kirmizi-guller-ve-beyaz-papatyalar-at5824",
-          "category": "Gül",
-          "timestamp": "2026-03-30T16:04:23.000Z"
+        "ciceksepeti_kahverengi-ambalaj-kagidinda-beyaz-papatya-buketi-kcm386637": {
+          "name": "Kahverengi Ambalaj Kağıdında Beyaz Papatya Buketi",
+          "price": 700,
+          "url": "https://www.ciceksepeti.com/kahverengi-ambalaj-kagidinda-beyaz-papatya-buketi-kcm386637",
+          "category": "Papatya",
+          "timestamp": "2026-03-31T06:01:11.130Z"
         },
-        "ciceksepeti_beyaz-gul-papatya-ve-ayicik-anahtarlik-buketi-vbt1234": {
-          "name": "Beyaz Gül, Papatya ve Ayıcık Anahtarlık Buketi",
-          "price": 1099,
-          "url": "https://www.ciceksepeti.com/beyaz-gul-papatya-ve-ayicik-anahtarlik-buketi-vbt1234",
+        "ciceksepeti_koyu-somon-bukette-10-pembe-gul-vbt1486": {
+          "name": "Somon Buket Kağıdında 10'lu Pembe Gül Buketi",
+          "price": 1149,
+          "url": "https://www.ciceksepeti.com/koyu-somon-bukette-10-pembe-gul-vbt1486",
           "category": "Gül",
-          "timestamp": "2026-03-30T16:04:23.000Z"
+          "timestamp": "2026-03-31T06:01:11.130Z"
         },
         "ciceksepeti_pembe-gazete-bukette-husnuyusuf-cicekleri-at5659": {
           "name": "Tasarım Gazete Kağıtta Hüsnüyusuf Buketi",
           "price": 489.99,
           "url": "https://www.ciceksepeti.com/pembe-gazete-bukette-husnuyusuf-cicekleri-at5659",
           "category": "Karma/Diğer",
-          "timestamp": "2026-03-30T16:04:23.000Z"
+          "timestamp": "2026-03-31T06:01:11.130Z"
         },
         "ciceksepeti_beyaz-karanfil-cicek-buketi-at4263": {
           "name": "Beyaz Karanfil Çiçek Buketi",
           "price": 839.99,
           "url": "https://www.ciceksepeti.com/beyaz-karanfil-cicek-buketi-at4263",
           "category": "Karanfil",
-          "timestamp": "2026-03-30T16:04:23.000Z"
+          "timestamp": "2026-03-31T06:01:11.130Z"
         },
-        "ciceksepeti_lila-bukette-pembe-gerberalar-ve-husnuyusuflar-at5450": {
-          "name": "Lila Bukette Pembe Gerberalar ve Hüsnüyusuflar",
-          "price": 1199,
-          "url": "https://www.ciceksepeti.com/lila-bukette-pembe-gerberalar-ve-husnuyusuflar-at5450",
-          "category": "Gerbera",
-          "timestamp": "2026-03-30T16:04:23.000Z"
-        },
-        "ciceksepeti_kisiye-ozel-fotograf-pankartli-pembe-gul-buketi-vbt1563": {
-          "name": "Kişiye Özel Fotoğraf Pankartlı Pembe Gül Buketi",
-          "price": 839.99,
-          "url": "https://www.ciceksepeti.com/kisiye-ozel-fotograf-pankartli-pembe-gul-buketi-vbt1563",
+        "ciceksepeti_kelebek-bukette-kirmizi-guller-ve-beyaz-papatyalar-at5824": {
+          "name": "Kelebek Bukette Kırmızı Güller ve Beyaz Papatyalar",
+          "price": 829.99,
+          "url": "https://www.ciceksepeti.com/kelebek-bukette-kirmizi-guller-ve-beyaz-papatyalar-at5824",
           "category": "Gül",
-          "timestamp": "2026-03-30T16:04:23.000Z"
+          "timestamp": "2026-03-31T06:01:11.130Z"
         },
         "ciceksepeti_pembe-bukette-husnuyusuf-cicekleri-at5695": {
           "name": "Pembe Bukette Hüsnüyusuf Çiçekleri",
           "price": 789.99,
           "url": "https://www.ciceksepeti.com/pembe-bukette-husnuyusuf-cicekleri-at5695",
           "category": "Karma/Diğer",
-          "timestamp": "2026-03-30T16:04:23.000Z"
+          "timestamp": "2026-03-31T06:01:11.130Z"
         },
-        "ciceksepeti_papatya-buketi-ve-iyi-ki-dogdun-gurme-lezzetler-atb743": {
-          "name": "Papatya Buketi ve İyi Ki Doğdun Gurme Lezzetler",
-          "price": 1259.98,
-          "url": "https://www.ciceksepeti.com/papatya-buketi-ve-iyi-ki-dogdun-gurme-lezzetler-atb743",
-          "category": "Papatya",
-          "timestamp": "2026-03-30T16:04:23.000Z"
+        "ciceksepeti_askin-adi-5-beyaz-gul-at3600": {
+          "name": "5'li Beyaz Gül Buketi",
+          "price": 749.99,
+          "url": "https://www.ciceksepeti.com/askin-adi-5-beyaz-gul-at3600",
+          "category": "Gül",
+          "timestamp": "2026-03-31T06:01:11.130Z"
+        },
+        "ciceksepeti_beyaz-gul-papatya-ve-ayicik-anahtarlik-buketi-vbt1234": {
+          "name": "Beyaz Gül, Papatya ve Ayıcık Anahtarlık Buketi",
+          "price": 1099,
+          "url": "https://www.ciceksepeti.com/beyaz-gul-papatya-ve-ayicik-anahtarlik-buketi-vbt1234",
+          "category": "Gül",
+          "timestamp": "2026-03-31T06:01:11.130Z"
         },
         "ciceksepeti_sari-bukette-beyaz-pembe-gerberalar-ve-lila-guller-vbt1366": {
           "name": "Sarı Bukette Beyaz Pembe Gerberalar ve Lila Güller",
           "price": 819.99,
           "url": "https://www.ciceksepeti.com/sari-bukette-beyaz-pembe-gerberalar-ve-lila-guller-vbt1366",
           "category": "Gül",
-          "timestamp": "2026-03-30T16:04:23.000Z"
+          "timestamp": "2026-03-31T06:01:11.130Z"
+        },
+        "ciceksepeti_kisiye-ozel-fotograf-pankartli-pembe-gul-buketi-vbt1563": {
+          "name": "Kişiye Özel Fotoğraf Pankartlı Pembe Gül Buketi",
+          "price": 839.99,
+          "url": "https://www.ciceksepeti.com/kisiye-ozel-fotograf-pankartli-pembe-gul-buketi-vbt1563",
+          "category": "Gül",
+          "timestamp": "2026-03-31T06:01:11.130Z"
+        },
+        "ciceksepeti_lila-bukette-pembe-gerberalar-ve-husnuyusuflar-at5450": {
+          "name": "Lila Bukette Pembe Gerberalar ve Hüsnüyusuflar",
+          "price": 1199,
+          "url": "https://www.ciceksepeti.com/lila-bukette-pembe-gerberalar-ve-husnuyusuflar-at5450",
+          "category": "Gerbera",
+          "timestamp": "2026-03-31T06:01:11.130Z"
+        },
+        "ciceksepeti_papatya-buketi-ve-iyi-ki-dogdun-gurme-lezzetler-atb743": {
+          "name": "Papatya Buketi ve İyi Ki Doğdun Gurme Lezzetler",
+          "price": 1259.98,
+          "url": "https://www.ciceksepeti.com/papatya-buketi-ve-iyi-ki-dogdun-gurme-lezzetler-atb743",
+          "category": "Papatya",
+          "timestamp": "2026-03-31T06:01:11.130Z"
         },
         "ciceksepeti_krem-pudra-bukette-pembe-ve-beyaz-karanfiller-at5772": {
           "name": "Krem Pudra Bukette Pembe ve Beyaz Karanfiller",
           "price": 599.99,
           "url": "https://www.ciceksepeti.com/krem-pudra-bukette-pembe-ve-beyaz-karanfiller-at5772",
           "category": "Karanfil",
-          "timestamp": "2026-03-30T16:04:23.000Z"
-        },
-        "ciceksepeti_kirmizi-gerbara-buketi-ve-yesil-gurme-lezzetler-atb709": {
-          "name": "Kırmızı Gerbara Buketi ve Yeşil Gurme Lezzetler",
-          "price": 879.98,
-          "url": "https://www.ciceksepeti.com/kirmizi-gerbara-buketi-ve-yesil-gurme-lezzetler-atb709",
-          "category": "Karma/Diğer",
-          "timestamp": "2026-03-30T16:04:23.000Z"
-        },
-        "ciceksepeti_lila-pembe-bukette-9-lu-pembe-gul-vbt1550": {
-          "name": "Lila Pembe Bukette 9'lu Pembe Gül",
-          "price": 1049,
-          "url": "https://www.ciceksepeti.com/lila-pembe-bukette-9-lu-pembe-gul-vbt1550",
-          "category": "Gül",
-          "timestamp": "2026-03-30T16:04:23.000Z"
+          "timestamp": "2026-03-31T06:01:11.130Z"
         },
         "ciceksepeti_lila-ve-canli-pembe-bukette-renkli-karanfiller-at5471": {
           "name": "Lila ve Canlı Pembe Bukette Renkli Karanfiller",
           "price": 959.99,
           "url": "https://www.ciceksepeti.com/lila-ve-canli-pembe-bukette-renkli-karanfiller-at5471",
           "category": "Karanfil",
-          "timestamp": "2026-03-30T16:04:23.000Z"
-        },
-        "ciceksepeti_kelebek-bukette-pembe-gerbera-ve-beyaz-karanfiller-at5823": {
-          "name": "Kelebek Bukette Pembe Gerbera ve Beyaz Karanfiller",
-          "price": 649.99,
-          "url": "https://www.ciceksepeti.com/kelebek-bukette-pembe-gerbera-ve-beyaz-karanfiller-at5823",
-          "category": "Gerbera",
-          "timestamp": "2026-03-30T16:04:23.000Z"
-        },
-        "ciceksepeti_siyah-bukette-kirmizi-gul-ve-kirmizi-craspedia-at5765": {
-          "name": "Siyah Bukette Kırmızı Tek Gül ve Kırmızı Craspedia",
-          "price": 499.99,
-          "url": "https://www.ciceksepeti.com/siyah-bukette-kirmizi-gul-ve-kirmizi-craspedia-at5765",
-          "category": "Gül",
-          "timestamp": "2026-03-30T16:04:23.000Z"
-        },
-        "ciceksepeti_mor-bukette-pembe-lilyum-beyaz-gul-ve-papatyalar-vbt1602": {
-          "name": "Mor Bukette Pembe Lilyum, Beyaz Gül ve Papatyalar",
-          "price": 1199,
-          "url": "https://www.ciceksepeti.com/mor-bukette-pembe-lilyum-beyaz-gul-ve-papatyalar-vbt1602",
-          "category": "Gül",
-          "timestamp": "2026-03-30T16:04:23.000Z"
-        },
-        "ciceksepeti_kelebek-bukette-kirmizi-gerberalar-ve-okaliptus-at5821": {
-          "name": "Kelebek Bukette Kırmızı Gerberalar ve Okaliptus",
-          "price": 619.99,
-          "url": "https://www.ciceksepeti.com/kelebek-bukette-kirmizi-gerberalar-ve-okaliptus-at5821",
-          "category": "Gerbera",
-          "timestamp": "2026-03-30T16:04:23.000Z"
+          "timestamp": "2026-03-31T06:01:11.130Z"
         },
         "ciceksepeti_lila-bukette-3-lila-gul-ve-pembe-beyaz-papatyalar-vbt1623": {
           "name": "Lila Bukette 3 Lila Gül ve Pembe Beyaz Papatyalar",
           "price": 959.99,
           "url": "https://www.ciceksepeti.com/lila-bukette-3-lila-gul-ve-pembe-beyaz-papatyalar-vbt1623",
           "category": "Gül",
-          "timestamp": "2026-03-30T16:04:23.000Z"
+          "timestamp": "2026-03-31T06:01:11.130Z"
+        },
+        "ciceksepeti_kelebek-bukette-kirmizi-gerberalar-ve-okaliptus-at5821": {
+          "name": "Kelebek Bukette Kırmızı Gerberalar ve Okaliptus",
+          "price": 619.99,
+          "url": "https://www.ciceksepeti.com/kelebek-bukette-kirmizi-gerberalar-ve-okaliptus-at5821",
+          "category": "Gerbera",
+          "timestamp": "2026-03-31T06:01:11.130Z"
         },
         "ciceksepeti_kelebek-bukette-pembe-papatyalar-ve-husnuyusuf-vbt1317": {
           "name": "Kelebek Bukette Pembe Papatyalar ve Hüsnüyusuf",
           "price": 769.99,
           "url": "https://www.ciceksepeti.com/kelebek-bukette-pembe-papatyalar-ve-husnuyusuf-vbt1317",
           "category": "Papatya",
-          "timestamp": "2026-03-30T16:04:23.000Z"
+          "timestamp": "2026-03-31T06:01:11.130Z"
         },
-        "ciceksepeti_beyaz-gul-buketi-ve-yesil-kutuda-gurme-lezzetler-atb708": {
-          "name": "Beyaz Gül Buketi ve Yeşil Kutuda Gurme Lezzetler",
-          "price": 1309.98,
-          "url": "https://www.ciceksepeti.com/beyaz-gul-buketi-ve-yesil-kutuda-gurme-lezzetler-atb708",
+        "ciceksepeti_kirmizi-gerbara-buketi-ve-yesil-gurme-lezzetler-atb709": {
+          "name": "Kırmızı Gerbara Buketi ve Yeşil Gurme Lezzetler",
+          "price": 879.98,
+          "url": "https://www.ciceksepeti.com/kirmizi-gerbara-buketi-ve-yesil-gurme-lezzetler-atb709",
+          "category": "Karma/Diğer",
+          "timestamp": "2026-03-31T06:01:11.130Z"
+        },
+        "ciceksepeti_lila-pembe-bukette-9-lu-pembe-gul-vbt1550": {
+          "name": "Lila Pembe Bukette 9'lu Pembe Gül",
+          "price": 1049,
+          "url": "https://www.ciceksepeti.com/lila-pembe-bukette-9-lu-pembe-gul-vbt1550",
           "category": "Gül",
-          "timestamp": "2026-03-30T16:04:23.000Z"
+          "timestamp": "2026-03-31T06:01:11.130Z"
+        },
+        "ciceksepeti_kelebek-bukette-pembe-gerbera-ve-beyaz-karanfiller-at5823": {
+          "name": "Kelebek Bukette Pembe Gerbera ve Beyaz Karanfiller",
+          "price": 649.99,
+          "url": "https://www.ciceksepeti.com/kelebek-bukette-pembe-gerbera-ve-beyaz-karanfiller-at5823",
+          "category": "Gerbera",
+          "timestamp": "2026-03-31T06:01:11.130Z"
+        },
+        "ciceksepeti_mor-bukette-pembe-lilyum-beyaz-gul-ve-papatyalar-vbt1602": {
+          "name": "Mor Bukette Pembe Lilyum, Beyaz Gül ve Papatyalar",
+          "price": 1199,
+          "url": "https://www.ciceksepeti.com/mor-bukette-pembe-lilyum-beyaz-gul-ve-papatyalar-vbt1602",
+          "category": "Gül",
+          "timestamp": "2026-03-31T06:01:11.130Z"
+        },
+        "ciceksepeti_kelebek-ve-siyah-bukette-8li-ithal-kirmizi-guller-at5762": {
+          "name": "Kelebek ve Siyah Bukette 8'li Kırmızı Güller",
+          "price": 999.99,
+          "url": "https://www.ciceksepeti.com/kelebek-ve-siyah-bukette-8li-ithal-kirmizi-guller-at5762",
+          "category": "Gül",
+          "timestamp": "2026-03-31T06:01:11.130Z"
+        },
+        "ciceksepeti_kraft-tasimali-bukette-beyaz-guller-ve-gerberalar-at5846": {
+          "name": "Kraft Taşımalı Bukette Beyaz Güller ve Gerberalar",
+          "price": 729.99,
+          "url": "https://www.ciceksepeti.com/kraft-tasimali-bukette-beyaz-guller-ve-gerberalar-at5846",
+          "category": "Gül",
+          "timestamp": "2026-03-31T06:01:11.130Z"
+        },
+        "ciceksepeti_siyah-bukette-kirmizi-gul-ve-kirmizi-craspedia-at5765": {
+          "name": "Siyah Bukette Kırmızı Tek Gül ve Kırmızı Craspedia",
+          "price": 499.99,
+          "url": "https://www.ciceksepeti.com/siyah-bukette-kirmizi-gul-ve-kirmizi-craspedia-at5765",
+          "category": "Gül",
+          "timestamp": "2026-03-31T06:01:11.130Z"
         },
         "ciceksepeti_beyaz-buket-kagidinda-20li-kirmizi-gul-buketi-at5418": {
           "name": "Beyaz Buket Kağıdında 20'li Kırmızı Gül Buketi",
           "price": 1649,
           "url": "https://www.ciceksepeti.com/beyaz-buket-kagidinda-20li-kirmizi-gul-buketi-at5418",
           "category": "Gül",
-          "timestamp": "2026-03-30T16:04:23.000Z"
-        },
-        "ciceksepeti_beyaz-cizgili-bukette-kirmizi-guller-ve-craspedia-at5770": {
-          "name": "Beyaz Çizgili Bukette Kırmızı Güller ve Craspedia",
-          "price": 689.99,
-          "url": "https://www.ciceksepeti.com/beyaz-cizgili-bukette-kirmizi-guller-ve-craspedia-at5770",
-          "category": "Gül",
-          "timestamp": "2026-03-30T16:04:23.000Z"
+          "timestamp": "2026-03-31T06:01:11.130Z"
         },
         "ciceksepeti_gri-gazete-buket-kagidinda-9lu-ithal-beyaz-gul-at5724": {
           "name": "Gri Gazete Buket Kağıdında 9'lu İthal Beyaz Gül",
           "price": 949.99,
           "url": "https://www.ciceksepeti.com/gri-gazete-buket-kagidinda-9lu-ithal-beyaz-gul-at5724",
           "category": "Gül",
-          "timestamp": "2026-03-30T16:04:23.000Z"
+          "timestamp": "2026-03-31T06:01:11.130Z"
         }
       },
-      "scraped_at": "2026-03-30T16:04:23.001Z"
+      "scraped_at": "2026-03-31T06:01:11.131Z"
     },
     "hizlicicek": {
       "name": "Hızlı Çiçek",
@@ -225,387 +225,387 @@
           "price": 1199,
           "url": "https://hizlicicek.com/urun/lux-lila-gul-buketi",
           "category": "Gül",
-          "timestamp": "2026-03-30T16:04:50.285Z"
+          "timestamp": "2026-03-31T06:01:35.316Z"
         },
         "hizlicicek_kirmizi-gerbera-buketi": {
           "name": "Kırmızı Gerbera Buketi",
           "price": 599,
           "url": "https://hizlicicek.com/urun/kirmizi-gerbera-buketi",
           "category": "Gerbera",
-          "timestamp": "2026-03-30T16:04:50.285Z"
+          "timestamp": "2026-03-31T06:01:35.316Z"
         },
         "hizlicicek_premium-51-kirmizi-gul": {
           "name": "Premium 51 Kırmızı Gül",
           "price": 2999,
           "url": "https://hizlicicek.com/urun/premium-51-kirmizi-gul",
           "category": "Gül",
-          "timestamp": "2026-03-30T16:04:50.285Z"
+          "timestamp": "2026-03-31T06:01:35.316Z"
         },
         "hizlicicek_double-white-orkide": {
           "name": "Double White Orkide",
           "price": 949,
           "url": "https://hizlicicek.com/urun/double-white-orkide",
           "category": "Orkide",
-          "timestamp": "2026-03-30T16:04:50.285Z"
+          "timestamp": "2026-03-31T06:01:35.316Z"
         },
         "hizlicicek_double-sweet-purple-orkide": {
           "name": "Double Sweet Purple Orkide",
           "price": 1199,
           "url": "https://hizlicicek.com/urun/double-sweet-purple-orkide",
           "category": "Orkide",
-          "timestamp": "2026-03-30T16:04:50.285Z"
+          "timestamp": "2026-03-31T06:01:35.316Z"
         },
         "hizlicicek_beyaz-gerbera-buketi": {
           "name": "Beyaz Gerbera Buketi",
           "price": 599,
           "url": "https://hizlicicek.com/urun/beyaz-gerbera-buketi",
           "category": "Gerbera",
-          "timestamp": "2026-03-30T16:04:50.285Z"
+          "timestamp": "2026-03-31T06:01:35.316Z"
         },
         "hizlicicek_aynali-kirmizi-gul-buketi": {
           "name": "Aynalı Kırmızı Gül Buketi",
           "price": 2999,
           "url": "https://hizlicicek.com/urun/aynali-kirmizi-gul-buketi",
           "category": "Gül",
-          "timestamp": "2026-03-30T16:04:40.998Z"
+          "timestamp": "2026-03-31T06:01:26.213Z"
         },
         "hizlicicek_love-kirmizi-gul-buketi": {
           "name": "Love Kırmızı Gül Buketi",
           "price": 1099,
           "url": "https://hizlicicek.com/urun/love-kirmizi-gul-buketi",
           "category": "Gül",
-          "timestamp": "2026-03-30T16:04:40.998Z"
+          "timestamp": "2026-03-31T06:01:26.213Z"
         },
         "hizlicicek_beyaz-frezya-buketi": {
           "name": "Beyaz Frezya Buketi",
           "price": 1199,
           "url": "https://hizlicicek.com/urun/beyaz-frezya-buketi",
           "category": "Karma/Diğer",
-          "timestamp": "2026-03-30T16:04:40.998Z"
+          "timestamp": "2026-03-31T06:01:26.213Z"
         },
         "hizlicicek_crimson-minimal": {
           "name": "Crimson Minimal",
           "price": 729,
           "url": "https://hizlicicek.com/urun/crimson-minimal",
           "category": "Karma/Diğer",
-          "timestamp": "2026-03-30T16:04:40.998Z"
+          "timestamp": "2026-03-31T06:01:26.213Z"
+        },
+        "hizlicicek_lux-pure-love": {
+          "name": "Lux Pure Love",
+          "price": 1699,
+          "url": "https://hizlicicek.com/urun/lux-pure-love",
+          "category": "Karma/Diğer",
+          "timestamp": "2026-03-31T06:01:26.213Z"
         },
         "hizlicicek_honey-bloom-hasir-sepet": {
           "name": "Honey Bloom Hasır Sepet",
           "price": 4399,
           "url": "https://hizlicicek.com/urun/honey-bloom-hasir-sepet",
           "category": "Karma/Diğer",
-          "timestamp": "2026-03-30T16:04:40.998Z"
-        },
-        "hizlicicek_white-muse-bag": {
-          "name": "White Muse Bag",
-          "price": 5299,
-          "url": "https://hizlicicek.com/urun/white-muse-bag",
-          "category": "Karma/Diğer",
-          "timestamp": "2026-03-30T16:04:40.998Z"
-        },
-        "hizlicicek_sunny-bloom-hasir-sepet": {
-          "name": "Sunny Bloom Hasır Sepet",
-          "price": 5399,
-          "url": "https://hizlicicek.com/urun/sunny-bloom-hasir-sepet",
-          "category": "Karma/Diğer",
-          "timestamp": "2026-03-30T16:04:40.998Z"
-        },
-        "hizlicicek_beyaz-gul-buketi": {
-          "name": "Beyaz Gül Buketi",
-          "price": 1199,
-          "url": "https://hizlicicek.com/urun/beyaz-gul-buketi",
-          "category": "Gül",
-          "timestamp": "2026-03-30T16:04:40.998Z"
-        },
-        "hizlicicek_spring-mood-buket": {
-          "name": "Spring Mood Buket",
-          "price": 4299,
-          "url": "https://hizlicicek.com/urun/spring-mood-buket",
-          "category": "Karma/Diğer",
-          "timestamp": "2026-03-30T16:04:40.998Z"
-        },
-        "hizlicicek_dream-of-love-sakayik-buketi": {
-          "name": "Dream of Love Şakayık Buketi",
-          "price": 5599,
-          "url": "https://hizlicicek.com/urun/dream-of-love-sakayik-buketi",
-          "category": "Karma/Diğer",
-          "timestamp": "2026-03-30T16:04:40.998Z"
-        },
-        "hizlicicek_beyaz-spatifilyum": {
-          "name": "Beyaz Spatifilyum",
-          "price": 899,
-          "url": "https://hizlicicek.com/urun/beyaz-spatifilyum",
-          "category": "Karma/Diğer",
-          "timestamp": "2026-03-30T16:04:40.998Z"
+          "timestamp": "2026-03-31T06:01:26.213Z"
         },
         "hizlicicek_7-li-sari-lale-buketi": {
           "name": "7'li Sarı Lale Buketi",
           "price": 1199,
           "url": "https://hizlicicek.com/urun/7-li-sari-lale-buketi",
           "category": "Lale",
-          "timestamp": "2026-03-30T16:04:40.998Z"
+          "timestamp": "2026-03-31T06:01:26.213Z"
         },
-        "hizlicicek_pink-lilyum-basket": {
-          "name": "Pink Lilyum Basket",
-          "price": 2499,
-          "url": "https://hizlicicek.com/urun/pink-lilyum-basket",
-          "category": "Lilyum",
-          "timestamp": "2026-03-30T16:04:40.998Z"
-        },
-        "hizlicicek_iconic-red-bag": {
-          "name": "Iconic Red Bag",
-          "price": 5779,
-          "url": "https://hizlicicek.com/urun/iconic-red-bag",
+        "hizlicicek_white-muse-bag": {
+          "name": "White Muse Bag",
+          "price": 5299,
+          "url": "https://hizlicicek.com/urun/white-muse-bag",
           "category": "Karma/Diğer",
-          "timestamp": "2026-03-30T16:04:40.998Z"
+          "timestamp": "2026-03-31T06:01:26.213Z"
+        },
+        "hizlicicek_sunny-bloom-hasir-sepet": {
+          "name": "Sunny Bloom Hasır Sepet",
+          "price": 5399,
+          "url": "https://hizlicicek.com/urun/sunny-bloom-hasir-sepet",
+          "category": "Karma/Diğer",
+          "timestamp": "2026-03-31T06:01:26.214Z"
+        },
+        "hizlicicek_beyaz-spatifilyum": {
+          "name": "Beyaz Spatifilyum",
+          "price": 899,
+          "url": "https://hizlicicek.com/urun/beyaz-spatifilyum",
+          "category": "Karma/Diğer",
+          "timestamp": "2026-03-31T06:01:26.214Z"
+        },
+        "hizlicicek_beyaz-gul-buketi": {
+          "name": "Beyaz Gül Buketi",
+          "price": 1199,
+          "url": "https://hizlicicek.com/urun/beyaz-gul-buketi",
+          "category": "Gül",
+          "timestamp": "2026-03-31T06:01:26.214Z"
         },
         "hizlicicek_beyaz-ruya-sepeti": {
           "name": "Beyaz Rüya Sepeti",
           "price": 1999,
           "url": "https://hizlicicek.com/urun/beyaz-ruya-sepeti",
           "category": "Karma/Diğer",
-          "timestamp": "2026-03-30T16:04:40.998Z"
+          "timestamp": "2026-03-31T06:01:26.214Z"
+        },
+        "hizlicicek_pink-lilyum-basket": {
+          "name": "Pink Lilyum Basket",
+          "price": 2499,
+          "url": "https://hizlicicek.com/urun/pink-lilyum-basket",
+          "category": "Lilyum",
+          "timestamp": "2026-03-31T06:01:26.214Z"
+        },
+        "hizlicicek_pink-bubble-gul-buketi": {
+          "name": "Pink Bubble Gül Buketi",
+          "price": 1399,
+          "url": "https://hizlicicek.com/urun/pink-bubble-gul-buketi",
+          "category": "Gül",
+          "timestamp": "2026-03-31T06:01:26.214Z"
+        },
+        "hizlicicek_vazoda-9-lu-kirmizi-gul": {
+          "name": "Vazoda 9’lu Kırmızı Gül",
+          "price": 1299,
+          "url": "https://hizlicicek.com/urun/vazoda-9-lu-kirmizi-gul",
+          "category": "Gül",
+          "timestamp": "2026-03-31T06:01:26.214Z"
+        },
+        "hizlicicek_dream-of-love-sakayik-buketi": {
+          "name": "Dream of Love Şakayık Buketi",
+          "price": 5599,
+          "url": "https://hizlicicek.com/urun/dream-of-love-sakayik-buketi",
+          "category": "Karma/Diğer",
+          "timestamp": "2026-03-31T06:01:26.214Z"
         },
         "hizlicicek_cheerful-bloom": {
           "name": "Cheerful Bloom",
           "price": 859,
           "url": "https://hizlicicek.com/urun/cheerful-bloom",
           "category": "Karma/Diğer",
-          "timestamp": "2026-03-30T16:04:40.999Z"
+          "timestamp": "2026-03-31T06:01:26.214Z"
         },
-        "hizlicicek_lilac-symphony": {
-          "name": "Lilac Symphony",
-          "price": 1989,
-          "url": "https://hizlicicek.com/urun/lilac-symphony",
-          "category": "Karma/Diğer",
-          "timestamp": "2026-03-30T16:04:40.999Z"
-        },
-        "hizlicicek_velora-red-basket": {
-          "name": "Velora Red Basket",
-          "price": 2499,
-          "url": "https://hizlicicek.com/urun/velora-red-basket",
-          "category": "Karma/Diğer",
-          "timestamp": "2026-03-30T16:04:40.999Z"
+        "hizlicicek_white-tulip-muse": {
+          "name": "White Tulip Muse",
+          "price": 2979,
+          "url": "https://hizlicicek.com/urun/white-tulip-muse",
+          "category": "Lale",
+          "timestamp": "2026-03-31T06:01:26.214Z"
         }
       },
-      "scraped_at": "2026-03-30T16:04:50.286Z"
+      "scraped_at": "2026-03-31T06:01:35.317Z"
     },
     "bloomandfresh": {
       "name": "Bloom and Fresh",
       "products": {
-        "bloomandfresh_galaxy-of-love": {
+        "bloomandfresh_0": {
           "name": "Galaxy of Love",
           "price": 2799.9,
-          "url": "https://www.bloomandfresh.com/p/galaxy-of-love",
+          "url": "",
           "category": "Karma/Diğer",
-          "timestamp": "2026-03-30T16:05:03.497Z"
+          "timestamp": "2026-03-31T06:01:51.594Z"
         },
-        "bloomandfresh_charlotte-gul-buketi": {
+        "bloomandfresh_1": {
           "name": "Charlotte",
           "price": 1799.9,
-          "url": "https://www.bloomandfresh.com/p/charlotte-gul-buketi",
+          "url": "",
           "category": "Karma/Diğer",
-          "timestamp": "2026-03-30T16:05:03.497Z"
+          "timestamp": "2026-03-31T06:01:51.594Z"
         },
-        "bloomandfresh_spring-joy": {
+        "bloomandfresh_2": {
           "name": "Spring Joy",
           "price": 1699.9,
-          "url": "https://www.bloomandfresh.com/p/spring-joy",
+          "url": "",
           "category": "Karma/Diğer",
-          "timestamp": "2026-03-30T16:05:03.497Z"
+          "timestamp": "2026-03-31T06:01:51.594Z"
         },
-        "bloomandfresh_volante-gul-buketi": {
+        "bloomandfresh_3": {
           "name": "Volante",
           "price": 1699.9,
-          "url": "https://www.bloomandfresh.com/p/volante-gul-buketi",
+          "url": "",
           "category": "Karma/Diğer",
-          "timestamp": "2026-03-30T16:05:03.497Z"
+          "timestamp": "2026-03-31T06:01:51.594Z"
         },
-        "bloomandfresh_jihane-vazoda-pembe-katmerli-laleler": {
+        "bloomandfresh_4": {
           "name": "Jihane",
           "price": 1999.9,
-          "url": "https://www.bloomandfresh.com/p/jihane-vazoda-pembe-katmerli-laleler",
+          "url": "",
           "category": "Karma/Diğer",
-          "timestamp": "2026-03-30T16:05:03.497Z"
+          "timestamp": "2026-03-31T06:01:51.594Z"
         },
-        "bloomandfresh_maggie": {
+        "bloomandfresh_5": {
           "name": "Maggie",
           "price": 2799.9,
-          "url": "https://www.bloomandfresh.com/p/maggie",
+          "url": "",
           "category": "Karma/Diğer",
-          "timestamp": "2026-03-30T16:05:03.497Z"
+          "timestamp": "2026-03-31T06:01:51.594Z"
         },
-        "bloomandfresh_primavera": {
+        "bloomandfresh_6": {
           "name": "Primavera",
           "price": 2199.9,
-          "url": "https://www.bloomandfresh.com/p/primavera",
+          "url": "",
           "category": "Karma/Diğer",
-          "timestamp": "2026-03-30T16:05:03.497Z"
+          "timestamp": "2026-03-31T06:01:51.594Z"
         },
-        "bloomandfresh_bumblebee-lemon": {
+        "bloomandfresh_7": {
           "name": "Bumblebee Lemon",
           "price": 2299.9,
-          "url": "https://www.bloomandfresh.com/p/bumblebee-lemon",
+          "url": "",
           "category": "Karma/Diğer",
-          "timestamp": "2026-03-30T16:05:03.497Z"
+          "timestamp": "2026-03-31T06:01:51.594Z"
         },
-        "bloomandfresh_coral-glam": {
+        "bloomandfresh_8": {
           "name": "Coral Glam",
           "price": 2499.9,
-          "url": "https://www.bloomandfresh.com/p/coral-glam",
+          "url": "",
           "category": "Karma/Diğer",
-          "timestamp": "2026-03-30T16:05:03.497Z"
+          "timestamp": "2026-03-31T06:01:51.594Z"
         },
-        "bloomandfresh_gina-scandic": {
+        "bloomandfresh_9": {
           "name": "Gina Scandic",
           "price": 2499.9,
-          "url": "https://www.bloomandfresh.com/p/gina-scandic",
+          "url": "",
           "category": "Karma/Diğer",
-          "timestamp": "2026-03-30T16:05:03.497Z"
+          "timestamp": "2026-03-31T06:01:51.594Z"
         },
-        "bloomandfresh_aria-gold-cift-dalli-fusya-orkide": {
-          "name": "Aria Gold",
-          "price": 2399.9,
-          "url": "https://www.bloomandfresh.com/p/aria-gold-cift-dalli-fusya-orkide",
-          "category": "Karma/Diğer",
-          "timestamp": "2026-03-30T16:05:03.497Z"
-        },
-        "bloomandfresh_formidablo-white": {
+        "bloomandfresh_10": {
           "name": "Formidablo White",
           "price": 5299.9,
-          "url": "https://www.bloomandfresh.com/p/formidablo-white",
+          "url": "",
           "category": "Karma/Diğer",
-          "timestamp": "2026-03-30T16:05:03.497Z"
+          "timestamp": "2026-03-31T06:01:51.594Z"
         },
-        "bloomandfresh_golden-succulent": {
+        "bloomandfresh_11": {
           "name": "Golden Succulent",
           "price": 1299.9,
-          "url": "https://www.bloomandfresh.com/p/golden-succulent",
+          "url": "",
           "category": "Karma/Diğer",
-          "timestamp": "2026-03-30T16:05:03.497Z"
+          "timestamp": "2026-03-31T06:01:51.594Z"
         },
-        "bloomandfresh_lily-cubes": {
+        "bloomandfresh_12": {
           "name": "Lily Cubes",
           "price": 2599.9,
-          "url": "https://www.bloomandfresh.com/p/lily-cubes",
+          "url": "",
           "category": "Karma/Diğer",
-          "timestamp": "2026-03-30T16:05:03.497Z"
+          "timestamp": "2026-03-31T06:01:51.594Z"
         },
-        "bloomandfresh_lily-mesh": {
+        "bloomandfresh_13": {
           "name": "Lily Mesh",
           "price": 2399.9,
-          "url": "https://www.bloomandfresh.com/p/lily-mesh",
+          "url": "",
           "category": "Karma/Diğer",
-          "timestamp": "2026-03-30T16:05:03.497Z"
+          "timestamp": "2026-03-31T06:01:51.594Z"
         },
-        "bloomandfresh_pinky-white": {
+        "bloomandfresh_14": {
           "name": "Pinky White",
           "price": 1459.9,
-          "url": "https://www.bloomandfresh.com/p/pinky-white",
+          "url": "",
           "category": "Karma/Diğer",
-          "timestamp": "2026-03-30T16:05:03.498Z"
+          "timestamp": "2026-03-31T06:01:51.594Z"
         },
-        "bloomandfresh_flamingo-gold": {
+        "bloomandfresh_15": {
           "name": "Flamingo Gold",
           "price": 1899.9,
-          "url": "https://www.bloomandfresh.com/p/flamingo-gold",
+          "url": "",
           "category": "Karma/Diğer",
-          "timestamp": "2026-03-30T16:05:03.498Z"
+          "timestamp": "2026-03-31T06:01:51.594Z"
         },
-        "bloomandfresh_12li-makaron": {
+        "bloomandfresh_16": {
           "name": "B&F Macarons (12'li)",
           "price": 1199.9,
-          "url": "https://www.bloomandfresh.com/p/12li-makaron",
+          "url": "",
           "category": "Karma/Diğer",
-          "timestamp": "2026-03-30T16:05:03.498Z"
+          "timestamp": "2026-03-31T06:01:51.594Z"
         },
-        "bloomandfresh_godiva-x-labubu-masterpieces-cikolata-limited-edition-metal-kutu": {
+        "bloomandfresh_17": {
           "name": "Godiva x Labubu Masterpieces Çikolata | Limited Edition (Metal Kutu)",
           "price": 1299.9,
-          "url": "https://www.bloomandfresh.com/p/godiva-x-labubu-masterpieces-cikolata-limited-edition-metal-kutu",
+          "url": "",
           "category": "Karma/Diğer",
-          "timestamp": "2026-03-30T16:05:03.498Z"
+          "timestamp": "2026-03-31T06:01:51.594Z"
         },
-        "bloomandfresh_bloomandfresh-chocolate-20li-cikolata": {
+        "bloomandfresh_18": {
           "name": "B&F Chocolate (20'li)",
           "price": 1099.9,
-          "url": "https://www.bloomandfresh.com/p/bloomandfresh-chocolate-20li-cikolata",
+          "url": "",
           "category": "Karma/Diğer",
-          "timestamp": "2026-03-30T16:05:03.498Z"
+          "timestamp": "2026-03-31T06:01:51.594Z"
         },
-        "bloomandfresh_harem-chocolate-love-kutu-215g": {
+        "bloomandfresh_19": {
           "name": "Harem Chocolate Love Kutu (215g)",
           "price": 1999.9,
-          "url": "https://www.bloomandfresh.com/p/harem-chocolate-love-kutu-215g",
+          "url": "",
           "category": "Karma/Diğer",
-          "timestamp": "2026-03-30T16:05:03.498Z"
+          "timestamp": "2026-03-31T06:01:51.594Z"
         },
-        "bloomandfresh_divan-pralin-cikolata": {
+        "bloomandfresh_20": {
           "name": "Divan Pralin Çikolata (20'li)",
           "price": 1799.9,
-          "url": "https://www.bloomandfresh.com/p/divan-pralin-cikolata",
+          "url": "",
           "category": "Karma/Diğer",
-          "timestamp": "2026-03-30T16:05:03.498Z"
+          "timestamp": "2026-03-31T06:01:51.594Z"
         },
-        "bloomandfresh_divan-selection-box-cikolata": {
+        "bloomandfresh_21": {
           "name": "Divan Selection Box",
           "price": 3599.9,
-          "url": "https://www.bloomandfresh.com/p/divan-selection-box-cikolata",
+          "url": "",
           "category": "Karma/Diğer",
-          "timestamp": "2026-03-30T16:05:03.498Z"
+          "timestamp": "2026-03-31T06:01:51.594Z"
         },
-        "bloomandfresh_birthday-box-black": {
+        "bloomandfresh_22": {
           "name": "Birthday Box Black",
           "price": 1799.9,
-          "url": "https://www.bloomandfresh.com/p/birthday-box-black",
+          "url": "",
           "category": "Karma/Diğer",
-          "timestamp": "2026-03-30T16:05:03.498Z"
+          "timestamp": "2026-03-31T06:01:51.594Z"
         },
-        "bloomandfresh_chess-cheers": {
+        "bloomandfresh_23": {
           "name": "Chess & Cheers",
           "price": 2599.9,
-          "url": "https://www.bloomandfresh.com/p/chess-cheers",
+          "url": "",
           "category": "Karma/Diğer",
-          "timestamp": "2026-03-30T16:05:03.498Z"
+          "timestamp": "2026-03-31T06:01:51.594Z"
         },
-        "bloomandfresh_fun-steps": {
+        "bloomandfresh_24": {
           "name": "Fun Steps",
           "price": 1999.9,
-          "url": "https://www.bloomandfresh.com/p/fun-steps",
+          "url": "",
           "category": "Karma/Diğer",
-          "timestamp": "2026-03-30T16:05:03.498Z"
+          "timestamp": "2026-03-31T06:01:51.594Z"
         },
-        "bloomandfresh_printworks-riviera-cizgili-tasinabilir-lamba": {
+        "bloomandfresh_25": {
           "name": "Printworks Riviera Çizgili Taşınabilir Lamba",
           "price": 5599.9,
-          "url": "https://www.bloomandfresh.com/p/printworks-riviera-cizgili-tasinabilir-lamba",
+          "url": "",
           "category": "Karma/Diğer",
-          "timestamp": "2026-03-30T16:05:03.498Z"
+          "timestamp": "2026-03-31T06:01:51.594Z"
         },
-        "bloomandfresh_lego-botanicals-kucuk-sari-buket-10347": {
+        "bloomandfresh_26": {
           "name": "LEGO Botanicals Küçük Sarı Buket - 373 Parça (10347)",
           "price": 2599.9,
-          "url": "https://www.bloomandfresh.com/p/lego-botanicals-kucuk-sari-buket-10347",
+          "url": "",
           "category": "Karma/Diğer",
-          "timestamp": "2026-03-30T16:05:03.498Z"
+          "timestamp": "2026-03-31T06:01:51.594Z"
         },
-        "bloomandfresh_out-of-the-blue-kurukafa-masa-organiser-ve-gozluk-tutucu": {
+        "bloomandfresh_27": {
           "name": "Out of The Blue Kurukafa Masa Organiser ve Gözlük Tutucu",
           "price": 1999.9,
-          "url": "https://www.bloomandfresh.com/p/out-of-the-blue-kurukafa-masa-organiser-ve-gozluk-tutucu",
+          "url": "",
           "category": "Karma/Diğer",
-          "timestamp": "2026-03-30T16:05:03.498Z"
+          "timestamp": "2026-03-31T06:01:51.594Z"
         },
-        "bloomandfresh_lego-iconic-sevgili-kus-tweety-412-parca-40824": {
+        "bloomandfresh_28": {
           "name": "LEGO Iconic Sevgili Kuş Tweety - 412 Parça (40824)",
           "price": 2299.9,
-          "url": "https://www.bloomandfresh.com/p/lego-iconic-sevgili-kus-tweety-412-parca-40824",
+          "url": "",
           "category": "Karma/Diğer",
-          "timestamp": "2026-03-30T16:05:03.498Z"
+          "timestamp": "2026-03-31T06:01:51.594Z"
+        },
+        "bloomandfresh_29": {
+          "name": "The Duchess",
+          "price": 1799.9,
+          "url": "",
+          "category": "Karma/Diğer",
+          "timestamp": "2026-03-31T06:01:51.594Z"
         }
       },
-      "scraped_at": "2026-03-30T16:05:03.501Z"
+      "scraped_at": "2026-03-31T06:01:51.596Z"
     }
   }
 }
