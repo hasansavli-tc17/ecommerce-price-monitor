@@ -1,5 +1,5 @@
 {
-  "date": "2026-04-02T13:07:27.868Z",
+  "date": "2026-04-02T15:59:30.012Z",
   "summary": {
     "total_sites": 3,
     "successful_sites": 3,
@@ -582,13 +582,6 @@
     },
     {
       "site": "Bloom and Fresh",
-      "name": "Divan Selection Box",
-      "price": 3599.9,
-      "category": "Karma/Diğer",
-      "url": ""
-    },
-    {
-      "site": "Bloom and Fresh",
       "name": "Godiva x Labubu Masterpieces Çikolata | Limited Edition (Metal Kutu)",
       "price": 1299.9,
       "category": "Karma/Diğer",
@@ -635,6 +628,13 @@
       "price": 2599.9,
       "category": "Karma/Diğer",
       "url": ""
+    },
+    {
+      "site": "Bloom and Fresh",
+      "name": "Out of The Blue Kurukafa Masa Organiser ve Gözlük Tutucu",
+      "price": 1999.9,
+      "category": "Karma/Diğer",
+      "url": ""
     }
   ],
   "price_analysis": {
@@ -653,7 +653,7 @@
       },
       "Bloom and Fresh": {
         "product_count": 30,
-        "avg_price": "2423.23",
+        "avg_price": "2369.90",
         "min_price": "1099.90",
         "max_price": "5599.90"
       }
@@ -720,10 +720,10 @@
           },
           "Bloom and Fresh": {
             "count": 30,
-            "avg": "2423.23"
+            "avg": "2369.90"
           }
         },
-        "avg_price": "2293.52"
+        "avg_price": "2255.43"
       },
       "Lale": {
         "count": 8,
