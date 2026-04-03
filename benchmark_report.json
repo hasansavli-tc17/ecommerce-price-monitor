@@ -1,5 +1,5 @@
 {
-  "date": "2026-04-03T09:51:30.512Z",
+  "date": "2026-04-03T12:58:59.470Z",
   "summary": {
     "total_sites": 3,
     "successful_sites": 3,
@@ -547,13 +547,6 @@
     },
     {
       "site": "Bloom and Fresh",
-      "name": "B&F Macarons (12'li)",
-      "price": 1199.9,
-      "category": "Karma/Diğer",
-      "url": ""
-    },
-    {
-      "site": "Bloom and Fresh",
       "name": "B&F Chocolate (20'li)",
       "price": 1099.9,
       "category": "Karma/Diğer",
@@ -633,6 +626,13 @@
       "site": "Bloom and Fresh",
       "name": "LEGO Art Love - 791 Parça (312174)",
       "price": 4599.9,
+      "category": "Karma/Diğer",
+      "url": ""
+    },
+    {
+      "site": "Bloom and Fresh",
+      "name": "B&F Macarons (12'li)",
+      "price": 1199.9,
       "category": "Karma/Diğer",
       "url": ""
     }
