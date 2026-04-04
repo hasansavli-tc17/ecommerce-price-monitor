@@ -1,5 +1,5 @@
 {
-  "date": "2026-04-04T09:36:18.594Z",
+  "date": "2026-04-04T12:50:07.011Z",
   "summary": {
     "total_sites": 3,
     "successful_sites": 3,
@@ -218,6 +218,20 @@
     },
     {
       "site": "Hızlı Çiçek",
+      "name": "Premium 51 Kırmızı Gül",
+      "price": 2999,
+      "category": "Gül",
+      "url": "https://hizlicicek.com/urun/premium-51-kirmizi-gul"
+    },
+    {
+      "site": "Hızlı Çiçek",
+      "name": "Double White Orkide",
+      "price": 949,
+      "category": "Orkide",
+      "url": "https://hizlicicek.com/urun/double-white-orkide"
+    },
+    {
+      "site": "Hızlı Çiçek",
       "name": "Lux Lila Gül Buketi",
       "price": 1199,
       "category": "Gül",
@@ -239,20 +253,6 @@
     },
     {
       "site": "Hızlı Çiçek",
-      "name": "Premium 51 Kırmızı Gül",
-      "price": 2999,
-      "category": "Gül",
-      "url": "https://hizlicicek.com/urun/premium-51-kirmizi-gul"
-    },
-    {
-      "site": "Hızlı Çiçek",
-      "name": "Double White Orkide",
-      "price": 949,
-      "category": "Orkide",
-      "url": "https://hizlicicek.com/urun/double-white-orkide"
-    },
-    {
-      "site": "Hızlı Çiçek",
       "name": "Karışık Lale Buketi",
       "price": 2799,
       "category": "Lale",
@@ -260,10 +260,24 @@
     },
     {
       "site": "Hızlı Çiçek",
+      "name": "Sweet Sunset",
+      "price": 999,
+      "category": "Karma/Diğer",
+      "url": "https://hizlicicek.com/urun/sweet-sunset"
+    },
+    {
+      "site": "Hızlı Çiçek",
       "name": "Love Kırmızı Gül Buketi",
       "price": 1099,
       "category": "Gül",
       "url": "https://hizlicicek.com/urun/love-kirmizi-gul-buketi"
+    },
+    {
+      "site": "Hızlı Çiçek",
+      "name": "Yellow Queen's Lale",
+      "price": 2599,
+      "category": "Lale",
+      "url": "https://hizlicicek.com/urun/yellow-queen-s-lale"
     },
     {
       "site": "Hızlı Çiçek",
@@ -282,7 +296,7 @@
     {
       "site": "Hızlı Çiçek",
       "name": "Crimson Minimal",
-      "price": 729,
+      "price": 699,
       "category": "Karma/Diğer",
       "url": "https://hizlicicek.com/urun/crimson-minimal"
     },
@@ -372,17 +386,17 @@
     },
     {
       "site": "Hızlı Çiçek",
-      "name": "Beyaz Spatifilyum",
-      "price": 899,
-      "category": "Karma/Diğer",
-      "url": "https://hizlicicek.com/urun/beyaz-spatifilyum"
+      "name": "Premium 51 Kırmızı Gül",
+      "price": 2999,
+      "category": "Gül",
+      "url": "https://hizlicicek.com/urun/premium-51-kirmizi-gul"
     },
     {
       "site": "Hızlı Çiçek",
-      "name": "Red Dream Kırmızı Gül Buketi",
-      "price": 2999,
-      "category": "Gül",
-      "url": "https://hizlicicek.com/urun/red-dream-kirmizi-gul-buketi"
+      "name": "Double White Orkide",
+      "price": 949,
+      "category": "Orkide",
+      "url": "https://hizlicicek.com/urun/double-white-orkide"
     },
     {
       "site": "Hızlı Çiçek",
@@ -404,20 +418,6 @@
       "price": 599,
       "category": "Gerbera",
       "url": "https://hizlicicek.com/urun/kirmizi-gerbera-buketi"
-    },
-    {
-      "site": "Hızlı Çiçek",
-      "name": "Premium 51 Kırmızı Gül",
-      "price": 2999,
-      "category": "Gül",
-      "url": "https://hizlicicek.com/urun/premium-51-kirmizi-gul"
-    },
-    {
-      "site": "Hızlı Çiçek",
-      "name": "Double White Orkide",
-      "price": 949,
-      "category": "Orkide",
-      "url": "https://hizlicicek.com/urun/double-white-orkide"
     },
     {
       "site": "Hızlı Çiçek",
@@ -647,7 +647,7 @@
       },
       "Hızlı Çiçek": {
         "product_count": 30,
-        "avg_price": "2103.33",
+        "avg_price": "2092.33",
         "min_price": "599.00",
         "max_price": "5399.00"
       },
@@ -670,18 +670,18 @@
         "avg_price": "704.99"
       },
       "Gül": {
-        "count": 25,
+        "count": 24,
         "prices_by_site": {
           "Çiçek Sepeti": {
             "count": 18,
             "avg": "939.82"
           },
           "Hızlı Çiçek": {
-            "count": 7,
-            "avg": "2213.29"
+            "count": 6,
+            "avg": "2082.33"
           }
         },
-        "avg_price": "1296.39"
+        "avg_price": "1225.45"
       },
       "Gerbera": {
         "count": 9,
@@ -707,16 +707,6 @@
         },
         "avg_price": "774.99"
       },
-      "Lale": {
-        "count": 8,
-        "prices_by_site": {
-          "Hızlı Çiçek": {
-            "count": 8,
-            "avg": "2649.00"
-          }
-        },
-        "avg_price": "2649.00"
-      },
       "Orkide": {
         "count": 3,
         "prices_by_site": {
@@ -727,19 +717,29 @@
         },
         "avg_price": "1032.33"
       },
+      "Lale": {
+        "count": 9,
+        "prices_by_site": {
+          "Hızlı Çiçek": {
+            "count": 9,
+            "avg": "2643.44"
+          }
+        },
+        "avg_price": "2643.44"
+      },
       "Karma/Diğer": {
         "count": 39,
         "prices_by_site": {
           "Hızlı Çiçek": {
             "count": 9,
-            "avg": "2391.22"
+            "avg": "2399.00"
           },
           "Bloom and Fresh": {
             "count": 30,
             "avg": "2463.23"
           }
         },
-        "avg_price": "2446.62"
+        "avg_price": "2448.41"
       }
     }
   }
