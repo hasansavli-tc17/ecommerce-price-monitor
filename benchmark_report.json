@@ -1,5 +1,5 @@
 {
-  "date": "2026-04-08T13:15:49.507Z",
+  "date": "2026-04-08T16:14:47.602Z",
   "summary": {
     "total_sites": 3,
     "successful_sites": 3,
@@ -470,13 +470,6 @@
     },
     {
       "site": "Bloom and Fresh",
-      "name": "Primavera",
-      "price": 2199.9,
-      "category": "Karma/Diğer",
-      "url": ""
-    },
-    {
-      "site": "Bloom and Fresh",
       "name": "Gina Scandic",
       "price": 2499.9,
       "category": "Karma/Diğer",
@@ -633,6 +626,13 @@
       "site": "Bloom and Fresh",
       "name": "LEGO Art Love - 791 Parça (312174)",
       "price": 4599.9,
+      "category": "Karma/Diğer",
+      "url": ""
+    },
+    {
+      "site": "Bloom and Fresh",
+      "name": "Primavera",
+      "price": 2199.9,
       "category": "Karma/Diğer",
       "url": ""
     }
