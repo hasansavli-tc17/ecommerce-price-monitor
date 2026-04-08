@@ -1,5 +1,5 @@
 {
-  "date": "2026-04-08T06:06:35.809Z",
+  "date": "2026-04-08T10:06:13.471Z",
   "summary": {
     "total_sites": 3,
     "successful_sites": 3,
@@ -477,13 +477,6 @@
     },
     {
       "site": "Bloom and Fresh",
-      "name": "Olivrosa",
-      "price": 3099.9,
-      "category": "Karma/Diğer",
-      "url": ""
-    },
-    {
-      "site": "Bloom and Fresh",
       "name": "Gina Scandic",
       "price": 2499.9,
       "category": "Karma/Diğer",
@@ -635,6 +628,13 @@
       "price": 1999.9,
       "category": "Karma/Diğer",
       "url": ""
+    },
+    {
+      "site": "Bloom and Fresh",
+      "name": "LEGO Art Love - 791 Parça (312174)",
+      "price": 4599.9,
+      "category": "Karma/Diğer",
+      "url": ""
     }
   ],
   "price_analysis": {
@@ -653,7 +653,7 @@
       },
       "Bloom and Fresh": {
         "product_count": 30,
-        "avg_price": "2383.23",
+        "avg_price": "2433.23",
         "min_price": "1099.90",
         "max_price": "5599.90"
       }
@@ -710,10 +710,10 @@
           },
           "Bloom and Fresh": {
             "count": 30,
-            "avg": "2383.23"
+            "avg": "2433.23"
           }
         },
-        "avg_price": "2263.28"
+        "avg_price": "2299.00"
       },
       "Karanfil": {
         "count": 4,
