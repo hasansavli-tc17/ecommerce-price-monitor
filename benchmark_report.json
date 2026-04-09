@@ -1,5 +1,5 @@
 {
-  "date": "2026-04-09T06:07:26.811Z",
+  "date": "2026-04-09T10:11:51.274Z",
   "summary": {
     "total_sites": 3,
     "successful_sites": 3,
@@ -281,6 +281,13 @@
     },
     {
       "site": "Hızlı Çiçek",
+      "name": "Aynalı Kırmızı Gül Buketi",
+      "price": 2999,
+      "category": "Gül",
+      "url": "https://hizlicicek.com/urun/aynali-kirmizi-gul-buketi"
+    },
+    {
+      "site": "Hızlı Çiçek",
       "name": "Natural Ayçiçeği Buketi",
       "price": 899,
       "category": "Karma/Diğer",
@@ -320,13 +327,6 @@
       "price": 1499,
       "category": "Lale",
       "url": "https://hizlicicek.com/urun/9-lu-pembe-lale-buketi"
-    },
-    {
-      "site": "Hızlı Çiçek",
-      "name": "Aynalı Kırmızı Gül Buketi",
-      "price": 2999,
-      "category": "Gül",
-      "url": "https://hizlicicek.com/urun/aynali-kirmizi-gul-buketi"
     },
     {
       "site": "Hızlı Çiçek",
@@ -428,13 +428,6 @@
     },
     {
       "site": "Bloom and Fresh",
-      "name": "Athena Double",
-      "price": 2499.9,
-      "category": "Karma/Diğer",
-      "url": ""
-    },
-    {
-      "site": "Bloom and Fresh",
       "name": "Mixx",
       "price": 1599.9,
       "category": "Karma/Diğer",
@@ -472,13 +465,6 @@
       "site": "Bloom and Fresh",
       "name": "Chloe",
       "price": 1999.9,
-      "category": "Karma/Diğer",
-      "url": ""
-    },
-    {
-      "site": "Bloom and Fresh",
-      "name": "Verona",
-      "price": 2999.9,
       "category": "Karma/Diğer",
       "url": ""
     },
@@ -635,6 +621,20 @@
       "price": 2599.9,
       "category": "Karma/Diğer",
       "url": ""
+    },
+    {
+      "site": "Bloom and Fresh",
+      "name": "Fun Steps",
+      "price": 1999.9,
+      "category": "Karma/Diğer",
+      "url": ""
+    },
+    {
+      "site": "Bloom and Fresh",
+      "name": "Selamlique Pierre Loti Hediye Seti",
+      "price": 4999.9,
+      "category": "Karma/Diğer",
+      "url": ""
     }
   ],
   "price_analysis": {
@@ -653,7 +653,7 @@
       },
       "Bloom and Fresh": {
         "product_count": 30,
-        "avg_price": "2129.90",
+        "avg_price": "2179.90",
         "min_price": "1099.90",
         "max_price": "5299.90"
       }
@@ -736,10 +736,10 @@
           },
           "Bloom and Fresh": {
             "count": 30,
-            "avg": "2129.90"
+            "avg": "2179.90"
           }
         },
-        "avg_price": "2192.00"
+        "avg_price": "2230.46"
       }
     }
   }
