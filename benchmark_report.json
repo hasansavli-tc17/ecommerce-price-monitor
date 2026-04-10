@@ -1,5 +1,5 @@
 {
-  "date": "2026-04-10T13:04:05.684Z",
+  "date": "2026-04-10T15:52:22.940Z",
   "summary": {
     "total_sites": 3,
     "successful_sites": 3,
@@ -540,6 +540,13 @@
     },
     {
       "site": "Bloom and Fresh",
+      "name": "Formidablo White",
+      "price": 5299.9,
+      "category": "Karma/Diğer",
+      "url": ""
+    },
+    {
+      "site": "Bloom and Fresh",
       "name": "Golden Succulent",
       "price": 1299.9,
       "category": "Karma/Diğer",
@@ -628,13 +635,6 @@
       "price": 2599.9,
       "category": "Karma/Diğer",
       "url": ""
-    },
-    {
-      "site": "Bloom and Fresh",
-      "name": "Fun Steps",
-      "price": 1999.9,
-      "category": "Karma/Diğer",
-      "url": ""
     }
   ],
   "price_analysis": {
@@ -653,9 +653,9 @@
       },
       "Bloom and Fresh": {
         "product_count": 30,
-        "avg_price": "2073.23",
+        "avg_price": "2183.23",
         "min_price": "1099.90",
-        "max_price": "3399.90"
+        "max_price": "5299.90"
       }
     },
     "by_category": {
@@ -736,10 +736,10 @@
           },
           "Bloom and Fresh": {
             "count": 30,
-            "avg": "2073.23"
+            "avg": "2183.23"
           }
         },
-        "avg_price": "2148.41"
+        "avg_price": "2233.03"
       }
     }
   }
