@@ -1,5 +1,5 @@
 {
-  "date": "2026-04-14T06:16:53.779Z",
+  "date": "2026-04-14T10:14:40.358Z",
   "summary": {
     "total_sites": 3,
     "successful_sites": 3,
@@ -170,7 +170,7 @@
     {
       "site": "Çiçek Sepeti",
       "name": "Kişiye Özel Pankartlı Kırmızı Gerbera Buketi",
-      "price": 549.99,
+      "price": 599.99,
       "category": "Gerbera",
       "url": "https://www.ciceksepeti.com/kisiye-ozel-pankartli-kirmizi-gerbera-buketi-at6036"
     },
@@ -386,6 +386,13 @@
     },
     {
       "site": "Bloom and Fresh",
+      "name": "Brownies by Limburgia (48'li)",
+      "price": 2999.9,
+      "category": "Karma/Diğer",
+      "url": ""
+    },
+    {
+      "site": "Bloom and Fresh",
       "name": "Harem Chocolate Concept Selection Kutusu",
       "price": 1999.9,
       "category": "Karma/Diğer",
@@ -418,26 +425,19 @@
       "price": 1999.9,
       "category": "Karma/Diğer",
       "url": ""
-    },
-    {
-      "site": "Bloom and Fresh",
-      "name": "Selamlique Pierre Loti Hediye Seti",
-      "price": 4999.9,
-      "category": "Karma/Diğer",
-      "url": ""
     }
   ],
   "price_analysis": {
     "by_site": {
       "Çiçek Sepeti": {
         "product_count": 30,
-        "avg_price": "784.52",
+        "avg_price": "786.19",
         "min_price": "499.99",
         "max_price": "1349.00"
       },
       "Bloom and Fresh": {
         "product_count": 30,
-        "avg_price": "2263.23",
+        "avg_price": "2196.57",
         "min_price": "1099.90",
         "max_price": "5299.90"
       }
@@ -458,10 +458,10 @@
         "prices_by_site": {
           "Çiçek Sepeti": {
             "count": 7,
-            "avg": "595.70"
+            "avg": "602.85"
           }
         },
-        "avg_price": "595.70"
+        "avg_price": "602.85"
       },
       "Papatya": {
         "count": 6,
@@ -478,10 +478,10 @@
         "prices_by_site": {
           "Bloom and Fresh": {
             "count": 30,
-            "avg": "2263.23"
+            "avg": "2196.57"
           }
         },
-        "avg_price": "2263.23"
+        "avg_price": "2196.57"
       }
     }
   }
