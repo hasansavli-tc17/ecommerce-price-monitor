@@ -1,5 +1,5 @@
 {
-  "date": "2026-04-17T10:12:55.755Z",
+  "date": "2026-04-17T13:13:56.803Z",
   "summary": {
     "total_sites": 3,
     "successful_sites": 3,
@@ -218,6 +218,13 @@
     },
     {
       "site": "Bloom and Fresh",
+      "name": "Mistral & Rebul Aqua Edc Kolonya (250 ml) Bundle",
+      "price": 2799.9,
+      "category": "Karma/Diğer",
+      "url": ""
+    },
+    {
+      "site": "Bloom and Fresh",
       "name": "Spring Joy",
       "price": 1699.9,
       "category": "Karma/Diğer",
@@ -248,6 +255,13 @@
       "site": "Bloom and Fresh",
       "name": "Verona",
       "price": 2999.9,
+      "category": "Karma/Diğer",
+      "url": ""
+    },
+    {
+      "site": "Bloom and Fresh",
+      "name": "Jihane",
+      "price": 1999.9,
       "category": "Karma/Diğer",
       "url": ""
     },
@@ -411,20 +425,6 @@
       "price": 4999.9,
       "category": "Karma/Diğer",
       "url": ""
-    },
-    {
-      "site": "Bloom and Fresh",
-      "name": "Printworks Riviera Çizgili Taşınabilir Lamba",
-      "price": 5599.9,
-      "category": "Karma/Diğer",
-      "url": ""
-    },
-    {
-      "site": "Bloom and Fresh",
-      "name": "LEGO Botanicals Küçük Sarı Buket - 373 Parça (10347)",
-      "price": 2599.9,
-      "category": "Karma/Diğer",
-      "url": ""
     }
   ],
   "price_analysis": {
@@ -437,9 +437,9 @@
       },
       "Bloom and Fresh": {
         "product_count": 30,
-        "avg_price": "2419.90",
+        "avg_price": "2306.57",
         "min_price": "1099.90",
-        "max_price": "5599.90"
+        "max_price": "5299.90"
       }
     },
     "by_category": {
@@ -478,10 +478,10 @@
         "prices_by_site": {
           "Bloom and Fresh": {
             "count": 30,
-            "avg": "2419.90"
+            "avg": "2306.57"
           }
         },
-        "avg_price": "2419.90"
+        "avg_price": "2306.57"
       }
     }
   }
