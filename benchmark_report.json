@@ -1,5 +1,5 @@
 {
-  "date": "2026-04-17T06:20:26.749Z",
+  "date": "2026-04-17T10:12:55.755Z",
   "summary": {
     "total_sites": 3,
     "successful_sites": 3,
@@ -253,13 +253,6 @@
     },
     {
       "site": "Bloom and Fresh",
-      "name": "Jihane",
-      "price": 1999.9,
-      "category": "Karma/Diğer",
-      "url": ""
-    },
-    {
-      "site": "Bloom and Fresh",
       "name": "Becky",
       "price": 3399.9,
       "category": "Karma/Diğer",
@@ -276,13 +269,6 @@
       "site": "Bloom and Fresh",
       "name": "Honeybee Bronze",
       "price": 2599.9,
-      "category": "Karma/Diğer",
-      "url": ""
-    },
-    {
-      "site": "Bloom and Fresh",
-      "name": "Coral Gold",
-      "price": 2399.9,
       "category": "Karma/Diğer",
       "url": ""
     },
@@ -425,6 +411,20 @@
       "price": 4999.9,
       "category": "Karma/Diğer",
       "url": ""
+    },
+    {
+      "site": "Bloom and Fresh",
+      "name": "Printworks Riviera Çizgili Taşınabilir Lamba",
+      "price": 5599.9,
+      "category": "Karma/Diğer",
+      "url": ""
+    },
+    {
+      "site": "Bloom and Fresh",
+      "name": "LEGO Botanicals Küçük Sarı Buket - 373 Parça (10347)",
+      "price": 2599.9,
+      "category": "Karma/Diğer",
+      "url": ""
     }
   ],
   "price_analysis": {
@@ -437,9 +437,9 @@
       },
       "Bloom and Fresh": {
         "product_count": 30,
-        "avg_price": "2293.23",
+        "avg_price": "2419.90",
         "min_price": "1099.90",
-        "max_price": "5299.90"
+        "max_price": "5599.90"
       }
     },
     "by_category": {
@@ -478,10 +478,10 @@
         "prices_by_site": {
           "Bloom and Fresh": {
             "count": 30,
-            "avg": "2293.23"
+            "avg": "2419.90"
           }
         },
-        "avg_price": "2293.23"
+        "avg_price": "2419.90"
       }
     }
   }
