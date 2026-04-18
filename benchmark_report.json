@@ -1,5 +1,5 @@
 {
-  "date": "2026-04-18T09:45:13.665Z",
+  "date": "2026-04-18T12:57:21.931Z",
   "summary": {
     "total_sites": 3,
     "successful_sites": 3,
@@ -16,7 +16,7 @@
     {
       "site": "Çiçek Sepeti",
       "name": "Kelebek Bukette Kırmızı Gül ve Pembe Çardak Güller",
-      "price": 859.99,
+      "price": 939.99,
       "category": "Gül",
       "url": "https://www.ciceksepeti.com/kelebek-bukette-kirmizi-gul-ve-pembe-cardak-guller-vbt1240"
     },
@@ -37,21 +37,21 @@
     {
       "site": "Çiçek Sepeti",
       "name": "Sarı Bukette Kırmızı Gerberalar ve Sarı Kasımpatı",
-      "price": 849.99,
+      "price": 819.99,
       "category": "Gerbera",
       "url": "https://www.ciceksepeti.com/sari-bukette-kirmizi-gerberalar-ve-sari-krizantem-vbt1363"
     },
     {
       "site": "Çiçek Sepeti",
       "name": "Sarı Bukette Pembe Çardak Güller & Beyaz Papatyalar",
-      "price": 789.99,
+      "price": 879.99,
       "category": "Gül",
       "url": "https://www.ciceksepeti.com/sari-bukette-pembe-cardak-guller-beyaz-papatyalar-vbt1406"
     },
     {
       "site": "Çiçek Sepeti",
       "name": "Kırmızı Gerbera Çiçek Buketi",
-      "price": 549.99,
+      "price": 629.99,
       "category": "Gerbera",
       "url": "https://www.ciceksepeti.com/kirmizi-gerbera-cicek-buketi-at4258"
     },
@@ -72,21 +72,21 @@
     {
       "site": "Çiçek Sepeti",
       "name": "Turuncu Bukette Çardak Güller ve Beyaz Papatyalar",
-      "price": 929.99,
+      "price": 899.99,
       "category": "Gül",
       "url": "https://www.ciceksepeti.com/turuncu-bukette-cardak-guller-ve-beyaz-papatyalar-vbt1603"
     },
     {
       "site": "Çiçek Sepeti",
       "name": "Kelebek Bukette Kırmızı Güller ve Beyaz Papatyalar",
-      "price": 769.99,
+      "price": 839.99,
       "category": "Gül",
       "url": "https://www.ciceksepeti.com/kelebek-bukette-kirmizi-guller-ve-beyaz-papatyalar-at5824"
     },
     {
       "site": "Çiçek Sepeti",
       "name": "5'li Kırmızı Gül Buketi",
-      "price": 639.99,
+      "price": 599.99,
       "category": "Gül",
       "url": "https://www.ciceksepeti.com/seni-seviyorum-5li-kirmizi-gul-buketi-at2929"
     },
@@ -107,7 +107,7 @@
     {
       "site": "Çiçek Sepeti",
       "name": "Pembe Papatyalar Çiçek Buketi",
-      "price": 779.99,
+      "price": 769.99,
       "category": "Papatya",
       "url": "https://www.ciceksepeti.com/pembe-papatyalar-cicek-buketi-at4255"
     },
@@ -128,7 +128,7 @@
     {
       "site": "Çiçek Sepeti",
       "name": "Kelebek Bukette Pembe Papatyalar ve Hüsnüyusuf",
-      "price": 689.99,
+      "price": 719.99,
       "category": "Papatya",
       "url": "https://www.ciceksepeti.com/kelebek-bukette-pembe-papatyalar-ve-husnuyusuf-vbt1317"
     },
@@ -142,42 +142,42 @@
     {
       "site": "Çiçek Sepeti",
       "name": "Kelebek Bukette Pembe Papatyalar ve Okaliptus",
-      "price": 679.99,
+      "price": 699.99,
       "category": "Papatya",
       "url": "https://www.ciceksepeti.com/kelebek-bukette-pembe-papatyalar-ve-okaliptus-at5826"
     },
     {
       "site": "Çiçek Sepeti",
       "name": "Lila Pembe Bukette Pembe Güller",
-      "price": 719.99,
+      "price": 759.99,
       "category": "Gül",
       "url": "https://www.ciceksepeti.com/lila-pembe-bukette-pembe-guller-vbt1532"
     },
     {
       "site": "Çiçek Sepeti",
       "name": "Pembe Gazete Kağıdı Bukette Beyaz Papatyalar",
-      "price": 499.99,
+      "price": 549.99,
       "category": "Papatya",
       "url": "https://www.ciceksepeti.com/pembe-gazete-kagidi-bukette-beyaz-papatyalar-at5771"
     },
     {
       "site": "Çiçek Sepeti",
       "name": "Lila Pembe Bukette Lila Güller ve Beyaz Gerberalar",
-      "price": 729.99,
+      "price": 779.99,
       "category": "Gül",
       "url": "https://www.ciceksepeti.com/lila-pembe-bukette-lila-guller-ve-beyaz-gerberalar-vbt1239"
     },
     {
       "site": "Çiçek Sepeti",
       "name": "Beyaz Bukette Beyaz Papatya ve Kırmızı Gerbera",
-      "price": 699.99,
+      "price": 759.99,
       "category": "Papatya",
       "url": "https://www.ciceksepeti.com/beyaz-bukette-beyaz-papatya-ve-kirmizi-gerbera-at6032"
     },
     {
       "site": "Çiçek Sepeti",
       "name": "Yeşil Kahve Bukette Kırmızı Güller ve Papatyalar",
-      "price": 829.99,
+      "price": 839.99,
       "category": "Gül",
       "url": "https://www.ciceksepeti.com/yesil-kahve-bukette-kirmizi-guller-ve-papatyalar-at5636"
     },
@@ -198,7 +198,7 @@
     {
       "site": "Çiçek Sepeti",
       "name": "Kişiye Özel Pankartlı Kırmızı Gerbera Buketi",
-      "price": 599.99,
+      "price": 679.99,
       "category": "Gerbera",
       "url": "https://www.ciceksepeti.com/kisiye-ozel-pankartli-kirmizi-gerbera-buketi-at6036"
     },
@@ -212,7 +212,7 @@
     {
       "site": "Çiçek Sepeti",
       "name": "Kraft Taşımalı Bukette Pembe Gerbera ve Hüsnüyusuf",
-      "price": 499.99,
+      "price": 559.99,
       "category": "Gerbera",
       "url": "https://www.ciceksepeti.com/kraft-tasimali-bukette-pembe-gerbera-ve-husnuyusuf-at5833"
     },
@@ -431,8 +431,8 @@
     "by_site": {
       "Çiçek Sepeti": {
         "product_count": 30,
-        "avg_price": "818.86",
-        "min_price": "499.99",
+        "avg_price": "839.19",
+        "min_price": "549.99",
         "max_price": "1999.00"
       },
       "Bloom and Fresh": {
@@ -448,30 +448,30 @@
         "prices_by_site": {
           "Çiçek Sepeti": {
             "count": 18,
-            "avg": "933.10"
+            "avg": "948.10"
           }
         },
-        "avg_price": "933.10"
+        "avg_price": "948.10"
       },
       "Papatya": {
         "count": 6,
         "prices_by_site": {
           "Çiçek Sepeti": {
             "count": 6,
-            "avg": "669.99"
+            "avg": "694.99"
           }
         },
-        "avg_price": "669.99"
+        "avg_price": "694.99"
       },
       "Gerbera": {
         "count": 6,
         "prices_by_site": {
           "Çiçek Sepeti": {
             "count": 6,
-            "avg": "624.99"
+            "avg": "656.66"
           }
         },
-        "avg_price": "624.99"
+        "avg_price": "656.66"
       },
       "Karma/Diğer": {
         "count": 30,
