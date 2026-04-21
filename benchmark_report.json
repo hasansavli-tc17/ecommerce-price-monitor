@@ -1,5 +1,5 @@
 {
-  "date": "2026-04-20T16:07:13.176Z",
+  "date": "2026-04-21T06:20:19.867Z",
   "summary": {
     "total_sites": 3,
     "successful_sites": 3,
@@ -44,7 +44,7 @@
     {
       "site": "Çiçek Sepeti",
       "name": "9'lu Kırmızı Gül Çiçek Buketi",
-      "price": 639.99,
+      "price": 729.99,
       "category": "Gül",
       "url": "https://www.ciceksepeti.com/9lu-kirmizi-gul-cicek-buketi-at4264"
     },
@@ -71,17 +71,17 @@
     },
     {
       "site": "Çiçek Sepeti",
-      "name": "11'li Beyaz Gül Buketi",
-      "price": 879.99,
-      "category": "Gül",
-      "url": "https://www.ciceksepeti.com/11li-beyaz-gul-cicek-buketi-at4276-1"
-    },
-    {
-      "site": "Çiçek Sepeti",
       "name": "Beyaz Gerberalar Çiçek Buketi Lolaflora",
       "price": 619.99,
       "category": "Gerbera",
       "url": "https://www.ciceksepeti.com/beyaz-gerberalar-cicek-buketi-at5380"
+    },
+    {
+      "site": "Çiçek Sepeti",
+      "name": "11'li Beyaz Gül Buketi",
+      "price": 879.99,
+      "category": "Gül",
+      "url": "https://www.ciceksepeti.com/11li-beyaz-gul-cicek-buketi-at4276-1"
     },
     {
       "site": "Çiçek Sepeti",
@@ -141,13 +141,6 @@
     },
     {
       "site": "Çiçek Sepeti",
-      "name": "Lila Pembe Bukette Lila Güller ve Beyaz Gerberalar",
-      "price": 779.99,
-      "category": "Gül",
-      "url": "https://www.ciceksepeti.com/lila-pembe-bukette-lila-guller-ve-beyaz-gerberalar-vbt1239"
-    },
-    {
-      "site": "Çiçek Sepeti",
       "name": "Kelebek Bukette Pembe Papatyalar ve Okaliptus",
       "price": 699.99,
       "category": "Papatya",
@@ -155,17 +148,10 @@
     },
     {
       "site": "Çiçek Sepeti",
-      "name": "7'li Kırmızı Gül Buketi",
-      "price": 749.99,
+      "name": "Lila Pembe Bukette Lila Güller ve Beyaz Gerberalar",
+      "price": 779.99,
       "category": "Gül",
-      "url": "https://www.ciceksepeti.com/hayatimin-askina-7li-gul-buketi-at4030"
-    },
-    {
-      "site": "Çiçek Sepeti",
-      "name": "Lila Pembe Bukette Pembe Güller",
-      "price": 759.99,
-      "category": "Gül",
-      "url": "https://www.ciceksepeti.com/lila-pembe-bukette-pembe-guller-vbt1532"
+      "url": "https://www.ciceksepeti.com/lila-pembe-bukette-lila-guller-ve-beyaz-gerberalar-vbt1239"
     },
     {
       "site": "Çiçek Sepeti",
@@ -183,6 +169,27 @@
     },
     {
       "site": "Çiçek Sepeti",
+      "name": "7'li Kırmızı Gül Buketi",
+      "price": 679.99,
+      "category": "Gül",
+      "url": "https://www.ciceksepeti.com/hayatimin-askina-7li-gul-buketi-at4030"
+    },
+    {
+      "site": "Çiçek Sepeti",
+      "name": "Lila Pembe Bukette Pembe Güller",
+      "price": 759.99,
+      "category": "Gül",
+      "url": "https://www.ciceksepeti.com/lila-pembe-bukette-pembe-guller-vbt1532"
+    },
+    {
+      "site": "Çiçek Sepeti",
+      "name": "Lila Bukette 3 Lila Gül ve Pembe Beyaz Papatyalar",
+      "price": 819.99,
+      "category": "Gül",
+      "url": "https://www.ciceksepeti.com/lila-bukette-3-lila-gul-ve-pembe-beyaz-papatyalar-vbt1623"
+    },
+    {
+      "site": "Çiçek Sepeti",
       "name": "Beyaz Bukette Beyaz Papatya ve Kırmızı Gerbera",
       "price": 759.99,
       "category": "Papatya",
@@ -194,13 +201,6 @@
       "price": 899.99,
       "category": "Gül",
       "url": "https://www.ciceksepeti.com/turuncu-bukette-cardak-guller-ve-beyaz-papatyalar-vbt1603"
-    },
-    {
-      "site": "Çiçek Sepeti",
-      "name": "Lila Bukette 3 Lila Gül ve Pembe Beyaz Papatyalar",
-      "price": 819.99,
-      "category": "Gül",
-      "url": "https://www.ciceksepeti.com/lila-bukette-3-lila-gul-ve-pembe-beyaz-papatyalar-vbt1623"
     },
     {
       "site": "Çiçek Sepeti",
@@ -379,15 +379,15 @@
     },
     {
       "site": "Bloom and Fresh",
-      "name": "Harem Chocolate Love Kutu (215g)",
-      "price": 1999.9,
+      "name": "Brownies by Limburgia (48'li)",
+      "price": 2999.9,
       "category": "Karma/Diğer",
       "url": ""
     },
     {
       "site": "Bloom and Fresh",
-      "name": "Brownies by Limburgia (48'li)",
-      "price": 2999.9,
+      "name": "Melodi 1957 Serisi Spesiyal Çikolata (250g)",
+      "price": 1299.9,
       "category": "Karma/Diğer",
       "url": ""
     },
@@ -431,13 +431,13 @@
     "by_site": {
       "Çiçek Sepeti": {
         "product_count": 30,
-        "avg_price": "791.59",
+        "avg_price": "792.26",
         "min_price": "549.99",
         "max_price": "1349.00"
       },
       "Bloom and Fresh": {
         "product_count": 30,
-        "avg_price": "2219.90",
+        "avg_price": "2196.57",
         "min_price": "1099.90",
         "max_price": "5299.90"
       }
@@ -448,10 +448,10 @@
         "prices_by_site": {
           "Çiçek Sepeti": {
             "count": 17,
-            "avg": "864.58"
+            "avg": "865.76"
           }
         },
-        "avg_price": "864.58"
+        "avg_price": "865.76"
       },
       "Gerbera": {
         "count": 7,
@@ -478,10 +478,10 @@
         "prices_by_site": {
           "Bloom and Fresh": {
             "count": 30,
-            "avg": "2219.90"
+            "avg": "2196.57"
           }
         },
-        "avg_price": "2219.90"
+        "avg_price": "2196.57"
       }
     }
   }
