@@ -1,5 +1,5 @@
 {
-  "date": "2026-04-21T10:18:01.230Z",
+  "date": "2026-04-21T13:20:20.623Z",
   "summary": {
     "total_sites": 3,
     "successful_sites": 3,
@@ -386,13 +386,6 @@
     },
     {
       "site": "Bloom and Fresh",
-      "name": "Melodi 1957 Serisi Spesiyal Çikolata (250g)",
-      "price": 1299.9,
-      "category": "Karma/Diğer",
-      "url": ""
-    },
-    {
-      "site": "Bloom and Fresh",
       "name": "Harem Chocolate Concept Selection Kutusu",
       "price": 1999.9,
       "category": "Karma/Diğer",
@@ -425,6 +418,13 @@
       "price": 1999.9,
       "category": "Karma/Diğer",
       "url": ""
+    },
+    {
+      "site": "Bloom and Fresh",
+      "name": "Selamlique Pierre Loti Hediye Seti",
+      "price": 4999.9,
+      "category": "Karma/Diğer",
+      "url": ""
     }
   ],
   "price_analysis": {
@@ -437,7 +437,7 @@
       },
       "Bloom and Fresh": {
         "product_count": 30,
-        "avg_price": "2196.57",
+        "avg_price": "2319.90",
         "min_price": "1099.90",
         "max_price": "5299.90"
       }
@@ -478,10 +478,10 @@
         "prices_by_site": {
           "Bloom and Fresh": {
             "count": 30,
-            "avg": "2196.57"
+            "avg": "2319.90"
           }
         },
-        "avg_price": "2196.57"
+        "avg_price": "2319.90"
       }
     }
   }
