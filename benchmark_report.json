@@ -1,5 +1,5 @@
 {
-  "date": "2026-04-21T06:20:19.867Z",
+  "date": "2026-04-21T10:18:01.230Z",
   "summary": {
     "total_sites": 3,
     "successful_sites": 3,
@@ -58,7 +58,7 @@
     {
       "site": "Çiçek Sepeti",
       "name": "Kırmızı Gerbera Çiçek Buketi",
-      "price": 629.99,
+      "price": 599.99,
       "category": "Gerbera",
       "url": "https://www.ciceksepeti.com/kirmizi-gerbera-cicek-buketi-at4258"
     },
@@ -163,7 +163,7 @@
     {
       "site": "Çiçek Sepeti",
       "name": "Kişiye Özel Pankartlı Kırmızı Gerbera Buketi",
-      "price": 679.99,
+      "price": 649.99,
       "category": "Gerbera",
       "url": "https://www.ciceksepeti.com/kisiye-ozel-pankartli-kirmizi-gerbera-buketi-at6036"
     },
@@ -431,7 +431,7 @@
     "by_site": {
       "Çiçek Sepeti": {
         "product_count": 30,
-        "avg_price": "792.26",
+        "avg_price": "790.26",
         "min_price": "549.99",
         "max_price": "1349.00"
       },
@@ -458,10 +458,10 @@
         "prices_by_site": {
           "Çiçek Sepeti": {
             "count": 7,
-            "avg": "661.42"
+            "avg": "652.85"
           }
         },
-        "avg_price": "661.42"
+        "avg_price": "652.85"
       },
       "Papatya": {
         "count": 6,
