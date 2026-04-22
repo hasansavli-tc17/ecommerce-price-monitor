@@ -1,5 +1,5 @@
 {
-  "date": "2026-04-22T06:19:22.131Z",
+  "date": "2026-04-22T10:18:05.039Z",
   "summary": {
     "total_sites": 3,
     "successful_sites": 3,
@@ -239,13 +239,6 @@
     },
     {
       "site": "Bloom and Fresh",
-      "name": "Dawn",
-      "price": 1699.9,
-      "category": "Karma/Diğer",
-      "url": ""
-    },
-    {
-      "site": "Bloom and Fresh",
       "name": "Hera & Rebul Bouquet Edc Kolonya (250 ml) Bundle",
       "price": 1899.9,
       "category": "Karma/Diğer",
@@ -425,6 +418,13 @@
       "price": 1999.9,
       "category": "Karma/Diğer",
       "url": ""
+    },
+    {
+      "site": "Bloom and Fresh",
+      "name": "Selamlique Pierre Loti Hediye Seti",
+      "price": 4999.9,
+      "category": "Karma/Diğer",
+      "url": ""
     }
   ],
   "price_analysis": {
@@ -437,7 +437,7 @@
       },
       "Bloom and Fresh": {
         "product_count": 30,
-        "avg_price": "2196.57",
+        "avg_price": "2306.57",
         "min_price": "1099.90",
         "max_price": "5299.90"
       }
@@ -478,10 +478,10 @@
         "prices_by_site": {
           "Bloom and Fresh": {
             "count": 30,
-            "avg": "2196.57"
+            "avg": "2306.57"
           }
         },
-        "avg_price": "2196.57"
+        "avg_price": "2306.57"
       }
     }
   }
