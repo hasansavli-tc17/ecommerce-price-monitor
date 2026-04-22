@@ -1,5 +1,5 @@
 {
-  "date": "2026-04-22T10:18:05.039Z",
+  "date": "2026-04-22T13:21:27.737Z",
   "summary": {
     "total_sites": 3,
     "successful_sites": 3,
@@ -239,57 +239,64 @@
     },
     {
       "site": "Bloom and Fresh",
+      "name": "Dawn",
+      "price": 1699.9,
+      "category": "Karma/Diğer",
+      "url": ""
+    },
+    {
+      "site": "Bloom and Fresh",
       "name": "Hera & Rebul Bouquet Edc Kolonya (250 ml) Bundle",
-      "price": 1899.9,
+      "price": 2099.9,
       "category": "Karma/Diğer",
       "url": ""
     },
     {
       "site": "Bloom and Fresh",
       "name": "Verona",
-      "price": 2999.9,
+      "price": 3199.9,
       "category": "Karma/Diğer",
       "url": ""
     },
     {
       "site": "Bloom and Fresh",
       "name": "Jihane",
-      "price": 1999.9,
+      "price": 2099.9,
       "category": "Karma/Diğer",
       "url": ""
     },
     {
       "site": "Bloom and Fresh",
       "name": "Becky",
-      "price": 3399.9,
+      "price": 3599.9,
       "category": "Karma/Diğer",
       "url": ""
     },
     {
       "site": "Bloom and Fresh",
       "name": "Honeybee",
-      "price": 2599.9,
+      "price": 2699.9,
       "category": "Karma/Diğer",
       "url": ""
     },
     {
       "site": "Bloom and Fresh",
       "name": "Honeybee Bronze",
-      "price": 2599.9,
+      "price": 2699.9,
       "category": "Karma/Diğer",
       "url": ""
     },
     {
       "site": "Bloom and Fresh",
       "name": "Coral Gold",
-      "price": 2399.9,
+      "price": 2499.9,
       "category": "Karma/Diğer",
       "url": ""
     },
     {
       "site": "Bloom and Fresh",
       "name": "Wonder Traverten",
-      "price": 2499.9,
+      "price": 2599.9,
       "category": "Karma/Diğer",
       "url": ""
     },
@@ -303,7 +310,7 @@
     {
       "site": "Bloom and Fresh",
       "name": "Formidablo White",
-      "price": 5299.9,
+      "price": 5999.9,
       "category": "Karma/Diğer",
       "url": ""
     },
@@ -331,14 +338,14 @@
     {
       "site": "Bloom and Fresh",
       "name": "Minto",
-      "price": 1499.9,
+      "price": 1599.9,
       "category": "Karma/Diğer",
       "url": ""
     },
     {
       "site": "Bloom and Fresh",
       "name": "Lily Mesh",
-      "price": 2399.9,
+      "price": 2599.9,
       "category": "Karma/Diğer",
       "url": ""
     },
@@ -393,13 +400,6 @@
     },
     {
       "site": "Bloom and Fresh",
-      "name": "Godiva x Labubu Masterpieces Çikolata | Limited Edition (Metal Kutu)",
-      "price": 1299.9,
-      "category": "Karma/Diğer",
-      "url": ""
-    },
-    {
-      "site": "Bloom and Fresh",
       "name": "Birthday Box Black",
       "price": 1799.9,
       "category": "Karma/Diğer",
@@ -437,9 +437,9 @@
       },
       "Bloom and Fresh": {
         "product_count": 30,
-        "avg_price": "2306.57",
+        "avg_price": "2389.90",
         "min_price": "1099.90",
-        "max_price": "5299.90"
+        "max_price": "5999.90"
       }
     },
     "by_category": {
@@ -478,10 +478,10 @@
         "prices_by_site": {
           "Bloom and Fresh": {
             "count": 30,
-            "avg": "2306.57"
+            "avg": "2389.90"
           }
         },
-        "avg_price": "2306.57"
+        "avg_price": "2389.90"
       }
     }
   }
