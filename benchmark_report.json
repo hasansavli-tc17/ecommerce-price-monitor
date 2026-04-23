@@ -1,5 +1,5 @@
 {
-  "date": "2026-04-23T13:22:43.954Z",
+  "date": "2026-04-23T16:29:48.376Z",
   "summary": {
     "total_sites": 3,
     "successful_sites": 3,
@@ -246,6 +246,13 @@
     },
     {
       "site": "Bloom and Fresh",
+      "name": "Hera & Rebul Bouquet Edc Kolonya (250 ml) Bundle",
+      "price": 2099.9,
+      "category": "Karma/Diğer",
+      "url": ""
+    },
+    {
+      "site": "Bloom and Fresh",
       "name": "Verona",
       "price": 3199.9,
       "category": "Karma/Diğer",
@@ -295,13 +302,6 @@
     },
     {
       "site": "Bloom and Fresh",
-      "name": "Dark Sienna Nomad",
-      "price": 1899.9,
-      "category": "Karma/Diğer",
-      "url": ""
-    },
-    {
-      "site": "Bloom and Fresh",
       "name": "Formidablo White",
       "price": 5999.9,
       "category": "Karma/Diğer",
@@ -325,13 +325,6 @@
       "site": "Bloom and Fresh",
       "name": "Lily Cubes",
       "price": 2599.9,
-      "category": "Karma/Diğer",
-      "url": ""
-    },
-    {
-      "site": "Bloom and Fresh",
-      "name": "Minto",
-      "price": 1599.9,
       "category": "Karma/Diğer",
       "url": ""
     },
@@ -425,6 +418,13 @@
       "price": 5599.9,
       "category": "Karma/Diğer",
       "url": ""
+    },
+    {
+      "site": "Bloom and Fresh",
+      "name": "LEGO Botanicals Küçük Sarı Buket - 373 Parça (10347)",
+      "price": 2599.9,
+      "category": "Karma/Diğer",
+      "url": ""
     }
   ],
   "price_analysis": {
@@ -437,7 +437,7 @@
       },
       "Bloom and Fresh": {
         "product_count": 30,
-        "avg_price": "2506.57",
+        "avg_price": "2546.57",
         "min_price": "1099.90",
         "max_price": "5999.90"
       }
@@ -478,10 +478,10 @@
         "prices_by_site": {
           "Bloom and Fresh": {
             "count": 30,
-            "avg": "2506.57"
+            "avg": "2546.57"
           }
         },
-        "avg_price": "2506.57"
+        "avg_price": "2546.57"
       }
     }
   }
