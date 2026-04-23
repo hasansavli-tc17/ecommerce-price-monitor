@@ -1,5 +1,5 @@
 {
-  "date": "2026-04-23T06:24:05.497Z",
+  "date": "2026-04-23T10:20:14.531Z",
   "summary": {
     "total_sites": 3,
     "successful_sites": 3,
@@ -246,13 +246,6 @@
     },
     {
       "site": "Bloom and Fresh",
-      "name": "Hera & Rebul Bouquet Edc Kolonya (250 ml) Bundle",
-      "price": 2099.9,
-      "category": "Karma/Diğer",
-      "url": ""
-    },
-    {
-      "site": "Bloom and Fresh",
       "name": "Verona",
       "price": 3199.9,
       "category": "Karma/Diğer",
@@ -425,6 +418,13 @@
       "price": 4999.9,
       "category": "Karma/Diğer",
       "url": ""
+    },
+    {
+      "site": "Bloom and Fresh",
+      "name": "Printworks Riviera Çizgili Taşınabilir Lamba",
+      "price": 5599.9,
+      "category": "Karma/Diğer",
+      "url": ""
     }
   ],
   "price_analysis": {
@@ -437,7 +437,7 @@
       },
       "Bloom and Fresh": {
         "product_count": 30,
-        "avg_price": "2389.90",
+        "avg_price": "2506.57",
         "min_price": "1099.90",
         "max_price": "5999.90"
       }
@@ -478,10 +478,10 @@
         "prices_by_site": {
           "Bloom and Fresh": {
             "count": 30,
-            "avg": "2389.90"
+            "avg": "2506.57"
           }
         },
-        "avg_price": "2389.90"
+        "avg_price": "2506.57"
       }
     }
   }
