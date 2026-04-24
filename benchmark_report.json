@@ -1,5 +1,5 @@
 {
-  "date": "2026-04-24T10:20:10.001Z",
+  "date": "2026-04-24T13:18:14.737Z",
   "summary": {
     "total_sites": 3,
     "successful_sites": 3,
@@ -218,14 +218,14 @@
     },
     {
       "site": "Bloom and Fresh",
-      "name": "Galaxy of Love",
-      "price": 2999.9,
-      "category": "Karma/Diğer",
+      "name": "Columbus - 25 ad. Pembe Katmerli Lale",
+      "price": 2099.9,
+      "category": "Lale",
       "url": ""
     },
     {
       "site": "Bloom and Fresh",
-      "name": "Sienna",
+      "name": "Volante",
       "price": 1699.9,
       "category": "Karma/Diğer",
       "url": ""
@@ -246,15 +246,22 @@
     },
     {
       "site": "Bloom and Fresh",
-      "name": "Hera & Rebul Bouquet Edc Kolonya (250 ml) Bundle",
-      "price": 2099.9,
+      "name": "Astra Luminis",
+      "price": 2999.9,
       "category": "Karma/Diğer",
       "url": ""
     },
     {
       "site": "Bloom and Fresh",
-      "name": "Verona",
-      "price": 3199.9,
+      "name": "Primavera",
+      "price": 2199.9,
+      "category": "Karma/Diğer",
+      "url": ""
+    },
+    {
+      "site": "Bloom and Fresh",
+      "name": "The Duchess",
+      "price": 1899.9,
       "category": "Karma/Diğer",
       "url": ""
     },
@@ -418,13 +425,6 @@
       "price": 1799.9,
       "category": "Karma/Diğer",
       "url": ""
-    },
-    {
-      "site": "Bloom and Fresh",
-      "name": "Chess & Cheers",
-      "price": 2599.9,
-      "category": "Karma/Diğer",
-      "url": ""
     }
   ],
   "price_analysis": {
@@ -437,7 +437,7 @@
       },
       "Bloom and Fresh": {
         "product_count": 30,
-        "avg_price": "2319.90",
+        "avg_price": "2263.23",
         "min_price": "1099.90",
         "max_price": "5999.90"
       }
@@ -473,15 +473,25 @@
         },
         "avg_price": "729.99"
       },
-      "Karma/Diğer": {
-        "count": 30,
+      "Lale": {
+        "count": 1,
         "prices_by_site": {
           "Bloom and Fresh": {
-            "count": 30,
-            "avg": "2319.90"
+            "count": 1,
+            "avg": "2099.90"
           }
         },
-        "avg_price": "2319.90"
+        "avg_price": "2099.90"
+      },
+      "Karma/Diğer": {
+        "count": 29,
+        "prices_by_site": {
+          "Bloom and Fresh": {
+            "count": 29,
+            "avg": "2268.87"
+          }
+        },
+        "avg_price": "2268.87"
       }
     }
   }
