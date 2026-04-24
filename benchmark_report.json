@@ -1,5 +1,5 @@
 {
-  "date": "2026-04-24T06:25:44.507Z",
+  "date": "2026-04-24T10:20:10.001Z",
   "summary": {
     "total_sites": 3,
     "successful_sites": 3,
@@ -218,6 +218,20 @@
     },
     {
       "site": "Bloom and Fresh",
+      "name": "Galaxy of Love",
+      "price": 2999.9,
+      "category": "Karma/Diğer",
+      "url": ""
+    },
+    {
+      "site": "Bloom and Fresh",
+      "name": "Sienna",
+      "price": 1699.9,
+      "category": "Karma/Diğer",
+      "url": ""
+    },
+    {
+      "site": "Bloom and Fresh",
       "name": "Spring Joy",
       "price": 1699.9,
       "category": "Karma/Diğer",
@@ -241,13 +255,6 @@
       "site": "Bloom and Fresh",
       "name": "Verona",
       "price": 3199.9,
-      "category": "Karma/Diğer",
-      "url": ""
-    },
-    {
-      "site": "Bloom and Fresh",
-      "name": "Jihane",
-      "price": 2099.9,
       "category": "Karma/Diğer",
       "url": ""
     },
@@ -337,6 +344,13 @@
     },
     {
       "site": "Bloom and Fresh",
+      "name": "Dark Sienna Terra",
+      "price": 1899.9,
+      "category": "Karma/Diğer",
+      "url": ""
+    },
+    {
+      "site": "Bloom and Fresh",
       "name": "B&F Chocolate (20'li)",
       "price": 1099.9,
       "category": "Karma/Diğer",
@@ -372,7 +386,28 @@
     },
     {
       "site": "Bloom and Fresh",
+      "name": "Divan Pralin Çikolata (20'li)",
+      "price": 1799.9,
+      "category": "Karma/Diğer",
+      "url": ""
+    },
+    {
+      "site": "Bloom and Fresh",
       "name": "Harem Chocolate Concept Selection Kutusu",
+      "price": 1999.9,
+      "category": "Karma/Diğer",
+      "url": ""
+    },
+    {
+      "site": "Bloom and Fresh",
+      "name": "Have A Good Day",
+      "price": 2999.9,
+      "category": "Karma/Diğer",
+      "url": ""
+    },
+    {
+      "site": "Bloom and Fresh",
+      "name": "Well Hello Kity!",
       "price": 1999.9,
       "category": "Karma/Diğer",
       "url": ""
@@ -390,41 +425,6 @@
       "price": 2599.9,
       "category": "Karma/Diğer",
       "url": ""
-    },
-    {
-      "site": "Bloom and Fresh",
-      "name": "Fun Steps",
-      "price": 1999.9,
-      "category": "Karma/Diğer",
-      "url": ""
-    },
-    {
-      "site": "Bloom and Fresh",
-      "name": "Selamlique Pierre Loti Hediye Seti",
-      "price": 4999.9,
-      "category": "Karma/Diğer",
-      "url": ""
-    },
-    {
-      "site": "Bloom and Fresh",
-      "name": "Printworks Riviera Çizgili Taşınabilir Lamba",
-      "price": 5599.9,
-      "category": "Karma/Diğer",
-      "url": ""
-    },
-    {
-      "site": "Bloom and Fresh",
-      "name": "LEGO Botanicals Küçük Sarı Buket - 373 Parça (10347)",
-      "price": 2599.9,
-      "category": "Karma/Diğer",
-      "url": ""
-    },
-    {
-      "site": "Bloom and Fresh",
-      "name": "LEGO Art Love - 791 Parça (312174)",
-      "price": 4599.9,
-      "category": "Karma/Diğer",
-      "url": ""
     }
   ],
   "price_analysis": {
@@ -437,7 +437,7 @@
       },
       "Bloom and Fresh": {
         "product_count": 30,
-        "avg_price": "2603.23",
+        "avg_price": "2319.90",
         "min_price": "1099.90",
         "max_price": "5999.90"
       }
@@ -478,10 +478,10 @@
         "prices_by_site": {
           "Bloom and Fresh": {
             "count": 30,
-            "avg": "2603.23"
+            "avg": "2319.90"
           }
         },
-        "avg_price": "2603.23"
+        "avg_price": "2319.90"
       }
     }
   }
