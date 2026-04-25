@@ -1,5 +1,5 @@
 {
-  "date": "2026-04-25T09:51:19.197Z",
+  "date": "2026-04-25T12:58:46.350Z",
   "summary": {
     "total_sites": 3,
     "successful_sites": 3,
@@ -232,13 +232,6 @@
     },
     {
       "site": "Bloom and Fresh",
-      "name": "Spring Joy",
-      "price": 1699.9,
-      "category": "Karma/Diğer",
-      "url": ""
-    },
-    {
-      "site": "Bloom and Fresh",
       "name": "Charlotte",
       "price": 1799.9,
       "category": "Karma/Diğer",
@@ -425,6 +418,13 @@
       "price": 1799.9,
       "category": "Karma/Diğer",
       "url": ""
+    },
+    {
+      "site": "Bloom and Fresh",
+      "name": "Chess & Cheers",
+      "price": 2599.9,
+      "category": "Karma/Diğer",
+      "url": ""
     }
   ],
   "price_analysis": {
@@ -437,7 +437,7 @@
       },
       "Bloom and Fresh": {
         "product_count": 30,
-        "avg_price": "2263.23",
+        "avg_price": "2293.23",
         "min_price": "1099.90",
         "max_price": "5999.90"
       }
@@ -488,10 +488,10 @@
         "prices_by_site": {
           "Bloom and Fresh": {
             "count": 29,
-            "avg": "2268.87"
+            "avg": "2299.90"
           }
         },
-        "avg_price": "2268.87"
+        "avg_price": "2299.90"
       }
     }
   }
