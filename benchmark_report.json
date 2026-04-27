@@ -1,5 +1,5 @@
 {
-  "date": "2026-04-27T11:02:29.341Z",
+  "date": "2026-04-27T13:47:00.549Z",
   "summary": {
     "total_sites": 3,
     "successful_sites": 3,
@@ -218,72 +218,72 @@
     },
     {
       "site": "Bloom and Fresh",
-      "name": "Columbus - 25 ad. Pembe Katmerli Lale\nColumbus 25 Adet Pembe Lale Çiçek Buketi",
+      "name": "Columbus - 25 ad. Pembe Katmerli Lale",
       "price": 2099.9,
       "category": "Lale",
       "url": ""
     },
     {
       "site": "Bloom and Fresh",
-      "name": "Volante\nVolante Gül Buketi",
+      "name": "Volante",
       "price": 1699.9,
-      "category": "Gül",
+      "category": "Karma/Diğer",
       "url": ""
     },
     {
       "site": "Bloom and Fresh",
-      "name": "Spring Joy\nSpring Joy Gül Buketi",
+      "name": "Spring Joy",
       "price": 1699.9,
-      "category": "Gül",
+      "category": "Karma/Diğer",
       "url": ""
     },
     {
       "site": "Bloom and Fresh",
-      "name": "Charlotte\nCharlotte Gül & Çiçek Buketi",
+      "name": "Charlotte",
       "price": 1799.9,
-      "category": "Gül",
+      "category": "Karma/Diğer",
       "url": ""
     },
     {
       "site": "Bloom and Fresh",
-      "name": "Astra Luminis\nAstra Luminis Vazoda Gül ve Lale",
+      "name": "Astra Luminis",
       "price": 2999.9,
-      "category": "Gül",
+      "category": "Karma/Diğer",
       "url": ""
     },
     {
       "site": "Bloom and Fresh",
-      "name": "Primavera\nPremium İthal Cam Vazoda Gül Aranjmanı",
+      "name": "Primavera",
       "price": 2199.9,
-      "category": "Gül",
+      "category": "Karma/Diğer",
       "url": ""
     },
     {
       "site": "Bloom and Fresh",
-      "name": "The Duchess\nThe Duchess Vazoda Lale Çiçeği",
+      "name": "The Duchess",
       "price": 1899.9,
-      "category": "Lale",
+      "category": "Karma/Diğer",
       "url": ""
     },
     {
       "site": "Bloom and Fresh",
-      "name": "Becky\nBecky Vazoda Gül Buketi",
+      "name": "Becky",
       "price": 3599.9,
-      "category": "Gül",
+      "category": "Karma/Diğer",
       "url": ""
     },
     {
       "site": "Bloom and Fresh",
-      "name": "Honeybee\nHoneybee Orkide Çiçeği",
+      "name": "Honeybee",
       "price": 2699.9,
-      "category": "Orkide",
+      "category": "Karma/Diğer",
       "url": ""
     },
     {
       "site": "Bloom and Fresh",
-      "name": "Honeybee Bronze\nHoneybee Bronze Orkide Çiçeği",
+      "name": "Honeybee Bronze",
       "price": 2699.9,
-      "category": "Orkide",
+      "category": "Karma/Diğer",
       "url": ""
     },
     {
@@ -295,49 +295,49 @@
     },
     {
       "site": "Bloom and Fresh",
-      "name": "Wonder Traverten\nWonder Traverten Orkide Çiçeği",
+      "name": "Wonder Traverten",
       "price": 2599.9,
-      "category": "Orkide",
+      "category": "Karma/Diğer",
       "url": ""
     },
     {
       "site": "Bloom and Fresh",
-      "name": "Formidablo White\nFormidablo White Orkide Çiçeği",
+      "name": "Formidablo White",
       "price": 5999.9,
-      "category": "Orkide",
+      "category": "Karma/Diğer",
       "url": ""
     },
     {
       "site": "Bloom and Fresh",
-      "name": "Golden Succulent\nPremium Gold Saksıda Succulent Bitkisi",
+      "name": "Golden Succulent",
       "price": 1299.9,
       "category": "Karma/Diğer",
       "url": ""
     },
     {
       "site": "Bloom and Fresh",
-      "name": "Bola\nSeramik Saksıda Katmerli Begonya",
+      "name": "Bola",
       "price": 1699.9,
       "category": "Karma/Diğer",
       "url": ""
     },
     {
       "site": "Bloom and Fresh",
-      "name": "Lily Cubes\nPremium İthal Saksıda Pembe Antoryum Bitkisi",
+      "name": "Lily Cubes",
       "price": 2599.9,
       "category": "Karma/Diğer",
       "url": ""
     },
     {
       "site": "Bloom and Fresh",
-      "name": "Minto\nÖzel Üretim Mermer Saksıda Tillandsia Pink Quill",
+      "name": "Minto",
       "price": 1599.9,
       "category": "Karma/Diğer",
       "url": ""
     },
     {
       "site": "Bloom and Fresh",
-      "name": "Lily Mesh\nLily Mesh Saksıda Antoryum Çiçeği",
+      "name": "Lily Mesh",
       "price": 2599.9,
       "category": "Karma/Diğer",
       "url": ""
@@ -351,28 +351,28 @@
     },
     {
       "site": "Bloom and Fresh",
-      "name": "Dark Sienna Terra\nDark Sienna Terra Saksıda Antoryum Çiçeği",
+      "name": "Dark Sienna Terra",
       "price": 1899.9,
       "category": "Karma/Diğer",
       "url": ""
     },
     {
       "site": "Bloom and Fresh",
-      "name": "B&F Chocolate (20'li)\nB&F 20'li Pralin Çikolata Kutusu",
+      "name": "B&F Chocolate (20'li)",
       "price": 1099.9,
       "category": "Karma/Diğer",
       "url": ""
     },
     {
       "site": "Bloom and Fresh",
-      "name": "B&F Wild Jungle Macarons (24'lü)\nB&F Wild Jungle 24'lü Karışık Makaron",
+      "name": "B&F Wild Jungle Macarons (24'lü)",
       "price": 1699.9,
       "category": "Karma/Diğer",
       "url": ""
     },
     {
       "site": "Bloom and Fresh",
-      "name": "Brownies Food & Co. Premium Mixbox (12’li)\nBrownies Food & Co. Premium Mixbox 12’li Brownie",
+      "name": "Brownies Food & Co. Premium Mixbox (12’li)",
       "price": 1399.9,
       "category": "Karma/Diğer",
       "url": ""
@@ -386,42 +386,42 @@
     },
     {
       "site": "Bloom and Fresh",
-      "name": "Melodi 1957 Serisi Spesiyal Çikolata (250g)\nMelodi 1957 Serisi Spesiyal Çikolata",
+      "name": "Melodi 1957 Serisi Spesiyal Çikolata (250g)",
       "price": 1299.9,
       "category": "Karma/Diğer",
       "url": ""
     },
     {
       "site": "Bloom and Fresh",
-      "name": "Divan Pralin Çikolata (20'li)\nDivan Pralin Çikolata Kutusu 20'li Çikolata Kutusu",
+      "name": "Divan Pralin Çikolata (20'li)",
       "price": 1799.9,
       "category": "Karma/Diğer",
       "url": ""
     },
     {
       "site": "Bloom and Fresh",
-      "name": "Harem Chocolate Concept Selection Kutusu\nHarem Concept Selection Çikolata Kutusu",
+      "name": "Harem Chocolate Concept Selection Kutusu",
       "price": 1999.9,
       "category": "Karma/Diğer",
       "url": ""
     },
     {
       "site": "Bloom and Fresh",
-      "name": "Have A Good Day\nHave A Good Day Tematik Hediye Kutusu",
+      "name": "Have A Good Day",
       "price": 2999.9,
       "category": "Karma/Diğer",
       "url": ""
     },
     {
       "site": "Bloom and Fresh",
-      "name": "Well Hello Kity!\nWell Hello Kity! Tematik Hediye Kutusu",
+      "name": "Well Hello Kity!",
       "price": 1999.9,
       "category": "Karma/Diğer",
       "url": ""
     },
     {
       "site": "Bloom and Fresh",
-      "name": "Birthday Box Black\nBirthday Box Black Tematik Hediye Kutusu",
+      "name": "Birthday Box Black",
       "price": 1799.9,
       "category": "Karma/Diğer",
       "url": ""
@@ -444,18 +444,14 @@
     },
     "by_category": {
       "Gül": {
-        "count": 23,
+        "count": 17,
         "prices_by_site": {
           "Çiçek Sepeti": {
             "count": 17,
             "avg": "839.29"
-          },
-          "Bloom and Fresh": {
-            "count": 6,
-            "avg": "2333.23"
           }
         },
-        "avg_price": "1229.01"
+        "avg_price": "839.29"
       },
       "Gerbera": {
         "count": 7,
@@ -478,34 +474,24 @@
         "avg_price": "651.66"
       },
       "Lale": {
-        "count": 2,
+        "count": 1,
         "prices_by_site": {
           "Bloom and Fresh": {
-            "count": 2,
-            "avg": "1999.90"
+            "count": 1,
+            "avg": "2099.90"
           }
         },
-        "avg_price": "1999.90"
-      },
-      "Orkide": {
-        "count": 4,
-        "prices_by_site": {
-          "Bloom and Fresh": {
-            "count": 4,
-            "avg": "3499.90"
-          }
-        },
-        "avg_price": "3499.90"
+        "avg_price": "2099.90"
       },
       "Karma/Diğer": {
-        "count": 18,
+        "count": 29,
         "prices_by_site": {
           "Bloom and Fresh": {
-            "count": 18,
-            "avg": "1994.34"
+            "count": 29,
+            "avg": "2268.87"
           }
         },
-        "avg_price": "1994.34"
+        "avg_price": "2268.87"
       }
     }
   }
