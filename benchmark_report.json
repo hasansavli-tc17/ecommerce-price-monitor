@@ -1,5 +1,5 @@
 {
-  "date": "2026-04-28T07:14:04.468Z",
+  "date": "2026-04-28T11:03:45.197Z",
   "summary": {
     "total_sites": 3,
     "successful_sites": 3,
@@ -44,7 +44,7 @@
     {
       "site": "Çiçek Sepeti",
       "name": "9'lu Kırmızı Gül Çiçek Buketi",
-      "price": 729.99,
+      "price": 679.99,
       "category": "Gül",
       "url": "https://www.ciceksepeti.com/9lu-kirmizi-gul-cicek-buketi-at4264"
     },
@@ -58,7 +58,7 @@
     {
       "site": "Çiçek Sepeti",
       "name": "11'li Kırmızı Gül Çiçek Buketi",
-      "price": 889.99,
+      "price": 899.99,
       "category": "Gül",
       "url": "https://www.ciceksepeti.com/11li-kirmizi-gul-cicek-buketi-at4273-1"
     },
@@ -135,7 +135,7 @@
     {
       "site": "Çiçek Sepeti",
       "name": "7'li Kırmızı Gül Buketi",
-      "price": 679.99,
+      "price": 639.99,
       "category": "Gül",
       "url": "https://www.ciceksepeti.com/hayatimin-askina-7li-gul-buketi-at4030"
     },
@@ -431,7 +431,7 @@
     "by_site": {
       "Çiçek Sepeti": {
         "product_count": 30,
-        "avg_price": "851.56",
+        "avg_price": "848.89",
         "min_price": "469.99",
         "max_price": "3299.00"
       },
@@ -448,10 +448,10 @@
         "prices_by_site": {
           "Çiçek Sepeti": {
             "count": 18,
-            "avg": "975.94"
+            "avg": "971.49"
           }
         },
-        "avg_price": "975.94"
+        "avg_price": "971.49"
       },
       "Gerbera": {
         "count": 7,
