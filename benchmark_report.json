@@ -1,5 +1,5 @@
 {
-  "date": "2026-04-29T06:43:56.312Z",
+  "date": "2026-04-29T10:54:20.946Z",
   "summary": {
     "total_sites": 3,
     "successful_sites": 3,
@@ -79,7 +79,7 @@
     {
       "site": "Çiçek Sepeti",
       "name": "Pembe Papatyalar Çiçek Buketi",
-      "price": 649.99,
+      "price": 749.99,
       "category": "Papatya",
       "url": "https://www.ciceksepeti.com/pembe-papatyalar-cicek-buketi-at4255"
     },
@@ -431,7 +431,7 @@
     "by_site": {
       "Çiçek Sepeti": {
         "product_count": 30,
-        "avg_price": "833.89",
+        "avg_price": "837.22",
         "min_price": "469.99",
         "max_price": "3299.00"
       },
@@ -448,10 +448,10 @@
         "prices_by_site": {
           "Çiçek Sepeti": {
             "count": 6,
-            "avg": "651.66"
+            "avg": "668.32"
           }
         },
-        "avg_price": "651.66"
+        "avg_price": "668.32"
       },
       "Gül": {
         "count": 18,
