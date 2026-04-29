@@ -1,5 +1,5 @@
 {
-  "date": "2026-04-29T10:54:20.946Z",
+  "date": "2026-04-29T13:50:08.631Z",
   "summary": {
     "total_sites": 3,
     "successful_sites": 3,
@@ -393,6 +393,13 @@
     },
     {
       "site": "Bloom and Fresh",
+      "name": "Divan Pralin Çikolata (20'li)",
+      "price": 1799.9,
+      "category": "Karma/Diğer",
+      "url": ""
+    },
+    {
+      "site": "Bloom and Fresh",
       "name": "Harem Chocolate Concept Selection Kutusu",
       "price": 1999.9,
       "category": "Karma/Diğer",
@@ -418,13 +425,6 @@
       "price": 1799.9,
       "category": "Karma/Diğer",
       "url": ""
-    },
-    {
-      "site": "Bloom and Fresh",
-      "name": "Chess & Cheers",
-      "price": 2599.9,
-      "category": "Karma/Diğer",
-      "url": ""
     }
   ],
   "price_analysis": {
@@ -437,7 +437,7 @@
       },
       "Bloom and Fresh": {
         "product_count": 30,
-        "avg_price": "2289.90",
+        "avg_price": "2263.23",
         "min_price": "1099.90",
         "max_price": "5999.90"
       }
@@ -488,10 +488,10 @@
         "prices_by_site": {
           "Bloom and Fresh": {
             "count": 29,
-            "avg": "2296.45"
+            "avg": "2268.87"
           }
         },
-        "avg_price": "2296.45"
+        "avg_price": "2268.87"
       }
     }
   }
