@@ -1,5 +1,5 @@
 {
-  "date": "2026-04-30T07:10:21.329Z",
+  "date": "2026-04-30T10:53:41.595Z",
   "summary": {
     "total_sites": 3,
     "successful_sites": 3,
@@ -246,13 +246,6 @@
     },
     {
       "site": "Bloom and Fresh",
-      "name": "Astra Luminis",
-      "price": 2999.9,
-      "category": "Karma/Diğer",
-      "url": ""
-    },
-    {
-      "site": "Bloom and Fresh",
       "name": "Primavera",
       "price": 2199.9,
       "category": "Karma/Diğer",
@@ -425,6 +418,13 @@
       "price": 1799.9,
       "category": "Karma/Diğer",
       "url": ""
+    },
+    {
+      "site": "Bloom and Fresh",
+      "name": "Chess & Cheers",
+      "price": 2599.9,
+      "category": "Karma/Diğer",
+      "url": ""
     }
   ],
   "price_analysis": {
@@ -437,7 +437,7 @@
       },
       "Bloom and Fresh": {
         "product_count": 30,
-        "avg_price": "2263.23",
+        "avg_price": "2249.90",
         "min_price": "1099.90",
         "max_price": "5999.90"
       }
@@ -488,10 +488,10 @@
         "prices_by_site": {
           "Bloom and Fresh": {
             "count": 29,
-            "avg": "2268.87"
+            "avg": "2255.07"
           }
         },
-        "avg_price": "2268.87"
+        "avg_price": "2255.07"
       }
     }
   }
