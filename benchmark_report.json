@@ -1,5 +1,5 @@
 {
-  "date": "2026-04-30T10:53:41.595Z",
+  "date": "2026-04-30T13:48:51.778Z",
   "summary": {
     "total_sites": 3,
     "successful_sites": 3,
@@ -218,64 +218,36 @@
     },
     {
       "site": "Bloom and Fresh",
-      "name": "Columbus - 25 ad. Pembe Katmerli Lale",
-      "price": 2099.9,
-      "category": "Lale",
-      "url": ""
-    },
-    {
-      "site": "Bloom and Fresh",
-      "name": "Volante",
-      "price": 1699.9,
+      "name": "Charlotte & B&F Chocolate Anneler Günü Bundle",
+      "price": 2899.9,
       "category": "Karma/Diğer",
       "url": ""
     },
     {
       "site": "Bloom and Fresh",
-      "name": "Spring Joy",
-      "price": 1699.9,
+      "name": "Athena & B&F Chocolate Anneler Günü Bundle",
+      "price": 2699.9,
       "category": "Karma/Diğer",
       "url": ""
     },
     {
       "site": "Bloom and Fresh",
-      "name": "Charlotte",
+      "name": "Mixx & Brownies by Limburgia (6'lı) Bundle",
       "price": 1799.9,
       "category": "Karma/Diğer",
       "url": ""
     },
     {
       "site": "Bloom and Fresh",
-      "name": "Primavera",
-      "price": 2199.9,
+      "name": "Mistral & Rebul Aqua Edc Kolonya (250 ml) Bundle",
+      "price": 2799.9,
       "category": "Karma/Diğer",
       "url": ""
     },
     {
       "site": "Bloom and Fresh",
-      "name": "The Duchess",
-      "price": 1899.9,
-      "category": "Karma/Diğer",
-      "url": ""
-    },
-    {
-      "site": "Bloom and Fresh",
-      "name": "Becky",
-      "price": 3599.9,
-      "category": "Karma/Diğer",
-      "url": ""
-    },
-    {
-      "site": "Bloom and Fresh",
-      "name": "Honeybee",
-      "price": 2699.9,
-      "category": "Karma/Diğer",
-      "url": ""
-    },
-    {
-      "site": "Bloom and Fresh",
-      "name": "Honeybee Bronze",
-      "price": 2699.9,
+      "name": "Wonder",
+      "price": 2499.9,
       "category": "Karma/Diğer",
       "url": ""
     },
@@ -288,50 +260,15 @@
     },
     {
       "site": "Bloom and Fresh",
-      "name": "Wonder Traverten",
-      "price": 2599.9,
-      "category": "Karma/Diğer",
-      "url": ""
-    },
-    {
-      "site": "Bloom and Fresh",
-      "name": "Formidablo White",
+      "name": "Formidablo Dusty Pink",
       "price": 5999.9,
       "category": "Karma/Diğer",
       "url": ""
     },
     {
       "site": "Bloom and Fresh",
-      "name": "Golden Succulent",
-      "price": 1299.9,
-      "category": "Karma/Diğer",
-      "url": ""
-    },
-    {
-      "site": "Bloom and Fresh",
-      "name": "Bola",
-      "price": 1699.9,
-      "category": "Karma/Diğer",
-      "url": ""
-    },
-    {
-      "site": "Bloom and Fresh",
-      "name": "Lily Cubes",
-      "price": 2599.9,
-      "category": "Karma/Diğer",
-      "url": ""
-    },
-    {
-      "site": "Bloom and Fresh",
-      "name": "Minto",
-      "price": 1599.9,
-      "category": "Karma/Diğer",
-      "url": ""
-    },
-    {
-      "site": "Bloom and Fresh",
-      "name": "Lily Mesh",
-      "price": 2599.9,
+      "name": "Honeybee Patina",
+      "price": 2699.9,
       "category": "Karma/Diğer",
       "url": ""
     },
@@ -344,57 +281,99 @@
     },
     {
       "site": "Bloom and Fresh",
-      "name": "Dark Sienna Terra",
+      "name": "Flamingo Gold",
       "price": 1899.9,
       "category": "Karma/Diğer",
       "url": ""
     },
     {
       "site": "Bloom and Fresh",
-      "name": "B&F Chocolate (20'li)",
-      "price": 1099.9,
+      "name": "Roja Mesh",
+      "price": 2599.9,
       "category": "Karma/Diğer",
       "url": ""
     },
     {
       "site": "Bloom and Fresh",
-      "name": "B&F Wild Jungle Macarons (24'lü)",
-      "price": 1699.9,
+      "name": "Pinky Olivia",
+      "price": 2199.9,
       "category": "Karma/Diğer",
       "url": ""
     },
     {
       "site": "Bloom and Fresh",
-      "name": "Brownies Food & Co. Premium Mixbox (12’li)",
-      "price": 1399.9,
+      "name": "Grace Scandic",
+      "price": 1599.9,
       "category": "Karma/Diğer",
       "url": ""
     },
     {
       "site": "Bloom and Fresh",
-      "name": "Brownies by Limburgia (48'li)",
-      "price": 2999.9,
-      "category": "Karma/Diğer",
-      "url": ""
-    },
-    {
-      "site": "Bloom and Fresh",
-      "name": "Melodi 1957 Serisi Spesiyal Çikolata (250g)",
-      "price": 1299.9,
-      "category": "Karma/Diğer",
-      "url": ""
-    },
-    {
-      "site": "Bloom and Fresh",
-      "name": "Divan Pralin Çikolata (20'li)",
-      "price": 1799.9,
-      "category": "Karma/Diğer",
-      "url": ""
-    },
-    {
-      "site": "Bloom and Fresh",
-      "name": "Harem Chocolate Concept Selection Kutusu",
+      "name": "Lily Gold",
       "price": 1999.9,
+      "category": "Karma/Diğer",
+      "url": ""
+    },
+    {
+      "site": "Bloom and Fresh",
+      "name": "Lily Twister & Atelier Rebul Pure White Intense Kolonya (50 ml) Bundle",
+      "price": 2759.9,
+      "category": "Karma/Diğer",
+      "url": ""
+    },
+    {
+      "site": "Bloom and Fresh",
+      "name": "Cavalli Anthurium XL",
+      "price": 2799.9,
+      "category": "Karma/Diğer",
+      "url": ""
+    },
+    {
+      "site": "Bloom and Fresh",
+      "name": "The Duchess",
+      "price": 1899.9,
+      "category": "Karma/Diğer",
+      "url": ""
+    },
+    {
+      "site": "Bloom and Fresh",
+      "name": "Jihane",
+      "price": 2099.9,
+      "category": "Karma/Diğer",
+      "url": ""
+    },
+    {
+      "site": "Bloom and Fresh",
+      "name": "Primavera",
+      "price": 2199.9,
+      "category": "Karma/Diğer",
+      "url": ""
+    },
+    {
+      "site": "Bloom and Fresh",
+      "name": "Hera & Rebul Bouquet Edc Kolonya (250 ml) Bundle",
+      "price": 2099.9,
+      "category": "Karma/Diğer",
+      "url": ""
+    },
+    {
+      "site": "Bloom and Fresh",
+      "name": "Canım Annem",
+      "price": 1499.9,
+      "category": "Karma/Diğer",
+      "url": ""
+    },
+    {
+      "site": "Bloom and Fresh",
+      "name": "Seni Çok Seviyorum Anneciğim ❤️",
+      "price": 2599.9,
+      "category": "Karma/Diğer",
+      "url": ""
+    },
+    {
+      "site": "Bloom and Fresh",
+      "name": "Mama Needs Coffee",
+      "price": 1499.9,
       "category": "Karma/Diğer",
       "url": ""
     },
@@ -407,22 +386,43 @@
     },
     {
       "site": "Bloom and Fresh",
-      "name": "Well Hello Kity!",
-      "price": 1999.9,
+      "name": "B&F Macarons Anneler Günü (12’li)",
+      "price": 1299.9,
       "category": "Karma/Diğer",
       "url": ""
     },
     {
       "site": "Bloom and Fresh",
-      "name": "Birthday Box Black",
+      "name": "B&F Macarons Anneler Günü (24’lü)",
       "price": 1799.9,
       "category": "Karma/Diğer",
       "url": ""
     },
     {
       "site": "Bloom and Fresh",
-      "name": "Chess & Cheers",
-      "price": 2599.9,
+      "name": "B&F Chocolate Anneler Günü (20’li)",
+      "price": 1199.9,
+      "category": "Karma/Diğer",
+      "url": ""
+    },
+    {
+      "site": "Bloom and Fresh",
+      "name": "Charlotte & B&F Chocolate Anneler Günü Bundle",
+      "price": 2899.9,
+      "category": "Karma/Diğer",
+      "url": ""
+    },
+    {
+      "site": "Bloom and Fresh",
+      "name": "Athena & B&F Chocolate Anneler Günü Bundle",
+      "price": 2699.9,
+      "category": "Karma/Diğer",
+      "url": ""
+    },
+    {
+      "site": "Bloom and Fresh",
+      "name": "Mixx & Brownies by Limburgia (6'lı) Bundle",
+      "price": 1799.9,
       "category": "Karma/Diğer",
       "url": ""
     }
@@ -437,8 +437,8 @@
       },
       "Bloom and Fresh": {
         "product_count": 30,
-        "avg_price": "2249.90",
-        "min_price": "1099.90",
+        "avg_price": "2365.23",
+        "min_price": "1199.90",
         "max_price": "5999.90"
       }
     },
@@ -473,25 +473,15 @@
         },
         "avg_price": "629.99"
       },
-      "Lale": {
-        "count": 1,
-        "prices_by_site": {
-          "Bloom and Fresh": {
-            "count": 1,
-            "avg": "2099.90"
-          }
-        },
-        "avg_price": "2099.90"
-      },
       "Karma/Diğer": {
-        "count": 29,
+        "count": 30,
         "prices_by_site": {
           "Bloom and Fresh": {
-            "count": 29,
-            "avg": "2255.07"
+            "count": 30,
+            "avg": "2365.23"
           }
         },
-        "avg_price": "2255.07"
+        "avg_price": "2365.23"
       }
     }
   }
