@@ -1,5 +1,5 @@
 {
-  "date": "2026-05-01T13:14:37.013Z",
+  "date": "2026-05-01T15:56:10.293Z",
   "summary": {
     "total_sites": 3,
     "successful_sites": 3,
@@ -239,13 +239,6 @@
     },
     {
       "site": "Bloom and Fresh",
-      "name": "Mistral & Rebul Aqua Edc Kolonya (250 ml) Bundle",
-      "price": 2799.9,
-      "category": "Karma/Diğer",
-      "url": ""
-    },
-    {
-      "site": "Bloom and Fresh",
       "name": "Wonder",
       "price": 2499.9,
       "category": "Karma/Diğer",
@@ -425,6 +418,13 @@
       "price": 2599.9,
       "category": "Karma/Diğer",
       "url": ""
+    },
+    {
+      "site": "Bloom and Fresh",
+      "name": "Divan Pralin Çikolata (20'li)",
+      "price": 1799.9,
+      "category": "Karma/Diğer",
+      "url": ""
     }
   ],
   "price_analysis": {
@@ -437,7 +437,7 @@
       },
       "Bloom and Fresh": {
         "product_count": 30,
-        "avg_price": "2418.57",
+        "avg_price": "2385.23",
         "min_price": "1199.90",
         "max_price": "5999.90"
       }
@@ -478,10 +478,10 @@
         "prices_by_site": {
           "Bloom and Fresh": {
             "count": 30,
-            "avg": "2418.57"
+            "avg": "2385.23"
           }
         },
-        "avg_price": "2418.57"
+        "avg_price": "2385.23"
       }
     }
   }
