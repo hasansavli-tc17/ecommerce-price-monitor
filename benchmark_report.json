@@ -1,5 +1,5 @@
 {
-  "date": "2026-05-02T15:43:30.899Z",
+  "date": "2026-05-03T07:05:54.228Z",
   "summary": {
     "total_sites": 3,
     "successful_sites": 3,
@@ -106,17 +106,17 @@
     },
     {
       "site": "Çiçek Sepeti",
-      "name": "Pembe Gazete Kağıdı Bukette Beyaz Papatyalar",
-      "price": 469.99,
-      "category": "Papatya",
-      "url": "https://www.ciceksepeti.com/pembe-gazete-kagidi-bukette-beyaz-papatyalar-at5771"
-    },
-    {
-      "site": "Çiçek Sepeti",
       "name": "Mor Bukette Pembe Lilyumlar ve Papatyalar",
       "price": 849.99,
       "category": "Papatya",
       "url": "https://www.ciceksepeti.com/mor-bukette-pembe-lilyumlar-ve-papatyalar-vbt1604"
+    },
+    {
+      "site": "Çiçek Sepeti",
+      "name": "Pembe Gazete Kağıdı Bukette Beyaz Papatyalar",
+      "price": 469.99,
+      "category": "Papatya",
+      "url": "https://www.ciceksepeti.com/pembe-gazete-kagidi-bukette-beyaz-papatyalar-at5771"
     },
     {
       "site": "Çiçek Sepeti",
@@ -148,6 +148,13 @@
     },
     {
       "site": "Çiçek Sepeti",
+      "name": "Beyaz Buket Kağıdında 20'li Beyaz Gül Buketi",
+      "price": 1249,
+      "category": "Gül",
+      "url": "https://www.ciceksepeti.com/beyaz-buket-kagidinda-20li-beyaz-gul-buketi-at5420"
+    },
+    {
+      "site": "Çiçek Sepeti",
       "name": "Beyaz Gerberalar Çiçek Buketi Lolaflora",
       "price": 679.99,
       "category": "Gerbera",
@@ -159,13 +166,6 @@
       "price": 689.99,
       "category": "Gerbera",
       "url": "https://www.ciceksepeti.com/pudra-bukette-pembe-gerberalar-at5440"
-    },
-    {
-      "site": "Çiçek Sepeti",
-      "name": "Beyaz Buket Kağıdında 20'li Beyaz Gül Buketi",
-      "price": 1249,
-      "category": "Gül",
-      "url": "https://www.ciceksepeti.com/beyaz-buket-kagidinda-20li-beyaz-gul-buketi-at5420"
     },
     {
       "site": "Çiçek Sepeti",
