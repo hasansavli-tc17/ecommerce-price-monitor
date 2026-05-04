@@ -1,5 +1,5 @@
 {
-  "date": "2026-05-04T11:04:05.924Z",
+  "date": "2026-05-04T13:52:49.719Z",
   "summary": {
     "total_sites": 3,
     "successful_sites": 3,
@@ -232,6 +232,20 @@
     },
     {
       "site": "Bloom and Fresh",
+      "name": "Spathy Love & B&F Chocolate Anneler Günü Bundle",
+      "price": 2699.9,
+      "category": "Karma/Diğer",
+      "url": ""
+    },
+    {
+      "site": "Bloom and Fresh",
+      "name": "Coral Pink & B&F Chocolate Anneler Günü Bundle",
+      "price": 3599.9,
+      "category": "Karma/Diğer",
+      "url": ""
+    },
+    {
+      "site": "Bloom and Fresh",
       "name": "Mixx & Brownies by Limburgia (6'lı) Bundle",
       "price": 1799.9,
       "category": "Karma/Diğer",
@@ -260,6 +274,27 @@
     },
     {
       "site": "Bloom and Fresh",
+      "name": "Bolgheri Gold",
+      "price": 2399.9,
+      "category": "Karma/Diğer",
+      "url": ""
+    },
+    {
+      "site": "Bloom and Fresh",
+      "name": "Lausanne Gold",
+      "price": 2599.9,
+      "category": "Karma/Diğer",
+      "url": ""
+    },
+    {
+      "site": "Bloom and Fresh",
+      "name": "Honey Mesh",
+      "price": 2599.9,
+      "category": "Karma/Diğer",
+      "url": ""
+    },
+    {
+      "site": "Bloom and Fresh",
       "name": "Formidablo Dusty Pink",
       "price": 5999.9,
       "category": "Karma/Diğer",
@@ -276,6 +311,20 @@
       "site": "Bloom and Fresh",
       "name": "Zuzu Florence",
       "price": 2599.9,
+      "category": "Karma/Diğer",
+      "url": ""
+    },
+    {
+      "site": "Bloom and Fresh",
+      "name": "Lily Bologna",
+      "price": 2499.9,
+      "category": "Karma/Diğer",
+      "url": ""
+    },
+    {
+      "site": "Bloom and Fresh",
+      "name": "Pinky",
+      "price": 1459.9,
       "category": "Karma/Diğer",
       "url": ""
     },
@@ -311,13 +360,6 @@
       "site": "Bloom and Fresh",
       "name": "Lily Gold",
       "price": 1999.9,
-      "category": "Karma/Diğer",
-      "url": ""
-    },
-    {
-      "site": "Bloom and Fresh",
-      "name": "Lily Twister & Atelier Rebul Pure White Intense Kolonya (50 ml) Bundle",
-      "price": 2759.9,
       "category": "Karma/Diğer",
       "url": ""
     },
@@ -383,48 +425,6 @@
       "price": 2999.9,
       "category": "Karma/Diğer",
       "url": ""
-    },
-    {
-      "site": "Bloom and Fresh",
-      "name": "The Mediterranean Harvest Edition",
-      "price": 4599.9,
-      "category": "Karma/Diğer",
-      "url": ""
-    },
-    {
-      "site": "Bloom and Fresh",
-      "name": "B&F Chocolate Anneler Günü (20’li)",
-      "price": 1199.9,
-      "category": "Karma/Diğer",
-      "url": ""
-    },
-    {
-      "site": "Bloom and Fresh",
-      "name": "B&F Macarons Anneler Günü (12’li)",
-      "price": 1299.9,
-      "category": "Karma/Diğer",
-      "url": ""
-    },
-    {
-      "site": "Bloom and Fresh",
-      "name": "B&F Macarons Anneler Günü (24’lü)",
-      "price": 1799.9,
-      "category": "Karma/Diğer",
-      "url": ""
-    },
-    {
-      "site": "Bloom and Fresh",
-      "name": "Solmayan Buket & Macaron 12’li Bundle",
-      "price": 1799.9,
-      "category": "Karma/Diğer",
-      "url": ""
-    },
-    {
-      "site": "Bloom and Fresh",
-      "name": "Divan Fıstıklı Lokum & Muhabbetli Türk Kahvesi Bundle",
-      "price": 2599.9,
-      "category": "Karma/Diğer",
-      "url": ""
     }
   ],
   "price_analysis": {
@@ -437,8 +437,8 @@
       },
       "Bloom and Fresh": {
         "product_count": 30,
-        "avg_price": "2448.57",
-        "min_price": "1199.90",
+        "avg_price": "2508.57",
+        "min_price": "1459.90",
         "max_price": "5999.90"
       }
     },
@@ -478,10 +478,10 @@
         "prices_by_site": {
           "Bloom and Fresh": {
             "count": 30,
-            "avg": "2448.57"
+            "avg": "2508.57"
           }
         },
-        "avg_price": "2448.57"
+        "avg_price": "2508.57"
       }
     }
   }
