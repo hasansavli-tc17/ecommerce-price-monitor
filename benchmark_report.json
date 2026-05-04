@@ -1,5 +1,5 @@
 {
-  "date": "2026-05-03T15:44:22.079Z",
+  "date": "2026-05-04T07:34:41.807Z",
   "summary": {
     "total_sites": 3,
     "successful_sites": 3,
@@ -36,17 +36,17 @@
     },
     {
       "site": "Çiçek Sepeti",
-      "name": "Kelebek Bukette Pembe Papatyalar ve Hüsnüyusuf",
-      "price": 639.99,
-      "category": "Papatya",
-      "url": "https://www.ciceksepeti.com/kelebek-bukette-pembe-papatyalar-ve-husnuyusuf-vbt1317"
-    },
-    {
-      "site": "Çiçek Sepeti",
       "name": "Lila Bukette 3 Lila Gül ve Pembe Beyaz Papatyalar",
       "price": 729.99,
       "category": "Gül",
       "url": "https://www.ciceksepeti.com/lila-bukette-3-lila-gul-ve-pembe-beyaz-papatyalar-vbt1623"
+    },
+    {
+      "site": "Çiçek Sepeti",
+      "name": "Kelebek Bukette Pembe Papatyalar ve Hüsnüyusuf",
+      "price": 639.99,
+      "category": "Papatya",
+      "url": "https://www.ciceksepeti.com/kelebek-bukette-pembe-papatyalar-ve-husnuyusuf-vbt1317"
     },
     {
       "site": "Çiçek Sepeti",
@@ -58,7 +58,7 @@
     {
       "site": "Çiçek Sepeti",
       "name": "9'lu Kırmızı Gül Çiçek Buketi",
-      "price": 679.99,
+      "price": 719.99,
       "category": "Gül",
       "url": "https://www.ciceksepeti.com/9lu-kirmizi-gul-cicek-buketi-at4264"
     },
@@ -162,6 +162,13 @@
     },
     {
       "site": "Çiçek Sepeti",
+      "name": "Lila Bukette Pembe Gerberalar ve Hüsnüyusuflar",
+      "price": 689.99,
+      "category": "Gerbera",
+      "url": "https://www.ciceksepeti.com/lila-bukette-pembe-gerberalar-ve-husnuyusuflar-at5450"
+    },
+    {
+      "site": "Çiçek Sepeti",
       "name": "Pudra Bukette Pembe Gerberalar & Hüsnüyusuf",
       "price": 689.99,
       "category": "Gerbera",
@@ -173,13 +180,6 @@
       "price": 739.99,
       "category": "Gül",
       "url": "https://www.ciceksepeti.com/sari-bukette-beyaz-pembe-gerberalar-ve-lila-guller-vbt1366"
-    },
-    {
-      "site": "Çiçek Sepeti",
-      "name": "Lila Bukette Pembe Gerberalar ve Hüsnüyusuflar",
-      "price": 689.99,
-      "category": "Gerbera",
-      "url": "https://www.ciceksepeti.com/lila-bukette-pembe-gerberalar-ve-husnuyusuflar-at5450"
     },
     {
       "site": "Çiçek Sepeti",
@@ -330,27 +330,6 @@
     },
     {
       "site": "Bloom and Fresh",
-      "name": "The Duchess",
-      "price": 1899.9,
-      "category": "Karma/Diğer",
-      "url": ""
-    },
-    {
-      "site": "Bloom and Fresh",
-      "name": "Jihane",
-      "price": 2099.9,
-      "category": "Karma/Diğer",
-      "url": ""
-    },
-    {
-      "site": "Bloom and Fresh",
-      "name": "Primavera",
-      "price": 2199.9,
-      "category": "Karma/Diğer",
-      "url": ""
-    },
-    {
-      "site": "Bloom and Fresh",
       "name": "Hera & Rebul Bouquet Edc Kolonya (250 ml) Bundle",
       "price": 2099.9,
       "category": "Karma/Diğer",
@@ -425,19 +404,40 @@
       "price": 2599.9,
       "category": "Karma/Diğer",
       "url": ""
+    },
+    {
+      "site": "Bloom and Fresh",
+      "name": "Melodi 1957 Serisi Spesiyal Çikolata (250g)",
+      "price": 1299.9,
+      "category": "Karma/Diğer",
+      "url": ""
+    },
+    {
+      "site": "Bloom and Fresh",
+      "name": "Selamlique Türk Kahveli Pralin (150gr)",
+      "price": 2999.9,
+      "category": "Karma/Diğer",
+      "url": ""
+    },
+    {
+      "site": "Bloom and Fresh",
+      "name": "Brownies Food & Co. Premium Mixbox (24’lü)",
+      "price": 1799.9,
+      "category": "Karma/Diğer",
+      "url": ""
     }
   ],
   "price_analysis": {
     "by_site": {
       "Çiçek Sepeti": {
         "product_count": 30,
-        "avg_price": "844.86",
+        "avg_price": "846.19",
         "min_price": "449.99",
         "max_price": "3299.00"
       },
       "Bloom and Fresh": {
         "product_count": 30,
-        "avg_price": "2418.57",
+        "avg_price": "2415.23",
         "min_price": "1199.90",
         "max_price": "5999.90"
       }
@@ -458,10 +458,10 @@
         "prices_by_site": {
           "Çiçek Sepeti": {
             "count": 19,
-            "avg": "966.62"
+            "avg": "968.73"
           }
         },
-        "avg_price": "966.62"
+        "avg_price": "968.73"
       },
       "Gerbera": {
         "count": 5,
@@ -478,10 +478,10 @@
         "prices_by_site": {
           "Bloom and Fresh": {
             "count": 30,
-            "avg": "2418.57"
+            "avg": "2415.23"
           }
         },
-        "avg_price": "2418.57"
+        "avg_price": "2415.23"
       }
     }
   }
