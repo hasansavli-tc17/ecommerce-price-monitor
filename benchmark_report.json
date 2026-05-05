@@ -1,5 +1,5 @@
 {
-  "date": "2026-05-05T06:34:27.147Z",
+  "date": "2026-05-05T10:44:25.849Z",
   "summary": {
     "total_sites": 3,
     "successful_sites": 3,
@@ -358,13 +358,6 @@
     },
     {
       "site": "Bloom and Fresh",
-      "name": "Lily Gold",
-      "price": 1999.9,
-      "category": "Karma/Diğer",
-      "url": ""
-    },
-    {
-      "site": "Bloom and Fresh",
       "name": "Cavalli Anthurium XL",
       "price": 2799.9,
       "category": "Karma/Diğer",
@@ -425,6 +418,13 @@
       "price": 2999.9,
       "category": "Karma/Diğer",
       "url": ""
+    },
+    {
+      "site": "Bloom and Fresh",
+      "name": "The Mediterranean Harvest Edition",
+      "price": 4599.9,
+      "category": "Karma/Diğer",
+      "url": ""
     }
   ],
   "price_analysis": {
@@ -437,7 +437,7 @@
       },
       "Bloom and Fresh": {
         "product_count": 30,
-        "avg_price": "2508.57",
+        "avg_price": "2595.23",
         "min_price": "1459.90",
         "max_price": "5999.90"
       }
@@ -478,10 +478,10 @@
         "prices_by_site": {
           "Bloom and Fresh": {
             "count": 30,
-            "avg": "2508.57"
+            "avg": "2595.23"
           }
         },
-        "avg_price": "2508.57"
+        "avg_price": "2595.23"
       }
     }
   }
