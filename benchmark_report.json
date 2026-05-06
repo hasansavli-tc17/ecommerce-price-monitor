@@ -1,5 +1,5 @@
 {
-  "date": "2026-05-06T14:03:04.982Z",
+  "date": "2026-05-06T16:26:24.381Z",
   "summary": {
     "total_sites": 3,
     "successful_sites": 3,
@@ -253,6 +253,13 @@
     },
     {
       "site": "Bloom and Fresh",
+      "name": "Mistral & Rebul Aqua Edc Kolonya (250 ml) Bundle",
+      "price": 2799.9,
+      "category": "Karma/Diğer",
+      "url": ""
+    },
+    {
+      "site": "Bloom and Fresh",
       "name": "Wonder",
       "price": 2499.9,
       "category": "Karma/Diğer",
@@ -418,13 +425,6 @@
       "price": 4599.9,
       "category": "Karma/Diğer",
       "url": ""
-    },
-    {
-      "site": "Bloom and Fresh",
-      "name": "B&F Chocolate Anneler Günü (20’li)",
-      "price": 1199.9,
-      "category": "Karma/Diğer",
-      "url": ""
     }
   ],
   "price_analysis": {
@@ -437,8 +437,8 @@
       },
       "Bloom and Fresh": {
         "product_count": 30,
-        "avg_price": "2535.23",
-        "min_price": "1199.90",
+        "avg_price": "2588.57",
+        "min_price": "1459.90",
         "max_price": "5999.90"
       }
     },
@@ -478,10 +478,10 @@
         "prices_by_site": {
           "Bloom and Fresh": {
             "count": 30,
-            "avg": "2535.23"
+            "avg": "2588.57"
           }
         },
-        "avg_price": "2535.23"
+        "avg_price": "2588.57"
       }
     }
   }
