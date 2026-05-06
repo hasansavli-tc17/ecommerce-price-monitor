@@ -1,5 +1,5 @@
 {
-  "date": "2026-05-06T11:04:46.935Z",
+  "date": "2026-05-06T14:03:04.982Z",
   "summary": {
     "total_sites": 3,
     "successful_sites": 3,
@@ -72,7 +72,7 @@
     {
       "site": "Çiçek Sepeti",
       "name": "7'li Kırmızı Gül Buketi",
-      "price": 699.99,
+      "price": 719.99,
       "category": "Gül",
       "url": "https://www.ciceksepeti.com/hayatimin-askina-7li-gul-buketi-at4030"
     },
@@ -93,7 +93,7 @@
     {
       "site": "Çiçek Sepeti",
       "name": "9'lu Kırmızı Gül Çiçek Buketi",
-      "price": 719.99,
+      "price": 729.99,
       "category": "Gül",
       "url": "https://www.ciceksepeti.com/9lu-kirmizi-gul-cicek-buketi-at4264"
     },
@@ -121,7 +121,7 @@
     {
       "site": "Çiçek Sepeti",
       "name": "5'li Kırmızı Gül Buketi",
-      "price": 649.99,
+      "price": 659.99,
       "category": "Gül",
       "url": "https://www.ciceksepeti.com/seni-seviyorum-5li-kirmizi-gul-buketi-at2929"
     },
@@ -149,7 +149,7 @@
     {
       "site": "Çiçek Sepeti",
       "name": "Yeşil Kahve Bukette Kırmızı Güller ve Papatyalar",
-      "price": 789.99,
+      "price": 899.99,
       "category": "Gül",
       "url": "https://www.ciceksepeti.com/yesil-kahve-bukette-kirmizi-guller-ve-papatyalar-at5636"
     },
@@ -191,7 +191,7 @@
     {
       "site": "Çiçek Sepeti",
       "name": "Kişiye Özel Fotoğraf Pankartlı Kırmızı Gül Buketi",
-      "price": 749.99,
+      "price": 769.99,
       "category": "Gül",
       "url": "https://www.ciceksepeti.com/kisiye-ozel-fotograf-pankartli-kirmizi-gul-buketi-at6034"
     },
@@ -248,13 +248,6 @@
       "site": "Bloom and Fresh",
       "name": "Mixx & Brownies by Limburgia (6'lı) Bundle",
       "price": 1799.9,
-      "category": "Karma/Diğer",
-      "url": ""
-    },
-    {
-      "site": "Bloom and Fresh",
-      "name": "Mistral & Rebul Aqua Edc Kolonya (250 ml) Bundle",
-      "price": 2799.9,
       "category": "Karma/Diğer",
       "url": ""
     },
@@ -425,20 +418,27 @@
       "price": 4599.9,
       "category": "Karma/Diğer",
       "url": ""
+    },
+    {
+      "site": "Bloom and Fresh",
+      "name": "B&F Chocolate Anneler Günü (20’li)",
+      "price": 1199.9,
+      "category": "Karma/Diğer",
+      "url": ""
     }
   ],
   "price_analysis": {
     "by_site": {
       "Çiçek Sepeti": {
         "product_count": 30,
-        "avg_price": "859.79",
+        "avg_price": "865.46",
         "min_price": "529.99",
         "max_price": "1499.00"
       },
       "Bloom and Fresh": {
         "product_count": 30,
-        "avg_price": "2588.57",
-        "min_price": "1459.90",
+        "avg_price": "2535.23",
+        "min_price": "1199.90",
         "max_price": "5999.90"
       }
     },
@@ -448,10 +448,10 @@
         "prices_by_site": {
           "Çiçek Sepeti": {
             "count": 20,
-            "avg": "940.24"
+            "avg": "948.74"
           }
         },
-        "avg_price": "940.24"
+        "avg_price": "948.74"
       },
       "Gerbera": {
         "count": 5,
@@ -478,10 +478,10 @@
         "prices_by_site": {
           "Bloom and Fresh": {
             "count": 30,
-            "avg": "2588.57"
+            "avg": "2535.23"
           }
         },
-        "avg_price": "2588.57"
+        "avg_price": "2535.23"
       }
     }
   }
