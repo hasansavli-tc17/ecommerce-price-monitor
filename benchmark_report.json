@@ -1,5 +1,5 @@
 {
-  "date": "2026-05-09T10:04:31.118Z",
+  "date": "2026-05-09T13:11:16.981Z",
   "summary": {
     "total_sites": 3,
     "successful_sites": 3,
@@ -23,7 +23,7 @@
     {
       "site": "Çiçek Sepeti",
       "name": "9'lu Kırmızı Gül Çiçek Buketi",
-      "price": 779.99,
+      "price": 799.99,
       "category": "Gül",
       "url": "https://www.ciceksepeti.com/9lu-kirmizi-gul-cicek-buketi-at4264"
     },
@@ -65,7 +65,7 @@
     {
       "site": "Çiçek Sepeti",
       "name": "Pembe Gazete Kağıdı Bukette Beyaz Papatyalar",
-      "price": 649.99,
+      "price": 679.99,
       "category": "Papatya",
       "url": "https://www.ciceksepeti.com/pembe-gazete-kagidi-bukette-beyaz-papatyalar-at5771"
     },
@@ -86,7 +86,7 @@
     {
       "site": "Çiçek Sepeti",
       "name": "Pembe Papatyalar Çiçek Buketi",
-      "price": 999.99,
+      "price": 1199,
       "category": "Papatya",
       "url": "https://www.ciceksepeti.com/pembe-papatyalar-cicek-buketi-at4255"
     },
@@ -100,7 +100,7 @@
     {
       "site": "Çiçek Sepeti",
       "name": "Beyaz Papatyalar Çiçek Buketi",
-      "price": 929.99,
+      "price": 999.99,
       "category": "Papatya",
       "url": "https://www.ciceksepeti.com/beyaz-papatyalar-cicek-buketi-at4253"
     },
@@ -114,21 +114,21 @@
     {
       "site": "Çiçek Sepeti",
       "name": "Kırmızı Gerbera Çiçek Buketi",
-      "price": 779.99,
+      "price": 899.99,
       "category": "Gerbera",
       "url": "https://www.ciceksepeti.com/kirmizi-gerbera-cicek-buketi-at4258"
     },
     {
       "site": "Çiçek Sepeti",
       "name": "7'li Kırmızı Gül Buketi",
-      "price": 749.99,
+      "price": 779.99,
       "category": "Gül",
       "url": "https://www.ciceksepeti.com/hayatimin-askina-7li-gul-buketi-at4030"
     },
     {
       "site": "Çiçek Sepeti",
       "name": "5'li Kırmızı Gül Buketi",
-      "price": 709.99,
+      "price": 749.99,
       "category": "Gül",
       "url": "https://www.ciceksepeti.com/seni-seviyorum-5li-kirmizi-gul-buketi-at2929"
     },
@@ -170,7 +170,7 @@
     {
       "site": "Çiçek Sepeti",
       "name": "Kişiye Özel Fotoğraf Pankartlı Kırmızı Gül Buketi",
-      "price": 799.99,
+      "price": 829.99,
       "category": "Gül",
       "url": "https://www.ciceksepeti.com/kisiye-ozel-fotograf-pankartli-kirmizi-gul-buketi-at6034"
     },
@@ -198,7 +198,7 @@
     {
       "site": "Çiçek Sepeti",
       "name": "Beyaz Gerberalar Çiçek Buketi Lolaflora",
-      "price": 829.99,
+      "price": 899.99,
       "category": "Gerbera",
       "url": "https://www.ciceksepeti.com/beyaz-gerberalar-cicek-buketi-at5380"
     },
@@ -219,13 +219,6 @@
     {
       "site": "Bloom and Fresh",
       "name": "Mom's Favorite",
-      "price": 1399.9,
-      "category": "Karma/Diğer",
-      "url": ""
-    },
-    {
-      "site": "Bloom and Fresh",
-      "name": "Alessia",
       "price": 1399.9,
       "category": "Karma/Diğer",
       "url": ""
@@ -316,6 +309,13 @@
     },
     {
       "site": "Bloom and Fresh",
+      "name": "Pinky",
+      "price": 1459.9,
+      "category": "Karma/Diğer",
+      "url": ""
+    },
+    {
+      "site": "Bloom and Fresh",
       "name": "Flamingo Gold",
       "price": 1899.9,
       "category": "Karma/Diğer",
@@ -353,13 +353,6 @@
       "site": "Bloom and Fresh",
       "name": "Cavalli Anthurium XL",
       "price": 2799.9,
-      "category": "Karma/Diğer",
-      "url": ""
-    },
-    {
-      "site": "Bloom and Fresh",
-      "name": "Hera & Rebul Bouquet Edc Kolonya (250 ml) Bundle",
-      "price": 2099.9,
       "category": "Karma/Diğer",
       "url": ""
     },
@@ -425,19 +418,26 @@
       "price": 1199.9,
       "category": "Karma/Diğer",
       "url": ""
+    },
+    {
+      "site": "Bloom and Fresh",
+      "name": "B&F Macarons Anneler Günü (12’li)",
+      "price": 1299.9,
+      "category": "Karma/Diğer",
+      "url": ""
     }
   ],
   "price_analysis": {
     "by_site": {
       "Çiçek Sepeti": {
         "product_count": 30,
-        "avg_price": "987.93",
+        "avg_price": "1008.23",
         "min_price": "599.99",
         "max_price": "1639.00"
       },
       "Bloom and Fresh": {
         "product_count": 30,
-        "avg_price": "2426.57",
+        "avg_price": "2401.90",
         "min_price": "1199.90",
         "max_price": "5999.90"
       }
@@ -448,30 +448,30 @@
         "prices_by_site": {
           "Çiçek Sepeti": {
             "count": 21,
-            "avg": "1050.42"
+            "avg": "1056.14"
           }
         },
-        "avg_price": "1050.42"
+        "avg_price": "1056.14"
       },
       "Papatya": {
         "count": 6,
         "prices_by_site": {
           "Çiçek Sepeti": {
             "count": 6,
-            "avg": "854.82"
+            "avg": "904.66"
           }
         },
-        "avg_price": "854.82"
+        "avg_price": "904.66"
       },
       "Gerbera": {
         "count": 2,
         "prices_by_site": {
           "Çiçek Sepeti": {
             "count": 2,
-            "avg": "804.99"
+            "avg": "899.99"
           }
         },
-        "avg_price": "804.99"
+        "avg_price": "899.99"
       },
       "Karanfil": {
         "count": 1,
@@ -488,10 +488,10 @@
         "prices_by_site": {
           "Bloom and Fresh": {
             "count": 30,
-            "avg": "2426.57"
+            "avg": "2401.90"
           }
         },
-        "avg_price": "2426.57"
+        "avg_price": "2401.90"
       }
     }
   }
