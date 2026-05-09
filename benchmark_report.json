@@ -1,5 +1,5 @@
 {
-  "date": "2026-05-09T13:11:16.981Z",
+  "date": "2026-05-09T15:50:13.846Z",
   "summary": {
     "total_sites": 3,
     "successful_sites": 3,
@@ -218,8 +218,15 @@
     },
     {
       "site": "Bloom and Fresh",
-      "name": "Mom's Favorite",
-      "price": 1399.9,
+      "name": "Charlotte & B&F Chocolate Anneler Günü Bundle",
+      "price": 2899.9,
+      "category": "Karma/Diğer",
+      "url": ""
+    },
+    {
+      "site": "Bloom and Fresh",
+      "name": "Athena & B&F Chocolate Anneler Günü Bundle",
+      "price": 2699.9,
       "category": "Karma/Diğer",
       "url": ""
     },
@@ -239,8 +246,43 @@
     },
     {
       "site": "Bloom and Fresh",
-      "name": "Wonder",
-      "price": 2499.9,
+      "name": "Charlotte & B&F Chocolate (4'lü Pralin) Bundle",
+      "price": 1949.9,
+      "category": "Karma/Diğer",
+      "url": ""
+    },
+    {
+      "site": "Bloom and Fresh",
+      "name": "Athena",
+      "price": 1599.9,
+      "category": "Karma/Diğer",
+      "url": ""
+    },
+    {
+      "site": "Bloom and Fresh",
+      "name": "Alice",
+      "price": 1999.9,
+      "category": "Karma/Diğer",
+      "url": ""
+    },
+    {
+      "site": "Bloom and Fresh",
+      "name": "Alice & Atelier Rebul Turkish Rose Kolonya (50 ml) Bundle",
+      "price": 2359.9,
+      "category": "Gül",
+      "url": ""
+    },
+    {
+      "site": "Bloom and Fresh",
+      "name": "Charlotte & Macaron 12'li Bundle",
+      "price": 2449.9,
+      "category": "Karma/Diğer",
+      "url": ""
+    },
+    {
+      "site": "Bloom and Fresh",
+      "name": "Mom's Favorite",
+      "price": 1399.9,
       "category": "Karma/Diğer",
       "url": ""
     },
@@ -248,13 +290,6 @@
       "site": "Bloom and Fresh",
       "name": "Coral Gold",
       "price": 2499.9,
-      "category": "Karma/Diğer",
-      "url": ""
-    },
-    {
-      "site": "Bloom and Fresh",
-      "name": "Bolgheri Gold",
-      "price": 2399.9,
       "category": "Karma/Diğer",
       "url": ""
     },
@@ -304,13 +339,6 @@
       "site": "Bloom and Fresh",
       "name": "Lily Bologna",
       "price": 2499.9,
-      "category": "Karma/Diğer",
-      "url": ""
-    },
-    {
-      "site": "Bloom and Fresh",
-      "name": "Pinky",
-      "price": 1459.9,
       "category": "Karma/Diğer",
       "url": ""
     },
@@ -379,8 +407,8 @@
     },
     {
       "site": "Bloom and Fresh",
-      "name": "Canım Annem",
-      "price": 1499.9,
+      "name": "Punch & Coffee",
+      "price": 1999.9,
       "category": "Karma/Diğer",
       "url": ""
     },
@@ -393,36 +421,8 @@
     },
     {
       "site": "Bloom and Fresh",
-      "name": "Mama Needs Coffee",
+      "name": "Canım Annem",
       "price": 1499.9,
-      "category": "Karma/Diğer",
-      "url": ""
-    },
-    {
-      "site": "Bloom and Fresh",
-      "name": "Have A Good Day",
-      "price": 2999.9,
-      "category": "Karma/Diğer",
-      "url": ""
-    },
-    {
-      "site": "Bloom and Fresh",
-      "name": "The Mediterranean Harvest Edition",
-      "price": 4599.9,
-      "category": "Karma/Diğer",
-      "url": ""
-    },
-    {
-      "site": "Bloom and Fresh",
-      "name": "B&F Chocolate Anneler Günü (20’li)",
-      "price": 1199.9,
-      "category": "Karma/Diğer",
-      "url": ""
-    },
-    {
-      "site": "Bloom and Fresh",
-      "name": "B&F Macarons Anneler Günü (12’li)",
-      "price": 1299.9,
       "category": "Karma/Diğer",
       "url": ""
     }
@@ -438,20 +438,24 @@
       "Bloom and Fresh": {
         "product_count": 30,
         "avg_price": "2401.90",
-        "min_price": "1199.90",
+        "min_price": "1399.90",
         "max_price": "5999.90"
       }
     },
     "by_category": {
       "Gül": {
-        "count": 21,
+        "count": 22,
         "prices_by_site": {
           "Çiçek Sepeti": {
             "count": 21,
             "avg": "1056.14"
+          },
+          "Bloom and Fresh": {
+            "count": 1,
+            "avg": "2359.90"
           }
         },
-        "avg_price": "1056.14"
+        "avg_price": "1115.40"
       },
       "Papatya": {
         "count": 6,
@@ -484,14 +488,14 @@
         "avg_price": "839.99"
       },
       "Karma/Diğer": {
-        "count": 30,
+        "count": 29,
         "prices_by_site": {
           "Bloom and Fresh": {
-            "count": 30,
-            "avg": "2401.90"
+            "count": 29,
+            "avg": "2403.35"
           }
         },
-        "avg_price": "2401.90"
+        "avg_price": "2403.35"
       }
     }
   }
