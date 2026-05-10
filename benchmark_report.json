@@ -1,5 +1,5 @@
 {
-  "date": "2026-05-10T10:12:08.131Z",
+  "date": "2026-05-10T13:12:30.561Z",
   "summary": {
     "total_sites": 3,
     "successful_sites": 3,
@@ -218,21 +218,56 @@
     },
     {
       "site": "Bloom and Fresh",
-      "name": "Coral Pink & B&F Chocolate Anneler Günü Bundle",
-      "price": 3599.9,
+      "name": "Spring Joy",
+      "price": 1699.9,
       "category": "Karma/Diğer",
       "url": ""
     },
     {
       "site": "Bloom and Fresh",
-      "name": "Spathy Love & B&F Chocolate Anneler Günü Bundle",
+      "name": "Galaxy of Love",
+      "price": 2999.9,
+      "category": "Karma/Diğer",
+      "url": ""
+    },
+    {
+      "site": "Bloom and Fresh",
+      "name": "Charlotte",
+      "price": 1799.9,
+      "category": "Karma/Diğer",
+      "url": ""
+    },
+    {
+      "site": "Bloom and Fresh",
+      "name": "Volante",
+      "price": 1699.9,
+      "category": "Karma/Diğer",
+      "url": ""
+    },
+    {
+      "site": "Bloom and Fresh",
+      "name": "Primavera",
+      "price": 2199.9,
+      "category": "Karma/Diğer",
+      "url": ""
+    },
+    {
+      "site": "Bloom and Fresh",
+      "name": "Lausanne Gold",
+      "price": 2599.9,
+      "category": "Karma/Diğer",
+      "url": ""
+    },
+    {
+      "site": "Bloom and Fresh",
+      "name": "Honey Dark",
       "price": 2499.9,
       "category": "Karma/Diğer",
       "url": ""
     },
     {
       "site": "Bloom and Fresh",
-      "name": "Coral Gold",
+      "name": "Aria Gold",
       "price": 2499.9,
       "category": "Karma/Diğer",
       "url": ""
@@ -246,29 +281,36 @@
     },
     {
       "site": "Bloom and Fresh",
-      "name": "Lausanne Gold",
-      "price": 2599.9,
-      "category": "Karma/Diğer",
-      "url": ""
-    },
-    {
-      "site": "Bloom and Fresh",
-      "name": "Honey Mesh",
-      "price": 2599.9,
-      "category": "Karma/Diğer",
-      "url": ""
-    },
-    {
-      "site": "Bloom and Fresh",
-      "name": "Zuzu Florence",
-      "price": 2599.9,
-      "category": "Karma/Diğer",
-      "url": ""
-    },
-    {
-      "site": "Bloom and Fresh",
-      "name": "Zuzu Moonstone",
+      "name": "Coral Gold",
       "price": 2499.9,
+      "category": "Karma/Diğer",
+      "url": ""
+    },
+    {
+      "site": "Bloom and Fresh",
+      "name": "Formidablo White",
+      "price": 5999.9,
+      "category": "Karma/Diğer",
+      "url": ""
+    },
+    {
+      "site": "Bloom and Fresh",
+      "name": "Chloe",
+      "price": 2099.9,
+      "category": "Karma/Diğer",
+      "url": ""
+    },
+    {
+      "site": "Bloom and Fresh",
+      "name": "The Duchess",
+      "price": 1899.9,
+      "category": "Karma/Diğer",
+      "url": ""
+    },
+    {
+      "site": "Bloom and Fresh",
+      "name": "Cosmic",
+      "price": 1999.9,
       "category": "Karma/Diğer",
       "url": ""
     },
@@ -281,29 +323,15 @@
     },
     {
       "site": "Bloom and Fresh",
-      "name": "Lily Bologna",
-      "price": 2499.9,
+      "name": "Golden Succulent",
+      "price": 1299.9,
       "category": "Karma/Diğer",
       "url": ""
     },
     {
       "site": "Bloom and Fresh",
-      "name": "Dark Sienna Gold",
-      "price": 1999.9,
-      "category": "Karma/Diğer",
-      "url": ""
-    },
-    {
-      "site": "Bloom and Fresh",
-      "name": "Flamingo Gold",
-      "price": 1899.9,
-      "category": "Karma/Diğer",
-      "url": ""
-    },
-    {
-      "site": "Bloom and Fresh",
-      "name": "Astrid",
-      "price": 1499.9,
+      "name": "Zuzu Florence",
+      "price": 2599.9,
       "category": "Karma/Diğer",
       "url": ""
     },
@@ -316,50 +344,64 @@
     },
     {
       "site": "Bloom and Fresh",
-      "name": "Roja Mesh",
-      "price": 2599.9,
+      "name": "Lily Bologna",
+      "price": 2499.9,
       "category": "Karma/Diğer",
       "url": ""
     },
     {
       "site": "Bloom and Fresh",
-      "name": "Camille",
+      "name": "Spathy Love",
       "price": 1399.9,
       "category": "Karma/Diğer",
       "url": ""
     },
     {
       "site": "Bloom and Fresh",
-      "name": "Cavalli Anthurium XL",
-      "price": 2799.9,
+      "name": "B&F Chocolate (20'li)",
+      "price": 1099.9,
       "category": "Karma/Diğer",
       "url": ""
     },
     {
       "site": "Bloom and Fresh",
-      "name": "Punch & Coffee",
+      "name": "B&F Wild Jungle Macarons (24'lü)",
+      "price": 1699.9,
+      "category": "Karma/Diğer",
+      "url": ""
+    },
+    {
+      "site": "Bloom and Fresh",
+      "name": "Brownies Food & Co. Premium Mixbox (12’li)",
+      "price": 1399.9,
+      "category": "Karma/Diğer",
+      "url": ""
+    },
+    {
+      "site": "Bloom and Fresh",
+      "name": "Brownies by Limburgia (48'li)",
+      "price": 2999.9,
+      "category": "Karma/Diğer",
+      "url": ""
+    },
+    {
+      "site": "Bloom and Fresh",
+      "name": "Melodi 1957 Serisi Spesiyal Çikolata (250g)",
+      "price": 1299.9,
+      "category": "Karma/Diğer",
+      "url": ""
+    },
+    {
+      "site": "Bloom and Fresh",
+      "name": "Divan Pralin Çikolata (20'li)",
+      "price": 1799.9,
+      "category": "Karma/Diğer",
+      "url": ""
+    },
+    {
+      "site": "Bloom and Fresh",
+      "name": "Harem Chocolate Concept Selection Kutusu",
       "price": 1999.9,
-      "category": "Karma/Diğer",
-      "url": ""
-    },
-    {
-      "site": "Bloom and Fresh",
-      "name": "Seni Çok Seviyorum Anneciğim ❤️",
-      "price": 2599.9,
-      "category": "Karma/Diğer",
-      "url": ""
-    },
-    {
-      "site": "Bloom and Fresh",
-      "name": "Canım Annem",
-      "price": 1499.9,
-      "category": "Karma/Diğer",
-      "url": ""
-    },
-    {
-      "site": "Bloom and Fresh",
-      "name": "Mama Needs Coffee",
-      "price": 1499.9,
       "category": "Karma/Diğer",
       "url": ""
     },
@@ -372,57 +414,15 @@
     },
     {
       "site": "Bloom and Fresh",
-      "name": "The Mediterranean Harvest Edition",
-      "price": 4599.9,
+      "name": "Well Hello Kity!",
+      "price": 1999.9,
       "category": "Karma/Diğer",
       "url": ""
     },
     {
       "site": "Bloom and Fresh",
-      "name": "B&F Chocolate Anneler Günü (20’li)",
-      "price": 1199.9,
-      "category": "Karma/Diğer",
-      "url": ""
-    },
-    {
-      "site": "Bloom and Fresh",
-      "name": "B&F Macarons Anneler Günü (12’li)",
-      "price": 1299.9,
-      "category": "Karma/Diğer",
-      "url": ""
-    },
-    {
-      "site": "Bloom and Fresh",
-      "name": "B&F Macarons Anneler Günü (24’lü)",
+      "name": "Birthday Box Black",
       "price": 1799.9,
-      "category": "Karma/Diğer",
-      "url": ""
-    },
-    {
-      "site": "Bloom and Fresh",
-      "name": "Solmayan Buket & Macaron 12’li Bundle",
-      "price": 1799.9,
-      "category": "Karma/Diğer",
-      "url": ""
-    },
-    {
-      "site": "Bloom and Fresh",
-      "name": "Divan Fıstıklı Lokum & Muhabbetli Türk Kahvesi Bundle",
-      "price": 2599.9,
-      "category": "Karma/Diğer",
-      "url": ""
-    },
-    {
-      "site": "Bloom and Fresh",
-      "name": "Divan Madlen Çikolata (80'li)",
-      "price": 2299.9,
-      "category": "Karma/Diğer",
-      "url": ""
-    },
-    {
-      "site": "Bloom and Fresh",
-      "name": "Melodi Cafe Serisi Atölye (320g)",
-      "price": 1299.9,
       "category": "Karma/Diğer",
       "url": ""
     }
@@ -437,9 +437,9 @@
       },
       "Bloom and Fresh": {
         "product_count": 30,
-        "avg_price": "2269.90",
-        "min_price": "1199.90",
-        "max_price": "4599.90"
+        "avg_price": "2213.23",
+        "min_price": "1099.90",
+        "max_price": "5999.90"
       }
     },
     "by_category": {
@@ -478,10 +478,10 @@
         "prices_by_site": {
           "Bloom and Fresh": {
             "count": 30,
-            "avg": "2269.90"
+            "avg": "2213.23"
           }
         },
-        "avg_price": "2269.90"
+        "avg_price": "2213.23"
       }
     }
   }
