@@ -1,9 +1,9 @@
 {
-  "date": "2026-05-10T07:13:12.781Z",
+  "date": "2026-05-10T10:12:08.131Z",
   "summary": {
     "total_sites": 3,
     "successful_sites": 3,
-    "total_products": 30
+    "total_products": 60
   },
   "all_products": [
     {
@@ -79,7 +79,7 @@
     {
       "site": "Çiçek Sepeti",
       "name": "Kraft Buket Kağıdında 25'li Kırmızı Gül Buketi",
-      "price": 1749,
+      "price": 1699,
       "category": "Gül",
       "url": "https://www.ciceksepeti.com/kucak-dolusu-ask-25-kirmizi-gul-buketi-at4035"
     },
@@ -114,7 +114,7 @@
     {
       "site": "Çiçek Sepeti",
       "name": "7'li Kırmızı Gül Buketi",
-      "price": 849.99,
+      "price": 829.99,
       "category": "Gül",
       "url": "https://www.ciceksepeti.com/hayatimin-askina-7li-gul-buketi-at4030"
     },
@@ -177,7 +177,7 @@
     {
       "site": "Çiçek Sepeti",
       "name": "Kişiye Özel Fotoğraf Pankartlı Kırmızı Gül Buketi",
-      "price": 899.99,
+      "price": 879.99,
       "category": "Gül",
       "url": "https://www.ciceksepeti.com/kisiye-ozel-fotograf-pankartli-kirmizi-gul-buketi-at6034"
     },
@@ -215,15 +215,231 @@
       "price": 599.99,
       "category": "Papatya",
       "url": "https://www.ciceksepeti.com/kraft-tasimali-bukette-papatyalar-ve-lavantalar-at5847"
+    },
+    {
+      "site": "Bloom and Fresh",
+      "name": "Coral Pink & B&F Chocolate Anneler Günü Bundle",
+      "price": 3599.9,
+      "category": "Karma/Diğer",
+      "url": ""
+    },
+    {
+      "site": "Bloom and Fresh",
+      "name": "Spathy Love & B&F Chocolate Anneler Günü Bundle",
+      "price": 2499.9,
+      "category": "Karma/Diğer",
+      "url": ""
+    },
+    {
+      "site": "Bloom and Fresh",
+      "name": "Coral Gold",
+      "price": 2499.9,
+      "category": "Karma/Diğer",
+      "url": ""
+    },
+    {
+      "site": "Bloom and Fresh",
+      "name": "Saffron Gold",
+      "price": 2599.9,
+      "category": "Karma/Diğer",
+      "url": ""
+    },
+    {
+      "site": "Bloom and Fresh",
+      "name": "Lausanne Gold",
+      "price": 2599.9,
+      "category": "Karma/Diğer",
+      "url": ""
+    },
+    {
+      "site": "Bloom and Fresh",
+      "name": "Honey Mesh",
+      "price": 2599.9,
+      "category": "Karma/Diğer",
+      "url": ""
+    },
+    {
+      "site": "Bloom and Fresh",
+      "name": "Zuzu Florence",
+      "price": 2599.9,
+      "category": "Karma/Diğer",
+      "url": ""
+    },
+    {
+      "site": "Bloom and Fresh",
+      "name": "Zuzu Moonstone",
+      "price": 2499.9,
+      "category": "Karma/Diğer",
+      "url": ""
+    },
+    {
+      "site": "Bloom and Fresh",
+      "name": "Roja Scandic",
+      "price": 2499.9,
+      "category": "Karma/Diğer",
+      "url": ""
+    },
+    {
+      "site": "Bloom and Fresh",
+      "name": "Lily Bologna",
+      "price": 2499.9,
+      "category": "Karma/Diğer",
+      "url": ""
+    },
+    {
+      "site": "Bloom and Fresh",
+      "name": "Dark Sienna Gold",
+      "price": 1999.9,
+      "category": "Karma/Diğer",
+      "url": ""
+    },
+    {
+      "site": "Bloom and Fresh",
+      "name": "Flamingo Gold",
+      "price": 1899.9,
+      "category": "Karma/Diğer",
+      "url": ""
+    },
+    {
+      "site": "Bloom and Fresh",
+      "name": "Astrid",
+      "price": 1499.9,
+      "category": "Karma/Diğer",
+      "url": ""
+    },
+    {
+      "site": "Bloom and Fresh",
+      "name": "Dark Sienna Terra",
+      "price": 1899.9,
+      "category": "Karma/Diğer",
+      "url": ""
+    },
+    {
+      "site": "Bloom and Fresh",
+      "name": "Roja Mesh",
+      "price": 2599.9,
+      "category": "Karma/Diğer",
+      "url": ""
+    },
+    {
+      "site": "Bloom and Fresh",
+      "name": "Camille",
+      "price": 1399.9,
+      "category": "Karma/Diğer",
+      "url": ""
+    },
+    {
+      "site": "Bloom and Fresh",
+      "name": "Cavalli Anthurium XL",
+      "price": 2799.9,
+      "category": "Karma/Diğer",
+      "url": ""
+    },
+    {
+      "site": "Bloom and Fresh",
+      "name": "Punch & Coffee",
+      "price": 1999.9,
+      "category": "Karma/Diğer",
+      "url": ""
+    },
+    {
+      "site": "Bloom and Fresh",
+      "name": "Seni Çok Seviyorum Anneciğim ❤️",
+      "price": 2599.9,
+      "category": "Karma/Diğer",
+      "url": ""
+    },
+    {
+      "site": "Bloom and Fresh",
+      "name": "Canım Annem",
+      "price": 1499.9,
+      "category": "Karma/Diğer",
+      "url": ""
+    },
+    {
+      "site": "Bloom and Fresh",
+      "name": "Mama Needs Coffee",
+      "price": 1499.9,
+      "category": "Karma/Diğer",
+      "url": ""
+    },
+    {
+      "site": "Bloom and Fresh",
+      "name": "Have A Good Day",
+      "price": 2999.9,
+      "category": "Karma/Diğer",
+      "url": ""
+    },
+    {
+      "site": "Bloom and Fresh",
+      "name": "The Mediterranean Harvest Edition",
+      "price": 4599.9,
+      "category": "Karma/Diğer",
+      "url": ""
+    },
+    {
+      "site": "Bloom and Fresh",
+      "name": "B&F Chocolate Anneler Günü (20’li)",
+      "price": 1199.9,
+      "category": "Karma/Diğer",
+      "url": ""
+    },
+    {
+      "site": "Bloom and Fresh",
+      "name": "B&F Macarons Anneler Günü (12’li)",
+      "price": 1299.9,
+      "category": "Karma/Diğer",
+      "url": ""
+    },
+    {
+      "site": "Bloom and Fresh",
+      "name": "B&F Macarons Anneler Günü (24’lü)",
+      "price": 1799.9,
+      "category": "Karma/Diğer",
+      "url": ""
+    },
+    {
+      "site": "Bloom and Fresh",
+      "name": "Solmayan Buket & Macaron 12’li Bundle",
+      "price": 1799.9,
+      "category": "Karma/Diğer",
+      "url": ""
+    },
+    {
+      "site": "Bloom and Fresh",
+      "name": "Divan Fıstıklı Lokum & Muhabbetli Türk Kahvesi Bundle",
+      "price": 2599.9,
+      "category": "Karma/Diğer",
+      "url": ""
+    },
+    {
+      "site": "Bloom and Fresh",
+      "name": "Divan Madlen Çikolata (80'li)",
+      "price": 2299.9,
+      "category": "Karma/Diğer",
+      "url": ""
+    },
+    {
+      "site": "Bloom and Fresh",
+      "name": "Melodi Cafe Serisi Atölye (320g)",
+      "price": 1299.9,
+      "category": "Karma/Diğer",
+      "url": ""
     }
   ],
   "price_analysis": {
     "by_site": {
       "Çiçek Sepeti": {
         "product_count": 30,
-        "avg_price": "1065.80",
+        "avg_price": "1062.80",
         "min_price": "599.99",
         "max_price": "1849.00"
+      },
+      "Bloom and Fresh": {
+        "product_count": 30,
+        "avg_price": "2269.90",
+        "min_price": "1199.90",
+        "max_price": "4599.90"
       }
     },
     "by_category": {
@@ -232,10 +448,10 @@
         "prices_by_site": {
           "Çiçek Sepeti": {
             "count": 20,
-            "avg": "1158.85"
+            "avg": "1154.35"
           }
         },
-        "avg_price": "1158.85"
+        "avg_price": "1154.35"
       },
       "Papatya": {
         "count": 7,
@@ -256,6 +472,16 @@
           }
         },
         "avg_price": "866.66"
+      },
+      "Karma/Diğer": {
+        "count": 30,
+        "prices_by_site": {
+          "Bloom and Fresh": {
+            "count": 30,
+            "avg": "2269.90"
+          }
+        },
+        "avg_price": "2269.90"
       }
     }
   }
