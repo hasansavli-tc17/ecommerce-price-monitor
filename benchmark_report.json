@@ -1,5 +1,5 @@
 {
-  "date": "2026-05-12T07:23:20.246Z",
+  "date": "2026-05-12T11:20:25.370Z",
   "summary": {
     "total_sites": 3,
     "successful_sites": 3,
@@ -260,13 +260,6 @@
     },
     {
       "site": "Bloom and Fresh",
-      "name": "Primavera",
-      "price": 2199.9,
-      "category": "Karma/Diğer",
-      "url": ""
-    },
-    {
-      "site": "Bloom and Fresh",
       "name": "Lausanne Gold",
       "price": 2599.9,
       "category": "Karma/Diğer",
@@ -425,6 +418,13 @@
       "price": 1999.9,
       "category": "Karma/Diğer",
       "url": ""
+    },
+    {
+      "site": "Bloom and Fresh",
+      "name": "Have A Good Day",
+      "price": 2999.9,
+      "category": "Karma/Diğer",
+      "url": ""
     }
   ],
   "price_analysis": {
@@ -437,7 +437,7 @@
       },
       "Bloom and Fresh": {
         "product_count": 30,
-        "avg_price": "2169.90",
+        "avg_price": "2196.57",
         "min_price": "1099.90",
         "max_price": "5999.90"
       }
@@ -498,10 +498,10 @@
         "prices_by_site": {
           "Bloom and Fresh": {
             "count": 28,
-            "avg": "2185.61"
+            "avg": "2214.19"
           }
         },
-        "avg_price": "2185.61"
+        "avg_price": "2214.19"
       }
     }
   }
