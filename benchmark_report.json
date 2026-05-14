@@ -1,5 +1,5 @@
 {
-  "date": "2026-05-14T11:12:56.375Z",
+  "date": "2026-05-14T14:03:27.348Z",
   "summary": {
     "total_sites": 3,
     "successful_sites": 3,
@@ -79,7 +79,7 @@
     {
       "site": "Çiçek Sepeti",
       "name": "Kırmızı Gerbera Çiçek Buketi",
-      "price": 629.99,
+      "price": 589.99,
       "category": "Gerbera",
       "url": "https://www.ciceksepeti.com/kirmizi-gerbera-cicek-buketi-at4258"
     },
@@ -135,7 +135,7 @@
     {
       "site": "Çiçek Sepeti",
       "name": "5'li Kırmızı Gül Buketi",
-      "price": 699.99,
+      "price": 689.99,
       "category": "Gül",
       "url": "https://www.ciceksepeti.com/seni-seviyorum-5li-kirmizi-gul-buketi-at2929"
     },
@@ -163,7 +163,7 @@
     {
       "site": "Çiçek Sepeti",
       "name": "Beyaz Gerberalar Çiçek Buketi Lolaflora",
-      "price": 699.99,
+      "price": 629.99,
       "category": "Gerbera",
       "url": "https://www.ciceksepeti.com/beyaz-gerberalar-cicek-buketi-at5380"
     },
@@ -220,13 +220,6 @@
       "site": "Bloom and Fresh",
       "name": "Columbus - 25 ad. Pembe Katmerli Lale",
       "price": 2099.9,
-      "category": "Lale",
-      "url": ""
-    },
-    {
-      "site": "Bloom and Fresh",
-      "name": "Goldie - 20 ad. Sarı Lale",
-      "price": 1799.9,
       "category": "Lale",
       "url": ""
     },
@@ -425,19 +418,26 @@
       "price": 1799.9,
       "category": "Karma/Diğer",
       "url": ""
+    },
+    {
+      "site": "Bloom and Fresh",
+      "name": "Harem Chocolate Concept Selection Kutusu",
+      "price": 1999.9,
+      "category": "Karma/Diğer",
+      "url": ""
     }
   ],
   "price_analysis": {
     "by_site": {
       "Çiçek Sepeti": {
         "product_count": 30,
-        "avg_price": "882.09",
-        "min_price": "629.99",
+        "avg_price": "878.09",
+        "min_price": "589.99",
         "max_price": "1449.00"
       },
       "Bloom and Fresh": {
         "product_count": 30,
-        "avg_price": "2225.23",
+        "avg_price": "2231.90",
         "min_price": "1099.90",
         "max_price": "5999.90"
       }
@@ -448,20 +448,20 @@
         "prices_by_site": {
           "Çiçek Sepeti": {
             "count": 3,
-            "avg": "673.32"
+            "avg": "636.66"
           }
         },
-        "avg_price": "673.32"
+        "avg_price": "636.66"
       },
       "Gül": {
         "count": 20,
         "prices_by_site": {
           "Çiçek Sepeti": {
             "count": 20,
-            "avg": "965.64"
+            "avg": "965.14"
           }
         },
-        "avg_price": "965.64"
+        "avg_price": "965.14"
       },
       "Papatya": {
         "count": 6,
@@ -484,24 +484,24 @@
         "avg_price": "679.99"
       },
       "Lale": {
-        "count": 2,
+        "count": 1,
         "prices_by_site": {
           "Bloom and Fresh": {
-            "count": 2,
-            "avg": "1949.90"
+            "count": 1,
+            "avg": "2099.90"
           }
         },
-        "avg_price": "1949.90"
+        "avg_price": "2099.90"
       },
       "Karma/Diğer": {
-        "count": 28,
+        "count": 29,
         "prices_by_site": {
           "Bloom and Fresh": {
-            "count": 28,
-            "avg": "2244.90"
+            "count": 29,
+            "avg": "2236.45"
           }
         },
-        "avg_price": "2244.90"
+        "avg_price": "2236.45"
       }
     }
   }
