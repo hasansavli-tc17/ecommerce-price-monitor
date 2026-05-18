@@ -1,5 +1,5 @@
 {
-  "date": "2026-05-18T08:31:24.199Z",
+  "date": "2026-05-18T12:27:36.510Z",
   "summary": {
     "total_sites": 3,
     "successful_sites": 3,
@@ -358,13 +358,6 @@
     },
     {
       "site": "Bloom and Fresh",
-      "name": "Spathy Love",
-      "price": 1399.9,
-      "category": "Karma/Diğer",
-      "url": ""
-    },
-    {
-      "site": "Bloom and Fresh",
       "name": "Pinky Air",
       "price": 1599.9,
       "category": "Karma/Diğer",
@@ -425,6 +418,13 @@
       "price": 2999.9,
       "category": "Karma/Diğer",
       "url": ""
+    },
+    {
+      "site": "Bloom and Fresh",
+      "name": "Well Hello Kity!",
+      "price": 1999.9,
+      "category": "Karma/Diğer",
+      "url": ""
     }
   ],
   "price_analysis": {
@@ -437,7 +437,7 @@
       },
       "Bloom and Fresh": {
         "product_count": 30,
-        "avg_price": "2279.90",
+        "avg_price": "2299.90",
         "min_price": "1099.90",
         "max_price": "5999.90"
       }
@@ -498,10 +498,10 @@
         "prices_by_site": {
           "Bloom and Fresh": {
             "count": 28,
-            "avg": "2303.47"
+            "avg": "2324.90"
           }
         },
-        "avg_price": "2303.47"
+        "avg_price": "2324.90"
       }
     }
   }
