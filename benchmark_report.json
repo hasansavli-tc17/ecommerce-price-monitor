@@ -1,5 +1,5 @@
 {
-  "date": "2026-05-20T08:02:14.329Z",
+  "date": "2026-05-20T11:48:45.126Z",
   "summary": {
     "total_sites": 3,
     "successful_sites": 3,
@@ -218,6 +218,13 @@
     },
     {
       "site": "Bloom and Fresh",
+      "name": "Lucia",
+      "price": 1999.9,
+      "category": "Karma/Diğer",
+      "url": ""
+    },
+    {
+      "site": "Bloom and Fresh",
       "name": "Columbus - 25 ad. Pembe Katmerli Lale",
       "price": 2099.9,
       "category": "Lale",
@@ -227,13 +234,6 @@
       "site": "Bloom and Fresh",
       "name": "Sienna",
       "price": 1699.9,
-      "category": "Karma/Diğer",
-      "url": ""
-    },
-    {
-      "site": "Bloom and Fresh",
-      "name": "Helene",
-      "price": 2699.9,
       "category": "Karma/Diğer",
       "url": ""
     },
@@ -295,6 +295,13 @@
     },
     {
       "site": "Bloom and Fresh",
+      "name": "Primavera",
+      "price": 2199.9,
+      "category": "Karma/Diğer",
+      "url": ""
+    },
+    {
+      "site": "Bloom and Fresh",
       "name": "Verona Aura",
       "price": 3399.9,
       "category": "Karma/Diğer",
@@ -346,6 +353,13 @@
       "site": "Bloom and Fresh",
       "name": "Dark Sienna Terra",
       "price": 1899.9,
+      "category": "Karma/Diğer",
+      "url": ""
+    },
+    {
+      "site": "Bloom and Fresh",
+      "name": "Roja Mesh",
+      "price": 2599.9,
       "category": "Karma/Diğer",
       "url": ""
     },
@@ -411,20 +425,6 @@
       "price": 1999.9,
       "category": "Karma/Diğer",
       "url": ""
-    },
-    {
-      "site": "Bloom and Fresh",
-      "name": "Have A Good Day",
-      "price": 2999.9,
-      "category": "Karma/Diğer",
-      "url": ""
-    },
-    {
-      "site": "Bloom and Fresh",
-      "name": "Well Hello Kity!",
-      "price": 1999.9,
-      "category": "Karma/Diğer",
-      "url": ""
     }
   ],
   "price_analysis": {
@@ -437,7 +437,7 @@
       },
       "Bloom and Fresh": {
         "product_count": 30,
-        "avg_price": "2288.57",
+        "avg_price": "2258.57",
         "min_price": "1099.90",
         "max_price": "5999.90"
       }
@@ -483,6 +483,16 @@
         },
         "avg_price": "679.99"
       },
+      "Karma/Diğer": {
+        "count": 29,
+        "prices_by_site": {
+          "Bloom and Fresh": {
+            "count": 29,
+            "avg": "2264.04"
+          }
+        },
+        "avg_price": "2264.04"
+      },
       "Lale": {
         "count": 1,
         "prices_by_site": {
@@ -492,16 +502,6 @@
           }
         },
         "avg_price": "2099.90"
-      },
-      "Karma/Diğer": {
-        "count": 29,
-        "prices_by_site": {
-          "Bloom and Fresh": {
-            "count": 29,
-            "avg": "2295.07"
-          }
-        },
-        "avg_price": "2295.07"
       }
     }
   }
