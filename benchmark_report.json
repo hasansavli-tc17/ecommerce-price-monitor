@@ -1,5 +1,5 @@
 {
-  "date": "2026-05-21T08:08:35.079Z",
+  "date": "2026-05-21T12:12:30.272Z",
   "summary": {
     "total_sites": 3,
     "successful_sites": 3,
@@ -16,7 +16,7 @@
     {
       "site": "Çiçek Sepeti",
       "name": "11'li Kırmızı Gül Çiçek Buketi",
-      "price": 859.99,
+      "price": 849.99,
       "category": "Gül",
       "url": "https://www.ciceksepeti.com/11li-kirmizi-gul-cicek-buketi-at4273-1"
     },
@@ -232,8 +232,8 @@
     },
     {
       "site": "Bloom and Fresh",
-      "name": "Sienna",
-      "price": 1699.9,
+      "name": "Helene",
+      "price": 2699.9,
       "category": "Karma/Diğer",
       "url": ""
     },
@@ -431,13 +431,13 @@
     "by_site": {
       "Çiçek Sepeti": {
         "product_count": 30,
-        "avg_price": "915.79",
+        "avg_price": "915.46",
         "min_price": "539.99",
         "max_price": "2799.00"
       },
       "Bloom and Fresh": {
         "product_count": 30,
-        "avg_price": "2258.57",
+        "avg_price": "2291.90",
         "min_price": "1099.90",
         "max_price": "5999.90"
       }
@@ -448,10 +448,10 @@
         "prices_by_site": {
           "Çiçek Sepeti": {
             "count": 19,
-            "avg": "1040.73"
+            "avg": "1040.20"
           }
         },
-        "avg_price": "1040.73"
+        "avg_price": "1040.20"
       },
       "Gerbera": {
         "count": 2,
@@ -492,10 +492,10 @@
           },
           "Bloom and Fresh": {
             "count": 29,
-            "avg": "2264.04"
+            "avg": "2298.52"
           }
         },
-        "avg_price": "2206.57"
+        "avg_price": "2239.90"
       },
       "Lale": {
         "count": 1,
