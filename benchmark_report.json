@@ -1,5 +1,5 @@
 {
-  "date": "2026-05-23T16:01:02.008Z",
+  "date": "2026-05-24T07:37:32.394Z",
   "summary": {
     "total_sites": 3,
     "successful_sites": 3,
@@ -43,17 +43,17 @@
     },
     {
       "site": "Çiçek Sepeti",
-      "name": "11'li Kırmızı Gül Çiçek Buketi",
-      "price": 849.99,
-      "category": "Gül",
-      "url": "https://www.ciceksepeti.com/11li-kirmizi-gul-cicek-buketi-at4273-1"
-    },
-    {
-      "site": "Çiçek Sepeti",
       "name": "Mor Bukette Pembe Lilyumlar ve Papatyalar",
       "price": 989.99,
       "category": "Papatya",
       "url": "https://www.ciceksepeti.com/mor-bukette-pembe-lilyumlar-ve-papatyalar-vbt1604"
+    },
+    {
+      "site": "Çiçek Sepeti",
+      "name": "11'li Kırmızı Gül Çiçek Buketi",
+      "price": 849.99,
+      "category": "Gül",
+      "url": "https://www.ciceksepeti.com/11li-kirmizi-gul-cicek-buketi-at4273-1"
     },
     {
       "site": "Çiçek Sepeti",
@@ -120,6 +120,13 @@
     },
     {
       "site": "Çiçek Sepeti",
+      "name": "Beyaz Gül, Papatya ve Ayıcık Anahtarlık Buketi",
+      "price": 1149,
+      "category": "Gül",
+      "url": "https://www.ciceksepeti.com/beyaz-gul-papatya-ve-ayicik-anahtarlik-buketi-vbt1234"
+    },
+    {
+      "site": "Çiçek Sepeti",
       "name": "Yeşil Kahve Bukette Kırmızı Güller ve Papatyalar",
       "price": 929.99,
       "category": "Gül",
@@ -131,13 +138,6 @@
       "price": 669.99,
       "category": "Gül",
       "url": "https://www.ciceksepeti.com/seni-seviyorum-5li-kirmizi-gul-buketi-at2929"
-    },
-    {
-      "site": "Çiçek Sepeti",
-      "name": "Beyaz Gül, Papatya ve Ayıcık Anahtarlık Buketi",
-      "price": 1149,
-      "category": "Gül",
-      "url": "https://www.ciceksepeti.com/beyaz-gul-papatya-ve-ayicik-anahtarlik-buketi-vbt1234"
     },
     {
       "site": "Çiçek Sepeti",
@@ -155,17 +155,17 @@
     },
     {
       "site": "Çiçek Sepeti",
-      "name": "Lila Pembe Bukette Lila Güller ve Beyaz Gerberalar",
-      "price": 759.99,
-      "category": "Gül",
-      "url": "https://www.ciceksepeti.com/lila-pembe-bukette-lila-guller-ve-beyaz-gerberalar-vbt1239"
-    },
-    {
-      "site": "Çiçek Sepeti",
       "name": "Sarı Bukette Beyaz Papatyalar",
       "price": 669.99,
       "category": "Papatya",
       "url": "https://www.ciceksepeti.com/sari-bukette-beyaz-papatyalar-at5865"
+    },
+    {
+      "site": "Çiçek Sepeti",
+      "name": "Lila Pembe Bukette Lila Güller ve Beyaz Gerberalar",
+      "price": 759.99,
+      "category": "Gül",
+      "url": "https://www.ciceksepeti.com/lila-pembe-bukette-lila-guller-ve-beyaz-gerberalar-vbt1239"
     },
     {
       "site": "Çiçek Sepeti",
