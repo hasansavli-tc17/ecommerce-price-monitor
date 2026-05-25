@@ -1,5 +1,5 @@
 {
-  "date": "2026-05-25T08:46:15.009Z",
+  "date": "2026-05-25T12:27:45.068Z",
   "summary": {
     "total_sites": 3,
     "successful_sites": 3,
@@ -225,9 +225,9 @@
     },
     {
       "site": "Bloom and Fresh",
-      "name": "Columbus - 25 ad. Pembe Katmerli Lale",
-      "price": 2099.9,
-      "category": "Lale",
+      "name": "Sienna",
+      "price": 1699.9,
+      "category": "Karma/Diğer",
       "url": ""
     },
     {
@@ -317,7 +317,7 @@
     {
       "site": "Bloom and Fresh",
       "name": "Roja Scandic",
-      "price": 2499.9,
+      "price": 2349.9,
       "category": "Karma/Diğer",
       "url": ""
     },
@@ -359,7 +359,7 @@
     {
       "site": "Bloom and Fresh",
       "name": "Roja Mesh",
-      "price": 2599.9,
+      "price": 2449.9,
       "category": "Karma/Diğer",
       "url": ""
     },
@@ -437,7 +437,7 @@
       },
       "Bloom and Fresh": {
         "product_count": 30,
-        "avg_price": "2291.90",
+        "avg_price": "2268.57",
         "min_price": "1099.90",
         "max_price": "5999.90"
       }
@@ -484,24 +484,14 @@
         "avg_price": "699.99"
       },
       "Karma/Diğer": {
-        "count": 29,
+        "count": 30,
         "prices_by_site": {
           "Bloom and Fresh": {
-            "count": 29,
-            "avg": "2298.52"
+            "count": 30,
+            "avg": "2268.57"
           }
         },
-        "avg_price": "2298.52"
-      },
-      "Lale": {
-        "count": 1,
-        "prices_by_site": {
-          "Bloom and Fresh": {
-            "count": 1,
-            "avg": "2099.90"
-          }
-        },
-        "avg_price": "2099.90"
+        "avg_price": "2268.57"
       }
     }
   }
