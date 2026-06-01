@@ -1,5 +1,5 @@
 {
-  "date": "2026-06-01T09:41:06.858Z",
+  "date": "2026-06-01T14:58:03.257Z",
   "summary": {
     "total_sites": 3,
     "successful_sites": 3,
@@ -8,10 +8,17 @@
   "all_products": [
     {
       "site": "Çiçek Sepeti",
-      "name": "11'li Kırmızı Gül Çiçek Buketi",
-      "price": 839.99,
+      "name": "Kelebek Bukette Pembe Gerbera ve Beyaz Karanfiller",
+      "price": 679.99,
+      "category": "Gerbera",
+      "url": "https://www.ciceksepeti.com/kelebek-bukette-pembe-gerbera-ve-beyaz-karanfiller-at5823"
+    },
+    {
+      "site": "Çiçek Sepeti",
+      "name": "Koyu Somon Bukette 10 Lila Gül",
+      "price": 989.99,
       "category": "Gül",
-      "url": "https://www.ciceksepeti.com/11li-kirmizi-gul-cicek-buketi-at4273-1"
+      "url": "https://www.ciceksepeti.com/koyu-somon-bukette-10-lila-gul-vbt1207"
     },
     {
       "site": "Çiçek Sepeti",
@@ -19,6 +26,27 @@
       "price": 639.99,
       "category": "Gül",
       "url": "https://www.ciceksepeti.com/9lu-kirmizi-gul-cicek-buketi-at4264"
+    },
+    {
+      "site": "Çiçek Sepeti",
+      "name": "Beyaz Papatyalar Çiçek Buketi",
+      "price": 779.99,
+      "category": "Papatya",
+      "url": "https://www.ciceksepeti.com/beyaz-papatyalar-cicek-buketi-at4253"
+    },
+    {
+      "site": "Çiçek Sepeti",
+      "name": "Sarı Bukette Beyaz Pembe Gerberalar ve Lila Güller",
+      "price": 769.99,
+      "category": "Gül",
+      "url": "https://www.ciceksepeti.com/sari-bukette-beyaz-pembe-gerberalar-ve-lila-guller-vbt1366"
+    },
+    {
+      "site": "Çiçek Sepeti",
+      "name": "11'li Kırmızı Gül Çiçek Buketi",
+      "price": 839.99,
+      "category": "Gül",
+      "url": "https://www.ciceksepeti.com/11li-kirmizi-gul-cicek-buketi-at4273-1"
     },
     {
       "site": "Çiçek Sepeti",
@@ -43,13 +71,6 @@
     },
     {
       "site": "Çiçek Sepeti",
-      "name": "Beyaz Papatyalar Çiçek Buketi",
-      "price": 779.99,
-      "category": "Papatya",
-      "url": "https://www.ciceksepeti.com/beyaz-papatyalar-cicek-buketi-at4253"
-    },
-    {
-      "site": "Çiçek Sepeti",
       "name": "Lila Bukette 3 Lila Gül ve Pembe Beyaz Papatyalar",
       "price": 869.99,
       "category": "Gül",
@@ -71,34 +92,6 @@
     },
     {
       "site": "Çiçek Sepeti",
-      "name": "Pembe Gazete Kağıdı Bukette Beyaz Papatyalar",
-      "price": 599.99,
-      "category": "Papatya",
-      "url": "https://www.ciceksepeti.com/pembe-gazete-kagidi-bukette-beyaz-papatyalar-at5771"
-    },
-    {
-      "site": "Çiçek Sepeti",
-      "name": "Pembe Papatyalar Çiçek Buketi",
-      "price": 799.99,
-      "category": "Papatya",
-      "url": "https://www.ciceksepeti.com/pembe-papatyalar-cicek-buketi-at4255"
-    },
-    {
-      "site": "Çiçek Sepeti",
-      "name": "Yeşil Kahve Bukette Kırmızı Güller ve Papatyalar",
-      "price": 929.99,
-      "category": "Gül",
-      "url": "https://www.ciceksepeti.com/yesil-kahve-bukette-kirmizi-guller-ve-papatyalar-at5636"
-    },
-    {
-      "site": "Çiçek Sepeti",
-      "name": "Beyaz Gül, Papatya ve Ayıcık Anahtarlık Buketi",
-      "price": 1149,
-      "category": "Gül",
-      "url": "https://www.ciceksepeti.com/beyaz-gul-papatya-ve-ayicik-anahtarlik-buketi-vbt1234"
-    },
-    {
-      "site": "Çiçek Sepeti",
       "name": "Lila Pembe Bukette Lila Güller ve Beyaz Gerberalar",
       "price": 759.99,
       "category": "Gül",
@@ -106,10 +99,10 @@
     },
     {
       "site": "Çiçek Sepeti",
-      "name": "Sarı Bukette Beyaz Pembe Gerberalar ve Lila Güller",
-      "price": 769.99,
-      "category": "Gül",
-      "url": "https://www.ciceksepeti.com/sari-bukette-beyaz-pembe-gerberalar-ve-lila-guller-vbt1366"
+      "name": "Pembe Gazete Kağıdı Bukette Beyaz Papatyalar",
+      "price": 599.99,
+      "category": "Papatya",
+      "url": "https://www.ciceksepeti.com/pembe-gazete-kagidi-bukette-beyaz-papatyalar-at5771"
     },
     {
       "site": "Çiçek Sepeti",
@@ -127,10 +120,31 @@
     },
     {
       "site": "Çiçek Sepeti",
+      "name": "Pembe Papatyalar Çiçek Buketi",
+      "price": 799.99,
+      "category": "Papatya",
+      "url": "https://www.ciceksepeti.com/pembe-papatyalar-cicek-buketi-at4255"
+    },
+    {
+      "site": "Çiçek Sepeti",
+      "name": "Yeşil Kahve Bukette Kırmızı Güller ve Papatyalar",
+      "price": 929.99,
+      "category": "Gül",
+      "url": "https://www.ciceksepeti.com/yesil-kahve-bukette-kirmizi-guller-ve-papatyalar-at5636"
+    },
+    {
+      "site": "Çiçek Sepeti",
       "name": "Gri Gazete Bukette 11 Kırmızı Gül ve Beyaz Papatya",
       "price": 969.99,
       "category": "Gül",
       "url": "https://www.ciceksepeti.com/gri-gazete-bukette-11-kirmizi-gul-ve-beyaz-papatya-at6118"
+    },
+    {
+      "site": "Çiçek Sepeti",
+      "name": "Beyaz Gül, Papatya ve Ayıcık Anahtarlık Buketi",
+      "price": 1149,
+      "category": "Gül",
+      "url": "https://www.ciceksepeti.com/beyaz-gul-papatya-ve-ayicik-anahtarlik-buketi-vbt1234"
     },
     {
       "site": "Çiçek Sepeti",
@@ -159,13 +173,6 @@
       "price": 699.99,
       "category": "Karanfil",
       "url": "https://www.ciceksepeti.com/kirmizi-karanfil-cicek-buketi-at4262"
-    },
-    {
-      "site": "Çiçek Sepeti",
-      "name": "Kelebek Bukette Pembe Gerbera ve Beyaz Karanfiller",
-      "price": 679.99,
-      "category": "Gerbera",
-      "url": "https://www.ciceksepeti.com/kelebek-bukette-pembe-gerbera-ve-beyaz-karanfiller-at5823"
     },
     {
       "site": "Çiçek Sepeti",
@@ -210,16 +217,9 @@
       "url": "https://www.ciceksepeti.com/50-kirmizi-gul-cicek-demeti-at4036"
     },
     {
-      "site": "Çiçek Sepeti",
-      "name": "Beyaz Karanfil Çiçek Buketi",
-      "price": 699.99,
-      "category": "Karanfil",
-      "url": "https://www.ciceksepeti.com/beyaz-karanfil-cicek-buketi-at4263"
-    },
-    {
       "site": "Bloom and Fresh",
       "name": "Lucia",
-      "price": 1999.9,
+      "price": 1699.9,
       "category": "Karma/Diğer",
       "url": ""
     },
@@ -317,7 +317,7 @@
     {
       "site": "Bloom and Fresh",
       "name": "Roja Scandic",
-      "price": 2349.9,
+      "price": 1999.9,
       "category": "Karma/Diğer",
       "url": ""
     },
@@ -387,7 +387,7 @@
     {
       "site": "Bloom and Fresh",
       "name": "B&F Chocolate (20'li)",
-      "price": 1099.9,
+      "price": 999.9,
       "category": "Karma/Diğer",
       "url": ""
     },
@@ -431,28 +431,18 @@
     "by_site": {
       "Çiçek Sepeti": {
         "product_count": 30,
-        "avg_price": "870.19",
+        "avg_price": "879.86",
         "min_price": "539.99",
         "max_price": "2799.00"
       },
       "Bloom and Fresh": {
         "product_count": 30,
-        "avg_price": "2075.23",
+        "avg_price": "2050.23",
         "min_price": "999.90",
         "max_price": "3399.90"
       }
     },
     "by_category": {
-      "Gül": {
-        "count": 18,
-        "prices_by_site": {
-          "Çiçek Sepeti": {
-            "count": 18,
-            "avg": "982.55"
-          }
-        },
-        "avg_price": "982.55"
-      },
       "Gerbera": {
         "count": 3,
         "prices_by_site": {
@@ -462,6 +452,16 @@
           }
         },
         "avg_price": "616.66"
+      },
+      "Gül": {
+        "count": 19,
+        "prices_by_site": {
+          "Çiçek Sepeti": {
+            "count": 19,
+            "avg": "982.94"
+          }
+        },
+        "avg_price": "982.94"
       },
       "Papatya": {
         "count": 6,
@@ -474,24 +474,24 @@
         "avg_price": "763.32"
       },
       "Karanfil": {
-        "count": 3,
+        "count": 2,
         "prices_by_site": {
           "Çiçek Sepeti": {
-            "count": 3,
-            "avg": "663.32"
+            "count": 2,
+            "avg": "644.99"
           }
         },
-        "avg_price": "663.32"
+        "avg_price": "644.99"
       },
       "Karma/Diğer": {
         "count": 30,
         "prices_by_site": {
           "Bloom and Fresh": {
             "count": 30,
-            "avg": "2075.23"
+            "avg": "2050.23"
           }
         },
-        "avg_price": "2075.23"
+        "avg_price": "2050.23"
       }
     }
   }
