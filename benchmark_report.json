@@ -1,5 +1,5 @@
 {
-  "date": "2026-06-02T08:52:52.322Z",
+  "date": "2026-06-02T12:40:03.072Z",
   "summary": {
     "total_sites": 3,
     "successful_sites": 3,
@@ -225,6 +225,13 @@
     },
     {
       "site": "Bloom and Fresh",
+      "name": "Mixx",
+      "price": 1599.9,
+      "category": "Karma/Diğer",
+      "url": ""
+    },
+    {
+      "site": "Bloom and Fresh",
       "name": "Helene",
       "price": 2699.9,
       "category": "Karma/Diğer",
@@ -234,6 +241,13 @@
       "site": "Bloom and Fresh",
       "name": "Charlotte",
       "price": 1799.9,
+      "category": "Karma/Diğer",
+      "url": ""
+    },
+    {
+      "site": "Bloom and Fresh",
+      "name": "Honey Stripes",
+      "price": 2599.9,
       "category": "Karma/Diğer",
       "url": ""
     },
@@ -304,6 +318,13 @@
       "site": "Bloom and Fresh",
       "name": "Maggie",
       "price": 2899.9,
+      "category": "Karma/Diğer",
+      "url": ""
+    },
+    {
+      "site": "Bloom and Fresh",
+      "name": "Lily Stripes",
+      "price": 2499.9,
       "category": "Karma/Diğer",
       "url": ""
     },
@@ -404,27 +425,6 @@
       "price": 1399.9,
       "category": "Karma/Diğer",
       "url": ""
-    },
-    {
-      "site": "Bloom and Fresh",
-      "name": "Ferrero Collection (T15 | 172g)",
-      "price": 999.9,
-      "category": "Karma/Diğer",
-      "url": ""
-    },
-    {
-      "site": "Bloom and Fresh",
-      "name": "Divan Pralin Çikolata (20'li)",
-      "price": 1799.9,
-      "category": "Karma/Diğer",
-      "url": ""
-    },
-    {
-      "site": "Bloom and Fresh",
-      "name": "Harem Chocolate Concept Selection Kutusu",
-      "price": 1999.9,
-      "category": "Karma/Diğer",
-      "url": ""
     }
   ],
   "price_analysis": {
@@ -437,7 +437,7 @@
       },
       "Bloom and Fresh": {
         "product_count": 30,
-        "avg_price": "2060.23",
+        "avg_price": "2123.57",
         "min_price": "999.90",
         "max_price": "3399.90"
       }
@@ -488,10 +488,10 @@
         "prices_by_site": {
           "Bloom and Fresh": {
             "count": 30,
-            "avg": "2060.23"
+            "avg": "2123.57"
           }
         },
-        "avg_price": "2060.23"
+        "avg_price": "2123.57"
       }
     }
   }
