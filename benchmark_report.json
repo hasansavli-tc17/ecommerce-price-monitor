@@ -1,5 +1,5 @@
 {
-  "date": "2026-06-04T08:39:25.480Z",
+  "date": "2026-06-04T11:50:50.872Z",
   "summary": {
     "total_sites": 3,
     "successful_sites": 3,
@@ -239,6 +239,13 @@
     },
     {
       "site": "Bloom and Fresh",
+      "name": "Alice",
+      "price": 1999.9,
+      "category": "Karma/Diğer",
+      "url": ""
+    },
+    {
+      "site": "Bloom and Fresh",
       "name": "Honey Stripes",
       "price": 2599.9,
       "category": "Karma/Diğer",
@@ -281,15 +288,22 @@
     },
     {
       "site": "Bloom and Fresh",
-      "name": "Chloe",
-      "price": 2099.9,
+      "name": "Verona Aura",
+      "price": 3399.9,
       "category": "Karma/Diğer",
       "url": ""
     },
     {
       "site": "Bloom and Fresh",
-      "name": "Verona Aura",
-      "price": 3399.9,
+      "name": "Becky",
+      "price": 3599.9,
+      "category": "Karma/Diğer",
+      "url": ""
+    },
+    {
+      "site": "Bloom and Fresh",
+      "name": "Dante",
+      "price": 1899.9,
       "category": "Karma/Diğer",
       "url": ""
     },
@@ -311,13 +325,6 @@
       "site": "Bloom and Fresh",
       "name": "Roja Scandic",
       "price": 1999.9,
-      "category": "Karma/Diğer",
-      "url": ""
-    },
-    {
-      "site": "Bloom and Fresh",
-      "name": "Grace",
-      "price": 1459.9,
       "category": "Karma/Diğer",
       "url": ""
     },
@@ -358,6 +365,13 @@
     },
     {
       "site": "Bloom and Fresh",
+      "name": "Flamingo Gold",
+      "price": 1899.9,
+      "category": "Karma/Diğer",
+      "url": ""
+    },
+    {
+      "site": "Bloom and Fresh",
       "name": "Lily Bologna",
       "price": 2499.9,
       "category": "Karma/Diğer",
@@ -379,6 +393,27 @@
     },
     {
       "site": "Bloom and Fresh",
+      "name": "B&F Chocolate Welcome Baby (20'li)",
+      "price": 1099.9,
+      "category": "Karma/Diğer",
+      "url": ""
+    },
+    {
+      "site": "Bloom and Fresh",
+      "name": "B&F Chocolate Happy Birthday (20'li)",
+      "price": 1099.9,
+      "category": "Karma/Diğer",
+      "url": ""
+    },
+    {
+      "site": "Bloom and Fresh",
+      "name": "B&F Chocolate Nazar Değmesin (20'li)",
+      "price": 1099.9,
+      "category": "Karma/Diğer",
+      "url": ""
+    },
+    {
+      "site": "Bloom and Fresh",
       "name": "Happy Birthday Macarons (24’lü)",
       "price": 1799.9,
       "category": "Karma/Diğer",
@@ -386,43 +421,8 @@
     },
     {
       "site": "Bloom and Fresh",
-      "name": "B&F Wild Jungle Macarons (24'lü)",
-      "price": 1699.9,
-      "category": "Karma/Diğer",
-      "url": ""
-    },
-    {
-      "site": "Bloom and Fresh",
-      "name": "Brownies Food & Co. Premium Mixbox (12’li)",
-      "price": 1399.9,
-      "category": "Karma/Diğer",
-      "url": ""
-    },
-    {
-      "site": "Bloom and Fresh",
-      "name": "Ferrero Collection (T15 | 172g)",
-      "price": 999.9,
-      "category": "Karma/Diğer",
-      "url": ""
-    },
-    {
-      "site": "Bloom and Fresh",
-      "name": "Divan Pralin Çikolata (20'li)",
-      "price": 1799.9,
-      "category": "Karma/Diğer",
-      "url": ""
-    },
-    {
-      "site": "Bloom and Fresh",
-      "name": "Harem Chocolate Concept Selection Kutusu",
-      "price": 1999.9,
-      "category": "Karma/Diğer",
-      "url": ""
-    },
-    {
-      "site": "Bloom and Fresh",
-      "name": "Have A Good Day",
-      "price": 2999.9,
+      "name": "Make a Wish Macarons (12’li)",
+      "price": 1299.9,
       "category": "Karma/Diğer",
       "url": ""
     }
@@ -437,9 +437,9 @@
       },
       "Bloom and Fresh": {
         "product_count": 30,
-        "avg_price": "2046.90",
+        "avg_price": "2031.57",
         "min_price": "999.90",
-        "max_price": "3399.90"
+        "max_price": "3599.90"
       }
     },
     "by_category": {
@@ -492,10 +492,10 @@
           },
           "Bloom and Fresh": {
             "count": 30,
-            "avg": "2046.90"
+            "avg": "2031.57"
           }
         },
-        "avg_price": "2005.71"
+        "avg_price": "1990.87"
       }
     }
   }
