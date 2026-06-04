@@ -1,5 +1,5 @@
 {
-  "date": "2026-06-04T11:50:50.872Z",
+  "date": "2026-06-04T14:53:05.007Z",
   "summary": {
     "total_sites": 3,
     "successful_sites": 3,
@@ -219,7 +219,7 @@
     {
       "site": "Bloom and Fresh",
       "name": "Lucia",
-      "price": 1699.9,
+      "price": 1999.9,
       "category": "Karma/Diğer",
       "url": ""
     },
@@ -288,8 +288,8 @@
     },
     {
       "site": "Bloom and Fresh",
-      "name": "Verona Aura",
-      "price": 3399.9,
+      "name": "Chloe",
+      "price": 2099.9,
       "category": "Karma/Diğer",
       "url": ""
     },
@@ -297,13 +297,6 @@
       "site": "Bloom and Fresh",
       "name": "Becky",
       "price": 3599.9,
-      "category": "Karma/Diğer",
-      "url": ""
-    },
-    {
-      "site": "Bloom and Fresh",
-      "name": "Dante",
-      "price": 1899.9,
       "category": "Karma/Diğer",
       "url": ""
     },
@@ -425,6 +418,13 @@
       "price": 1299.9,
       "category": "Karma/Diğer",
       "url": ""
+    },
+    {
+      "site": "Bloom and Fresh",
+      "name": "B&F Wild Jungle Macarons (24'lü)",
+      "price": 1699.9,
+      "category": "Karma/Diğer",
+      "url": ""
     }
   ],
   "price_analysis": {
@@ -437,7 +437,7 @@
       },
       "Bloom and Fresh": {
         "product_count": 30,
-        "avg_price": "2031.57",
+        "avg_price": "1991.57",
         "min_price": "999.90",
         "max_price": "3599.90"
       }
@@ -492,10 +492,10 @@
           },
           "Bloom and Fresh": {
             "count": 30,
-            "avg": "2031.57"
+            "avg": "1991.57"
           }
         },
-        "avg_price": "1990.87"
+        "avg_price": "1952.16"
       }
     }
   }
