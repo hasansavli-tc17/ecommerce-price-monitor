@@ -1,5 +1,5 @@
 {
-  "date": "2026-06-05T08:30:40.880Z",
+  "date": "2026-06-05T12:07:19.692Z",
   "summary": {
     "total_sites": 3,
     "successful_sites": 3,
@@ -218,15 +218,15 @@
     },
     {
       "site": "Bloom and Fresh",
-      "name": "Lucia",
-      "price": 1999.9,
+      "name": "Pink Peonies",
+      "price": 3799.9,
       "category": "Karma/Diğer",
       "url": ""
     },
     {
       "site": "Bloom and Fresh",
-      "name": "Mixx",
-      "price": 1599.9,
+      "name": "Peonies in a Vase",
+      "price": 4299.9,
       "category": "Karma/Diğer",
       "url": ""
     },
@@ -239,8 +239,50 @@
     },
     {
       "site": "Bloom and Fresh",
+      "name": "Becky",
+      "price": 3599.9,
+      "category": "Karma/Diğer",
+      "url": ""
+    },
+    {
+      "site": "Bloom and Fresh",
+      "name": "Lucia",
+      "price": 1999.9,
+      "category": "Karma/Diğer",
+      "url": ""
+    },
+    {
+      "site": "Bloom and Fresh",
+      "name": "Chloe",
+      "price": 2099.9,
+      "category": "Karma/Diğer",
+      "url": ""
+    },
+    {
+      "site": "Bloom and Fresh",
+      "name": "Mixx",
+      "price": 1599.9,
+      "category": "Karma/Diğer",
+      "url": ""
+    },
+    {
+      "site": "Bloom and Fresh",
+      "name": "Cosmic",
+      "price": 1999.9,
+      "category": "Karma/Diğer",
+      "url": ""
+    },
+    {
+      "site": "Bloom and Fresh",
       "name": "Alice",
       "price": 1999.9,
+      "category": "Karma/Diğer",
+      "url": ""
+    },
+    {
+      "site": "Bloom and Fresh",
+      "name": "Hera",
+      "price": 1699.9,
       "category": "Karma/Diğer",
       "url": ""
     },
@@ -281,22 +323,8 @@
     },
     {
       "site": "Bloom and Fresh",
-      "name": "Chloe",
-      "price": 2099.9,
-      "category": "Karma/Diğer",
-      "url": ""
-    },
-    {
-      "site": "Bloom and Fresh",
-      "name": "Becky",
-      "price": 3599.9,
-      "category": "Karma/Diğer",
-      "url": ""
-    },
-    {
-      "site": "Bloom and Fresh",
-      "name": "Cosmic",
-      "price": 1999.9,
+      "name": "Coral Pink",
+      "price": 2499.9,
       "category": "Karma/Diğer",
       "url": ""
     },
@@ -397,34 +425,6 @@
       "price": 1299.9,
       "category": "Karma/Diğer",
       "url": ""
-    },
-    {
-      "site": "Bloom and Fresh",
-      "name": "B&F Wild Jungle Macarons (24'lü)",
-      "price": 1699.9,
-      "category": "Karma/Diğer",
-      "url": ""
-    },
-    {
-      "site": "Bloom and Fresh",
-      "name": "Brownies Food & Co. Premium Mixbox (12’li)",
-      "price": 1399.9,
-      "category": "Karma/Diğer",
-      "url": ""
-    },
-    {
-      "site": "Bloom and Fresh",
-      "name": "Ferrero Collection (T15 | 172g)",
-      "price": 999.9,
-      "category": "Karma/Diğer",
-      "url": ""
-    },
-    {
-      "site": "Bloom and Fresh",
-      "name": "Divan Pralin Çikolata (20'li)",
-      "price": 1799.9,
-      "category": "Karma/Diğer",
-      "url": ""
     }
   ],
   "price_analysis": {
@@ -437,9 +437,9 @@
       },
       "Bloom and Fresh": {
         "product_count": 30,
-        "avg_price": "1951.57",
+        "avg_price": "2164.90",
         "min_price": "999.90",
-        "max_price": "3599.90"
+        "max_price": "4299.90"
       }
     },
     "by_category": {
@@ -492,10 +492,10 @@
           },
           "Bloom and Fresh": {
             "count": 30,
-            "avg": "1951.57"
+            "avg": "2164.90"
           }
         },
-        "avg_price": "1913.45"
+        "avg_price": "2119.90"
       }
     }
   }
