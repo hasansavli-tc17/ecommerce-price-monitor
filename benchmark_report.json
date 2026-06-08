@@ -1,5 +1,5 @@
 {
-  "date": "2026-06-08T09:12:18.374Z",
+  "date": "2026-06-08T13:05:17.105Z",
   "summary": {
     "total_sites": 3,
     "successful_sites": 3,
@@ -393,6 +393,13 @@
     },
     {
       "site": "Bloom and Fresh",
+      "name": "LEGO Bonaticals Barış Çiçeği - 474 Parça (11504)",
+      "price": 3999.9,
+      "category": "Karma/Diğer",
+      "url": ""
+    },
+    {
+      "site": "Bloom and Fresh",
       "name": "B&F Chocolate (20'li)",
       "price": 999.9,
       "category": "Karma/Diğer",
@@ -407,22 +414,15 @@
     },
     {
       "site": "Bloom and Fresh",
+      "name": "B&F Chocolate Happy Birthday (20'li)",
+      "price": 1099.9,
+      "category": "Karma/Diğer",
+      "url": ""
+    },
+    {
+      "site": "Bloom and Fresh",
       "name": "Happy Birthday Macarons (24’lü)",
       "price": 1799.9,
-      "category": "Karma/Diğer",
-      "url": ""
-    },
-    {
-      "site": "Bloom and Fresh",
-      "name": "Make a Wish Macarons (12’li)",
-      "price": 1299.9,
-      "category": "Karma/Diğer",
-      "url": ""
-    },
-    {
-      "site": "Bloom and Fresh",
-      "name": "Brownies Food & Co. Premium Mixbox (12’li)",
-      "price": 1399.9,
       "category": "Karma/Diğer",
       "url": ""
     }
@@ -437,7 +437,7 @@
       },
       "Bloom and Fresh": {
         "product_count": 30,
-        "avg_price": "2261.57",
+        "avg_price": "2341.57",
         "min_price": "999.90",
         "max_price": "4299.90"
       }
@@ -492,10 +492,10 @@
           },
           "Bloom and Fresh": {
             "count": 29,
-            "avg": "2201.62"
+            "avg": "2284.38"
           }
         },
-        "avg_price": "2153.90"
+        "avg_price": "2233.90"
       },
       "Orkide": {
         "count": 1,
