@@ -1,5 +1,5 @@
 {
-  "date": "2026-06-10T08:32:08.306Z",
+  "date": "2026-06-10T12:18:51.860Z",
   "summary": {
     "total_sites": 3,
     "successful_sites": 3,
@@ -260,22 +260,8 @@
     },
     {
       "site": "Bloom and Fresh",
-      "name": "Cosmic",
-      "price": 1999.9,
-      "category": "Karma/Diğer",
-      "url": ""
-    },
-    {
-      "site": "Bloom and Fresh",
       "name": "Hera",
       "price": 1699.9,
-      "category": "Karma/Diğer",
-      "url": ""
-    },
-    {
-      "site": "Bloom and Fresh",
-      "name": "Becky",
-      "price": 3599.9,
       "category": "Karma/Diğer",
       "url": ""
     },
@@ -425,6 +411,20 @@
       "price": 1099.9,
       "category": "Karma/Diğer",
       "url": ""
+    },
+    {
+      "site": "Bloom and Fresh",
+      "name": "Happy Birthday Macarons (24’lü)",
+      "price": 1799.9,
+      "category": "Karma/Diğer",
+      "url": ""
+    },
+    {
+      "site": "Bloom and Fresh",
+      "name": "Make a Wish Macarons (12’li)",
+      "price": 1299.9,
+      "category": "Karma/Diğer",
+      "url": ""
     }
   ],
   "price_analysis": {
@@ -437,7 +437,7 @@
       },
       "Bloom and Fresh": {
         "product_count": 30,
-        "avg_price": "2471.57",
+        "avg_price": "2388.23",
         "min_price": "999.90",
         "max_price": "4599.90"
       }
@@ -482,10 +482,10 @@
           },
           "Bloom and Fresh": {
             "count": 29,
-            "avg": "2418.87"
+            "avg": "2332.66"
           }
         },
-        "avg_price": "2362.57"
+        "avg_price": "2279.24"
       },
       "Gerbera": {
         "count": 4,
