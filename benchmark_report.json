@@ -1,5 +1,5 @@
 {
-  "date": "2026-06-15T10:43:43.993Z",
+  "date": "2026-06-15T15:12:45.122Z",
   "summary": {
     "total_sites": 3,
     "successful_sites": 3,
@@ -379,13 +379,6 @@
     },
     {
       "site": "Bloom and Fresh",
-      "name": "Gina",
-      "price": 2599.9,
-      "category": "Karma/Diğer",
-      "url": ""
-    },
-    {
-      "site": "Bloom and Fresh",
       "name": "Coral Pink",
       "price": 2499.9,
       "category": "Karma/Diğer",
@@ -425,6 +418,13 @@
       "price": 4599.9,
       "category": "Karma/Diğer",
       "url": ""
+    },
+    {
+      "site": "Bloom and Fresh",
+      "name": "LEGO Botanicals Gül Buketi - 822 Parça (10328)",
+      "price": 3999.9,
+      "category": "Gül",
+      "url": ""
     }
   ],
   "price_analysis": {
@@ -437,21 +437,25 @@
       },
       "Bloom and Fresh": {
         "product_count": 30,
-        "avg_price": "2674.90",
+        "avg_price": "2721.57",
         "min_price": "1299.90",
         "max_price": "4599.90"
       }
     },
     "by_category": {
       "Gül": {
-        "count": 16,
+        "count": 17,
         "prices_by_site": {
           "Çiçek Sepeti": {
             "count": 16,
             "avg": "980.37"
+          },
+          "Bloom and Fresh": {
+            "count": 1,
+            "avg": "3999.90"
           }
         },
-        "avg_price": "980.37"
+        "avg_price": "1157.99"
       },
       "Papatya": {
         "count": 7,
@@ -474,18 +478,18 @@
         "avg_price": "729.99"
       },
       "Karma/Diğer": {
-        "count": 30,
+        "count": 29,
         "prices_by_site": {
           "Çiçek Sepeti": {
             "count": 1,
             "avg": "729.99"
           },
           "Bloom and Fresh": {
-            "count": 29,
-            "avg": "2629.21"
+            "count": 28,
+            "avg": "2630.26"
           }
         },
-        "avg_price": "2565.90"
+        "avg_price": "2564.73"
       },
       "Gerbera": {
         "count": 3,
