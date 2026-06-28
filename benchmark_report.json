@@ -1,5 +1,5 @@
 {
-  "date": "2026-06-28T08:03:32.246Z",
+  "date": "2026-06-28T11:05:45.834Z",
   "summary": {
     "total_sites": 3,
     "successful_sites": 3,
@@ -372,13 +372,6 @@
     },
     {
       "site": "Bloom and Fresh",
-      "name": "Wonder",
-      "price": 2499.9,
-      "category": "Karma/Diğer",
-      "url": ""
-    },
-    {
-      "site": "Bloom and Fresh",
       "name": "Wonder Gold",
       "price": 2599.9,
       "category": "Karma/Diğer",
@@ -425,6 +418,13 @@
       "price": 3699.8,
       "category": "Karma/Diğer",
       "url": ""
+    },
+    {
+      "site": "Bloom and Fresh",
+      "name": "LEGO Botanicals Ponsetya - 608 Parça (10370)",
+      "price": 3599.9,
+      "category": "Karma/Diğer",
+      "url": ""
     }
   ],
   "price_analysis": {
@@ -437,7 +437,7 @@
       },
       "Bloom and Fresh": {
         "product_count": 30,
-        "avg_price": "2588.23",
+        "avg_price": "2624.90",
         "min_price": "1299.90",
         "max_price": "4299.90"
       }
@@ -482,10 +482,10 @@
           },
           "Bloom and Fresh": {
             "count": 30,
-            "avg": "2588.23"
+            "avg": "2624.90"
           }
         },
-        "avg_price": "2432.30"
+        "avg_price": "2465.63"
       }
     }
   }
