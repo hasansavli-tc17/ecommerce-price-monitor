@@ -1,5 +1,5 @@
 {
-  "date": "2026-07-05T11:03:33.275Z",
+  "date": "2026-07-05T13:24:54.013Z",
   "summary": {
     "total_sites": 3,
     "successful_sites": 3,
@@ -302,13 +302,6 @@
     },
     {
       "site": "Bloom and Fresh",
-      "name": "Roja Scandic",
-      "price": 1999.9,
-      "category": "Karma/Diğer",
-      "url": ""
-    },
-    {
-      "site": "Bloom and Fresh",
       "name": "Lausanne Marble",
       "price": 2599.9,
       "category": "Karma/Diğer",
@@ -425,6 +418,13 @@
       "price": 3699.8,
       "category": "Karma/Diğer",
       "url": ""
+    },
+    {
+      "site": "Bloom and Fresh",
+      "name": "LEGO Botanicals Ponsetya - 608 Parça (10370)",
+      "price": 3599.9,
+      "category": "Karma/Diğer",
+      "url": ""
     }
   ],
   "price_analysis": {
@@ -437,7 +437,7 @@
       },
       "Bloom and Fresh": {
         "product_count": 30,
-        "avg_price": "2571.56",
+        "avg_price": "2624.90",
         "min_price": "1299.90",
         "max_price": "4299.90"
       }
@@ -482,10 +482,10 @@
           },
           "Bloom and Fresh": {
             "count": 30,
-            "avg": "2571.56"
+            "avg": "2624.90"
           }
         },
-        "avg_price": "2409.60"
+        "avg_price": "2458.09"
       }
     }
   }
