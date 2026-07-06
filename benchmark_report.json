@@ -1,5 +1,5 @@
 {
-  "date": "2026-07-06T08:47:41.709Z",
+  "date": "2026-07-06T12:44:10.164Z",
   "summary": {
     "total_sites": 3,
     "successful_sites": 3,
@@ -218,8 +218,22 @@
     },
     {
       "site": "Bloom and Fresh",
+      "name": "Charlotte",
+      "price": 1799.9,
+      "category": "Karma/Diğer",
+      "url": ""
+    },
+    {
+      "site": "Bloom and Fresh",
       "name": "Noemi",
       "price": 1999.9,
+      "category": "Karma/Diğer",
+      "url": ""
+    },
+    {
+      "site": "Bloom and Fresh",
+      "name": "Sorbet",
+      "price": 1799.9,
       "category": "Karma/Diğer",
       "url": ""
     },
@@ -232,29 +246,15 @@
     },
     {
       "site": "Bloom and Fresh",
-      "name": "Lover’s Dilemma",
-      "price": 2999.9,
+      "name": "Chiara",
+      "price": 2099.9,
       "category": "Karma/Diğer",
       "url": ""
     },
     {
       "site": "Bloom and Fresh",
-      "name": "Charlotte",
-      "price": 1799.9,
-      "category": "Karma/Diğer",
-      "url": ""
-    },
-    {
-      "site": "Bloom and Fresh",
-      "name": "Pink Peonies",
-      "price": 3799.9,
-      "category": "Karma/Diğer",
-      "url": ""
-    },
-    {
-      "site": "Bloom and Fresh",
-      "name": "Alice",
-      "price": 1999.9,
+      "name": "Rio",
+      "price": 2399.9,
       "category": "Karma/Diğer",
       "url": ""
     },
@@ -274,20 +274,6 @@
     },
     {
       "site": "Bloom and Fresh",
-      "name": "Margot",
-      "price": 3799.9,
-      "category": "Karma/Diğer",
-      "url": ""
-    },
-    {
-      "site": "Bloom and Fresh",
-      "name": "Zuzu Florence",
-      "price": 2599.9,
-      "category": "Karma/Diğer",
-      "url": ""
-    },
-    {
-      "site": "Bloom and Fresh",
       "name": "Becky",
       "price": 3599.9,
       "category": "Karma/Diğer",
@@ -295,22 +281,22 @@
     },
     {
       "site": "Bloom and Fresh",
-      "name": "Peonies in a Vase",
-      "price": 4299.9,
+      "name": "Bola Scandic",
+      "price": 1799.9,
       "category": "Karma/Diğer",
       "url": ""
     },
     {
       "site": "Bloom and Fresh",
-      "name": "Roja Scandic",
+      "name": "Zuzu",
       "price": 1999.9,
       "category": "Karma/Diğer",
       "url": ""
     },
     {
       "site": "Bloom and Fresh",
-      "name": "Lausanne Marble",
-      "price": 2599.9,
+      "name": "Lily",
+      "price": 1999.9,
       "category": "Karma/Diğer",
       "url": ""
     },
@@ -323,43 +309,8 @@
     },
     {
       "site": "Bloom and Fresh",
-      "name": "Lily Stripes",
-      "price": 2499.9,
-      "category": "Karma/Diğer",
-      "url": ""
-    },
-    {
-      "site": "Bloom and Fresh",
-      "name": "Roja Mesh",
-      "price": 2449.9,
-      "category": "Karma/Diğer",
-      "url": ""
-    },
-    {
-      "site": "Bloom and Fresh",
-      "name": "Francesca",
-      "price": 1599.9,
-      "category": "Karma/Diğer",
-      "url": ""
-    },
-    {
-      "site": "Bloom and Fresh",
-      "name": "Golden Succulent",
-      "price": 1299.9,
-      "category": "Karma/Diğer",
-      "url": ""
-    },
-    {
-      "site": "Bloom and Fresh",
-      "name": "Dark Sienna Terra",
-      "price": 1899.9,
-      "category": "Karma/Diğer",
-      "url": ""
-    },
-    {
-      "site": "Bloom and Fresh",
-      "name": "Lily Bologna",
-      "price": 2499.9,
+      "name": "Gina Gummy Pot",
+      "price": 2599.9,
       "category": "Karma/Diğer",
       "url": ""
     },
@@ -372,43 +323,8 @@
     },
     {
       "site": "Bloom and Fresh",
-      "name": "Aria Gold",
-      "price": 2499.9,
-      "category": "Karma/Diğer",
-      "url": ""
-    },
-    {
-      "site": "Bloom and Fresh",
       "name": "Wonder",
       "price": 2499.9,
-      "category": "Karma/Diğer",
-      "url": ""
-    },
-    {
-      "site": "Bloom and Fresh",
-      "name": "Wonder Gold",
-      "price": 2599.9,
-      "category": "Karma/Diğer",
-      "url": ""
-    },
-    {
-      "site": "Bloom and Fresh",
-      "name": "Gina Gummy Pot",
-      "price": 2599.9,
-      "category": "Karma/Diğer",
-      "url": ""
-    },
-    {
-      "site": "Bloom and Fresh",
-      "name": "Wonder Lovers’ Edition",
-      "price": 2699.9,
-      "category": "Karma/Diğer",
-      "url": ""
-    },
-    {
-      "site": "Bloom and Fresh",
-      "name": "Lausanne Gold",
-      "price": 2599.9,
       "category": "Karma/Diğer",
       "url": ""
     },
@@ -425,6 +341,90 @@
       "price": 2299.9,
       "category": "Karma/Diğer",
       "url": ""
+    },
+    {
+      "site": "Bloom and Fresh",
+      "name": "Honeybee & B&F Chocolate (20'li) Bundle",
+      "price": 3699.8,
+      "category": "Karma/Diğer",
+      "url": ""
+    },
+    {
+      "site": "Bloom and Fresh",
+      "name": "Charlotte & Macaron 12'li Bundle",
+      "price": 2449.9,
+      "category": "Karma/Diğer",
+      "url": ""
+    },
+    {
+      "site": "Bloom and Fresh",
+      "name": "LEGO Botanicals Ponsetya - 608 Parça (10370)",
+      "price": 3599.9,
+      "category": "Karma/Diğer",
+      "url": ""
+    },
+    {
+      "site": "Bloom and Fresh",
+      "name": "LEGO Botanicals Orkide - 608 Parça (10311)",
+      "price": 3999.9,
+      "category": "Orkide",
+      "url": ""
+    },
+    {
+      "site": "Bloom and Fresh",
+      "name": "LEGO Bonaticals Barış Çiçeği - 474 Parça (11504)",
+      "price": 3999.9,
+      "category": "Karma/Diğer",
+      "url": ""
+    },
+    {
+      "site": "Bloom and Fresh",
+      "name": "LEGO Botanicals Gül Buketi - 822 Parça (10328)",
+      "price": 3999.9,
+      "category": "Gül",
+      "url": ""
+    },
+    {
+      "site": "Bloom and Fresh",
+      "name": "B&F Chocolate (20'li)",
+      "price": 1099.9,
+      "category": "Karma/Diğer",
+      "url": ""
+    },
+    {
+      "site": "Bloom and Fresh",
+      "name": "B&F Chocolate Nazar Değmesin (20'li)",
+      "price": 1199.9,
+      "category": "Karma/Diğer",
+      "url": ""
+    },
+    {
+      "site": "Bloom and Fresh",
+      "name": "B&F Chocolate Welcome Baby (20'li)",
+      "price": 1199.9,
+      "category": "Karma/Diğer",
+      "url": ""
+    },
+    {
+      "site": "Bloom and Fresh",
+      "name": "Happy Birthday Macarons (24’lü)",
+      "price": 1799.9,
+      "category": "Karma/Diğer",
+      "url": ""
+    },
+    {
+      "site": "Bloom and Fresh",
+      "name": "Make a Wish Macarons (12’li)",
+      "price": 1299.9,
+      "category": "Karma/Diğer",
+      "url": ""
+    },
+    {
+      "site": "Bloom and Fresh",
+      "name": "Brownies Food & Co. Premium Mixbox (12’li)",
+      "price": 1399.9,
+      "category": "Karma/Diğer",
+      "url": ""
     }
   ],
   "price_analysis": {
@@ -437,21 +437,25 @@
       },
       "Bloom and Fresh": {
         "product_count": 30,
-        "avg_price": "2531.57",
-        "min_price": "1299.90",
-        "max_price": "4299.90"
+        "avg_price": "2368.23",
+        "min_price": "1099.90",
+        "max_price": "3999.90"
       }
     },
     "by_category": {
       "Gül": {
-        "count": 19,
+        "count": 20,
         "prices_by_site": {
           "Çiçek Sepeti": {
             "count": 19,
             "avg": "1055.52"
+          },
+          "Bloom and Fresh": {
+            "count": 1,
+            "avg": "3999.90"
           }
         },
-        "avg_price": "1055.52"
+        "avg_price": "1202.74"
       },
       "Papatya": {
         "count": 5,
@@ -464,18 +468,18 @@
         "avg_price": "667.99"
       },
       "Karma/Diğer": {
-        "count": 33,
+        "count": 31,
         "prices_by_site": {
           "Çiçek Sepeti": {
             "count": 3,
             "avg": "789.99"
           },
           "Bloom and Fresh": {
-            "count": 30,
-            "avg": "2531.57"
+            "count": 28,
+            "avg": "2251.68"
           }
         },
-        "avg_price": "2373.24"
+        "avg_price": "2110.23"
       },
       "Gerbera": {
         "count": 3,
@@ -486,6 +490,16 @@
           }
         },
         "avg_price": "579.99"
+      },
+      "Orkide": {
+        "count": 1,
+        "prices_by_site": {
+          "Bloom and Fresh": {
+            "count": 1,
+            "avg": "3999.90"
+          }
+        },
+        "avg_price": "3999.90"
       }
     }
   }
