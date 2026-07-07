@@ -1,5 +1,5 @@
 {
-  "date": "2026-07-07T07:58:42.837Z",
+  "date": "2026-07-07T11:47:16.370Z",
   "summary": {
     "total_sites": 3,
     "successful_sites": 3,
@@ -23,7 +23,7 @@
     {
       "site": "Çiçek Sepeti",
       "name": "9'lu Kırmızı Gül Çiçek Buketi",
-      "price": 609.99,
+      "price": 649.99,
       "category": "Gül",
       "url": "https://www.ciceksepeti.com/9-lu-kirmizi-gul-cicek-buketi-at6295"
     },
@@ -184,7 +184,7 @@
     {
       "site": "Çiçek Sepeti",
       "name": "Kırmızı Gül Buketi & İyi Ki Varsın Gurme Lezzetler",
-      "price": 1089.98,
+      "price": 1149.98,
       "category": "Gül",
       "url": "https://www.ciceksepeti.com/kirmizi-gul-buketi-iyi-ki-varsin-gurme-lezzetler-atb742"
     },
@@ -421,8 +421,8 @@
     },
     {
       "site": "Bloom and Fresh",
-      "name": "Brownies Food & Co. Premium Mixbox (12’li)",
-      "price": 1399.9,
+      "name": "Make a Wish Macarons (12’li)",
+      "price": 1299.9,
       "category": "Karma/Diğer",
       "url": ""
     }
@@ -431,13 +431,13 @@
     "by_site": {
       "Çiçek Sepeti": {
         "product_count": 30,
-        "avg_price": "915.82",
+        "avg_price": "919.16",
         "min_price": "529.99",
         "max_price": "2649.00"
       },
       "Bloom and Fresh": {
         "product_count": 30,
-        "avg_price": "2441.56",
+        "avg_price": "2438.23",
         "min_price": "1099.90",
         "max_price": "3999.90"
       }
@@ -448,14 +448,14 @@
         "prices_by_site": {
           "Çiçek Sepeti": {
             "count": 18,
-            "avg": "1073.60"
+            "avg": "1079.16"
           },
           "Bloom and Fresh": {
             "count": 1,
             "avg": "3999.90"
           }
         },
-        "avg_price": "1227.62"
+        "avg_price": "1232.88"
       },
       "Papatya": {
         "count": 6,
@@ -476,10 +476,10 @@
           },
           "Bloom and Fresh": {
             "count": 28,
-            "avg": "2330.25"
+            "avg": "2326.68"
           }
         },
-        "avg_price": "2181.20"
+        "avg_price": "2177.97"
       },
       "Gerbera": {
         "count": 3,
