@@ -1,5 +1,5 @@
 {
-  "date": "2026-07-08T13:58:03.398Z",
+  "date": "2026-07-08T16:29:15.661Z",
   "summary": {
     "total_sites": 3,
     "successful_sites": 3,
@@ -54,6 +54,13 @@
       "price": 679.99,
       "category": "Papatya",
       "url": "https://www.ciceksepeti.com/beyaz-papatyalar-cicek-buketi-at6292"
+    },
+    {
+      "site": "Çiçek Sepeti",
+      "name": "Beyaz Papatyalar Çiçek Buketi",
+      "price": 779.99,
+      "category": "Papatya",
+      "url": "https://www.ciceksepeti.com/beyaz-papatyalar-cicek-buketi-at4253"
     },
     {
       "site": "Çiçek Sepeti",
@@ -208,13 +215,6 @@
       "price": 799.99,
       "category": "Papatya",
       "url": "https://www.ciceksepeti.com/gazete-bukette-beyaz-lilyum-ve-pembe-papatyalar-vbt1598"
-    },
-    {
-      "site": "Çiçek Sepeti",
-      "name": "Kırmızı Gül Buketi & İyi Ki Varsın Gurme Lezzetler",
-      "price": 1149.98,
-      "category": "Gül",
-      "url": "https://www.ciceksepeti.com/kirmizi-gul-buketi-iyi-ki-varsin-gurme-lezzetler-atb742"
     },
     {
       "site": "Bloom and Fresh",
@@ -431,7 +431,7 @@
     "by_site": {
       "Çiçek Sepeti": {
         "product_count": 30,
-        "avg_price": "869.49",
+        "avg_price": "857.16",
         "min_price": "529.99",
         "max_price": "2649.00"
       },
@@ -444,28 +444,28 @@
     },
     "by_category": {
       "Gül": {
-        "count": 20,
+        "count": 19,
         "prices_by_site": {
           "Çiçek Sepeti": {
-            "count": 19,
-            "avg": "977.10"
+            "count": 18,
+            "avg": "967.49"
           },
           "Bloom and Fresh": {
             "count": 1,
             "avg": "3999.90"
           }
         },
-        "avg_price": "1128.24"
+        "avg_price": "1127.09"
       },
       "Papatya": {
-        "count": 6,
+        "count": 7,
         "prices_by_site": {
           "Çiçek Sepeti": {
-            "count": 6,
-            "avg": "661.66"
+            "count": 7,
+            "avg": "678.56"
           }
         },
-        "avg_price": "661.66"
+        "avg_price": "678.56"
       },
       "Karma/Diğer": {
         "count": 31,
