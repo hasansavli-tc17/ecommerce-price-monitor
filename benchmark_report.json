@@ -1,5 +1,5 @@
 {
-  "date": "2026-07-12T10:24:56.531Z",
+  "date": "2026-07-12T13:13:42.148Z",
   "summary": {
     "total_sites": 3,
     "successful_sites": 3,
@@ -106,6 +106,13 @@
     },
     {
       "site": "Çiçek Sepeti",
+      "name": "Turuncu Bukette Çardak Güller ve Beyaz Papatyalar",
+      "price": 819.99,
+      "category": "Gül",
+      "url": "https://www.ciceksepeti.com/turuncu-bukette-cardak-guller-ve-beyaz-papatyalar-vbt1801"
+    },
+    {
+      "site": "Çiçek Sepeti",
       "name": "Koyu Somon Bukette 10 Lila Gül",
       "price": 899.99,
       "category": "Gül",
@@ -113,10 +120,10 @@
     },
     {
       "site": "Çiçek Sepeti",
-      "name": "Turuncu Bukette Çardak Güller ve Beyaz Papatyalar",
-      "price": 819.99,
+      "name": "Lila Pembe Bukette Pembe Güller",
+      "price": 599.99,
       "category": "Gül",
-      "url": "https://www.ciceksepeti.com/turuncu-bukette-cardak-guller-ve-beyaz-papatyalar-vbt1801"
+      "url": "https://www.ciceksepeti.com/lila-pembe-bukette-pembe-guller-vbt1799"
     },
     {
       "site": "Çiçek Sepeti",
@@ -159,13 +166,6 @@
       "price": 869.99,
       "category": "Gül",
       "url": "https://www.ciceksepeti.com/beyaz-bukette-11-beyaz-gul-at5385"
-    },
-    {
-      "site": "Çiçek Sepeti",
-      "name": "Lila Pembe Bukette Pembe Güller",
-      "price": 599.99,
-      "category": "Gül",
-      "url": "https://www.ciceksepeti.com/lila-pembe-bukette-pembe-guller-vbt1799"
     },
     {
       "site": "Çiçek Sepeti",
@@ -255,13 +255,6 @@
       "site": "Bloom and Fresh",
       "name": "Chiara",
       "price": 2099.9,
-      "category": "Karma/Diğer",
-      "url": ""
-    },
-    {
-      "site": "Bloom and Fresh",
-      "name": "Part-time Lover",
-      "price": 2999.9,
       "category": "Karma/Diğer",
       "url": ""
     },
@@ -425,6 +418,13 @@
       "price": 1349.9,
       "category": "Karma/Diğer",
       "url": ""
+    },
+    {
+      "site": "Bloom and Fresh",
+      "name": "Brownies Food & Co. Premium Mixbox (12’li)",
+      "price": 1449.9,
+      "category": "Karma/Diğer",
+      "url": ""
     }
   ],
   "price_analysis": {
@@ -437,7 +437,7 @@
       },
       "Bloom and Fresh": {
         "product_count": 30,
-        "avg_price": "2491.56",
+        "avg_price": "2439.90",
         "min_price": "1099.90",
         "max_price": "3999.90"
       }
@@ -482,10 +482,10 @@
         "prices_by_site": {
           "Bloom and Fresh": {
             "count": 28,
-            "avg": "2383.83"
+            "avg": "2328.47"
           }
         },
-        "avg_price": "2383.83"
+        "avg_price": "2328.47"
       },
       "Orkide": {
         "count": 1,
