@@ -1,5 +1,5 @@
 {
-  "date": "2026-07-12T07:07:41.879Z",
+  "date": "2026-07-12T10:24:56.531Z",
   "summary": {
     "total_sites": 3,
     "successful_sites": 3,
@@ -106,13 +106,6 @@
     },
     {
       "site": "Çiçek Sepeti",
-      "name": "Turuncu Bukette Çardak Güller ve Beyaz Papatyalar",
-      "price": 819.99,
-      "category": "Gül",
-      "url": "https://www.ciceksepeti.com/turuncu-bukette-cardak-guller-ve-beyaz-papatyalar-vbt1801"
-    },
-    {
-      "site": "Çiçek Sepeti",
       "name": "Koyu Somon Bukette 10 Lila Gül",
       "price": 899.99,
       "category": "Gül",
@@ -120,10 +113,10 @@
     },
     {
       "site": "Çiçek Sepeti",
-      "name": "Lila Pembe Bukette Pembe Güller",
-      "price": 599.99,
+      "name": "Turuncu Bukette Çardak Güller ve Beyaz Papatyalar",
+      "price": 819.99,
       "category": "Gül",
-      "url": "https://www.ciceksepeti.com/lila-pembe-bukette-pembe-guller-vbt1799"
+      "url": "https://www.ciceksepeti.com/turuncu-bukette-cardak-guller-ve-beyaz-papatyalar-vbt1801"
     },
     {
       "site": "Çiçek Sepeti",
@@ -166,6 +159,13 @@
       "price": 869.99,
       "category": "Gül",
       "url": "https://www.ciceksepeti.com/beyaz-bukette-11-beyaz-gul-at5385"
+    },
+    {
+      "site": "Çiçek Sepeti",
+      "name": "Lila Pembe Bukette Pembe Güller",
+      "price": 599.99,
+      "category": "Gül",
+      "url": "https://www.ciceksepeti.com/lila-pembe-bukette-pembe-guller-vbt1799"
     },
     {
       "site": "Çiçek Sepeti",
