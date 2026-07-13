@@ -1,18 +1,11 @@
 {
-  "date": "2026-07-13T11:59:05.600Z",
+  "date": "2026-07-13T14:40:35.329Z",
   "summary": {
     "total_sites": 3,
     "successful_sites": 3,
     "total_products": 60
   },
   "all_products": [
-    {
-      "site": "Çiçek Sepeti",
-      "name": "Kraft Bukette 41 Kırmızı Gül ve Beyaz Papatyalar",
-      "price": 2299,
-      "category": "Gül",
-      "url": "https://www.ciceksepeti.com/kraft-bukette-41-kirmizi-gul-ve-beyaz-papatyalar-at5989"
-    },
     {
       "site": "Çiçek Sepeti",
       "name": "Sarı Bukette Beyaz Pembe Gerberalar ve Lila Güller",
@@ -22,10 +15,24 @@
     },
     {
       "site": "Çiçek Sepeti",
-      "name": "5'li Kırmızı Gül Buketi",
-      "price": 569.99,
+      "name": "Kırmızı Gül Buketi & İyi Ki Varsın Gurme Lezzetler",
+      "price": 1119.98,
       "category": "Gül",
-      "url": "https://www.ciceksepeti.com/5-li-kirmizi-gul-buketi-at6284"
+      "url": "https://www.ciceksepeti.com/kirmizi-gul-buketi-iyi-ki-varsin-gurme-lezzetler-atb742"
+    },
+    {
+      "site": "Çiçek Sepeti",
+      "name": "Kraft Bukette 41 Kırmızı Gül ve Beyaz Papatyalar",
+      "price": 2299,
+      "category": "Gül",
+      "url": "https://www.ciceksepeti.com/kraft-bukette-41-kirmizi-gul-ve-beyaz-papatyalar-at5989"
+    },
+    {
+      "site": "Çiçek Sepeti",
+      "name": "Pembe Gazete Kağıdı Bukette Beyaz Papatyalar",
+      "price": 529.99,
+      "category": "Papatya",
+      "url": "https://www.ciceksepeti.com/pembe-gazete-kagidi-bukette-beyaz-papatyalar-at6317"
     },
     {
       "site": "Çiçek Sepeti",
@@ -43,17 +50,17 @@
     },
     {
       "site": "Çiçek Sepeti",
-      "name": "Beyaz Gerberalar Çiçek Buketi Lolaflora",
-      "price": 559.99,
-      "category": "Gerbera",
-      "url": "https://www.ciceksepeti.com/beyaz-gerberalar-cicek-buketi-lolaflora-at6304"
-    },
-    {
-      "site": "Çiçek Sepeti",
       "name": "13'lü Kırmızı Gül Buketi",
       "price": 849.99,
       "category": "Gül",
       "url": "https://www.ciceksepeti.com/ask-sembolu-13-kirmizi-gul-buketi-at4033"
+    },
+    {
+      "site": "Çiçek Sepeti",
+      "name": "Beyaz Gerberalar Çiçek Buketi Lolaflora",
+      "price": 559.99,
+      "category": "Gerbera",
+      "url": "https://www.ciceksepeti.com/beyaz-gerberalar-cicek-buketi-lolaflora-at6304"
     },
     {
       "site": "Çiçek Sepeti",
@@ -65,23 +72,16 @@
     {
       "site": "Çiçek Sepeti",
       "name": "7'li Kırmızı Gül Buketi",
-      "price": 619.99,
-      "category": "Gül",
-      "url": "https://www.ciceksepeti.com/7-li-kirmizi-gul-buketi-at6290"
-    },
-    {
-      "site": "Çiçek Sepeti",
-      "name": "7'li Kırmızı Gül Buketi",
       "price": 699.99,
       "category": "Gül",
       "url": "https://www.ciceksepeti.com/hayatimin-askina-7li-gul-buketi-at4030"
     },
     {
       "site": "Çiçek Sepeti",
-      "name": "Yeşil Kahve Bukette Kırmızı Güller ve Papatyalar",
-      "price": 649.99,
+      "name": "Lila Pembe Bukette Lila Güller ve Beyaz Gerberalar",
+      "price": 639.99,
       "category": "Gül",
-      "url": "https://www.ciceksepeti.com/yesil-kahve-bukette-kirmizi-guller-ve-papatyalar-at6311"
+      "url": "https://www.ciceksepeti.com/lila-pembe-bukette-lila-guller-ve-beyaz-gerberalar-vbt1786"
     },
     {
       "site": "Çiçek Sepeti",
@@ -92,10 +92,10 @@
     },
     {
       "site": "Çiçek Sepeti",
-      "name": "Pudra Bukette Pembe Gerberalar & Hüsnüyusuf",
-      "price": 569.99,
-      "category": "Gerbera",
-      "url": "https://www.ciceksepeti.com/pudra-bukette-pembe-gerberalar-husnuyusuf-at6306"
+      "name": "Beyaz Gül, Papatya ve Ayıcık Anahtarlık Buketi",
+      "price": 879.99,
+      "category": "Gül",
+      "url": "https://www.ciceksepeti.com/beyaz-gul-papatya-ve-ayicik-anahtarlik-buketi-vbt1784"
     },
     {
       "site": "Çiçek Sepeti",
@@ -106,10 +106,24 @@
     },
     {
       "site": "Çiçek Sepeti",
-      "name": "Turuncu Bukette Çardak Güller ve Beyaz Papatyalar",
-      "price": 819.99,
+      "name": "Beyaz Buket Kağıdında 20'li Beyaz Gül Buketi",
+      "price": 1199,
       "category": "Gül",
-      "url": "https://www.ciceksepeti.com/turuncu-bukette-cardak-guller-ve-beyaz-papatyalar-vbt1801"
+      "url": "https://www.ciceksepeti.com/beyaz-buket-kagidinda-20-li-beyaz-gul-buketi-at6305"
+    },
+    {
+      "site": "Çiçek Sepeti",
+      "name": "5'li Kırmızı Gül Buketi",
+      "price": 569.99,
+      "category": "Gül",
+      "url": "https://www.ciceksepeti.com/5-li-kirmizi-gul-buketi-at6284"
+    },
+    {
+      "site": "Çiçek Sepeti",
+      "name": "7'li Kırmızı Gül Buketi",
+      "price": 619.99,
+      "category": "Gül",
+      "url": "https://www.ciceksepeti.com/7-li-kirmizi-gul-buketi-at6290"
     },
     {
       "site": "Çiçek Sepeti",
@@ -120,24 +134,10 @@
     },
     {
       "site": "Çiçek Sepeti",
-      "name": "Lila Pembe Bukette Pembe Güller",
-      "price": 599.99,
+      "name": "Turuncu Bukette Çardak Güller ve Beyaz Papatyalar",
+      "price": 819.99,
       "category": "Gül",
-      "url": "https://www.ciceksepeti.com/lila-pembe-bukette-pembe-guller-vbt1799"
-    },
-    {
-      "site": "Çiçek Sepeti",
-      "name": "Beyaz Buket Kağıdında 20'li Beyaz Gül Buketi",
-      "price": 1199,
-      "category": "Gül",
-      "url": "https://www.ciceksepeti.com/beyaz-buket-kagidinda-20-li-beyaz-gul-buketi-at6305"
-    },
-    {
-      "site": "Çiçek Sepeti",
-      "name": "Lila Pembe Bukette Lila Güller ve Beyaz Gerberalar",
-      "price": 639.99,
-      "category": "Gül",
-      "url": "https://www.ciceksepeti.com/lila-pembe-bukette-lila-guller-ve-beyaz-gerberalar-vbt1786"
+      "url": "https://www.ciceksepeti.com/turuncu-bukette-cardak-guller-ve-beyaz-papatyalar-vbt1801"
     },
     {
       "site": "Çiçek Sepeti",
@@ -169,17 +169,24 @@
     },
     {
       "site": "Çiçek Sepeti",
-      "name": "Sarı Bukette Beyaz Papatyalar",
-      "price": 579.99,
-      "category": "Papatya",
-      "url": "https://www.ciceksepeti.com/sari-bukette-beyaz-papatyalar-at6327"
+      "name": "Lila Pembe Bukette Pembe Güller",
+      "price": 599.99,
+      "category": "Gül",
+      "url": "https://www.ciceksepeti.com/lila-pembe-bukette-pembe-guller-vbt1799"
     },
     {
       "site": "Çiçek Sepeti",
-      "name": "Kraft Taşımalı Bukette Papatyalar ve Lavantalar",
-      "price": 449.99,
+      "name": "Kelebek Bukette Pembe Papatyalar ve Hüsnüyusuf",
+      "price": 539.99,
       "category": "Papatya",
-      "url": "https://www.ciceksepeti.com/kraft-tasimali-bukette-papatyalar-ve-lavantalar-at6324"
+      "url": "https://www.ciceksepeti.com/kelebek-bukette-pembe-papatyalar-ve-husnuyusuf-vbt1791"
+    },
+    {
+      "site": "Çiçek Sepeti",
+      "name": "Pudra Bukette Pembe Gerberalar & Hüsnüyusuf",
+      "price": 569.99,
+      "category": "Gerbera",
+      "url": "https://www.ciceksepeti.com/pudra-bukette-pembe-gerberalar-husnuyusuf-at6306"
     },
     {
       "site": "Çiçek Sepeti",
@@ -187,13 +194,6 @@
       "price": 1199,
       "category": "Gül",
       "url": "https://www.ciceksepeti.com/koyu-kahve-bukette-pembe-lilyum-ve-lila-guller-vbt1144"
-    },
-    {
-      "site": "Çiçek Sepeti",
-      "name": "Beyaz Gül, Papatya ve Ayıcık Anahtarlık Buketi",
-      "price": 879.99,
-      "category": "Gül",
-      "url": "https://www.ciceksepeti.com/beyaz-gul-papatya-ve-ayicik-anahtarlik-buketi-vbt1784"
     },
     {
       "site": "Çiçek Sepeti",
@@ -211,10 +211,10 @@
     },
     {
       "site": "Çiçek Sepeti",
-      "name": "Kelebek Bukette Pembe Papatyalar ve Hüsnüyusuf",
-      "price": 539.99,
-      "category": "Papatya",
-      "url": "https://www.ciceksepeti.com/kelebek-bukette-pembe-papatyalar-ve-husnuyusuf-vbt1791"
+      "name": "Somon Buket Kağıdında 10'lu Pembe Gül Buketi",
+      "price": 789.99,
+      "category": "Gül",
+      "url": "https://www.ciceksepeti.com/somon-buket-kagidinda-10-lu-pembe-gul-buketi-vbt1798"
     },
     {
       "site": "Bloom and Fresh",
@@ -431,8 +431,8 @@
     "by_site": {
       "Çiçek Sepeti": {
         "product_count": 30,
-        "avg_price": "937.49",
-        "min_price": "449.99",
+        "avg_price": "962.82",
+        "min_price": "499.99",
         "max_price": "4849.00"
       },
       "Bloom and Fresh": {
@@ -444,28 +444,28 @@
     },
     "by_category": {
       "Gül": {
-        "count": 24,
+        "count": 25,
         "prices_by_site": {
           "Çiçek Sepeti": {
-            "count": 23,
-            "avg": "1046.30"
+            "count": 24,
+            "avg": "1055.20"
           },
           "Bloom and Fresh": {
             "count": 1,
             "avg": "3999.90"
           }
         },
-        "avg_price": "1169.36"
+        "avg_price": "1172.99"
       },
       "Papatya": {
-        "count": 5,
+        "count": 4,
         "prices_by_site": {
           "Çiçek Sepeti": {
-            "count": 5,
-            "avg": "585.99"
+            "count": 4,
+            "avg": "607.49"
           }
         },
-        "avg_price": "585.99"
+        "avg_price": "607.49"
       },
       "Gerbera": {
         "count": 2,
