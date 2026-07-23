@@ -1,5 +1,5 @@
 {
-  "date": "2026-07-23T07:05:36.805Z",
+  "date": "2026-07-23T11:07:35.971Z",
   "summary": {
     "total_sites": 3,
     "successful_sites": 3,
@@ -218,6 +218,13 @@
     },
     {
       "site": "Bloom and Fresh",
+      "name": "Lover’s Dilemma",
+      "price": 3399.9,
+      "category": "Karma/Diğer",
+      "url": ""
+    },
+    {
+      "site": "Bloom and Fresh",
       "name": "Sorbet",
       "price": 1799.9,
       "category": "Karma/Diğer",
@@ -232,13 +239,6 @@
     },
     {
       "site": "Bloom and Fresh",
-      "name": "Athena Double",
-      "price": 2499.9,
-      "category": "Karma/Diğer",
-      "url": ""
-    },
-    {
-      "site": "Bloom and Fresh",
       "name": "Charlotte",
       "price": 1799.9,
       "category": "Karma/Diğer",
@@ -248,13 +248,6 @@
       "site": "Bloom and Fresh",
       "name": "Noemi",
       "price": 1999.9,
-      "category": "Karma/Diğer",
-      "url": ""
-    },
-    {
-      "site": "Bloom and Fresh",
-      "name": "Part-time Lover",
-      "price": 2999.9,
       "category": "Karma/Diğer",
       "url": ""
     },
@@ -365,13 +358,6 @@
     },
     {
       "site": "Bloom and Fresh",
-      "name": "B&F Chocolate (20'li)",
-      "price": 1099.9,
-      "category": "Karma/Diğer",
-      "url": ""
-    },
-    {
-      "site": "Bloom and Fresh",
       "name": "B&F Chocolate Nazar Değmesin (20'li)",
       "price": 1249.9,
       "category": "Karma/Diğer",
@@ -425,6 +411,20 @@
       "price": 1499.9,
       "category": "Karma/Diğer",
       "url": ""
+    },
+    {
+      "site": "Bloom and Fresh",
+      "name": "Lure Chocolate by Swissotel The Bosphorus (70’li Pralin)",
+      "price": 3999.9,
+      "category": "Karma/Diğer",
+      "url": ""
+    },
+    {
+      "site": "Bloom and Fresh",
+      "name": "Printworks The Essentials Deniz Ürünleri Seti",
+      "price": 4299.9,
+      "category": "Karma/Diğer",
+      "url": ""
     }
   ],
   "price_analysis": {
@@ -437,9 +437,9 @@
       },
       "Bloom and Fresh": {
         "product_count": 30,
-        "avg_price": "2374.90",
-        "min_price": "1099.90",
-        "max_price": "3999.90"
+        "avg_price": "2544.90",
+        "min_price": "1249.90",
+        "max_price": "4299.90"
       }
     },
     "by_category": {
@@ -476,10 +476,10 @@
           },
           "Bloom and Fresh": {
             "count": 28,
-            "avg": "2258.83"
+            "avg": "2440.97"
           }
         },
-        "avg_price": "2156.57"
+        "avg_price": "2326.57"
       },
       "Lisyantus": {
         "count": 1,
