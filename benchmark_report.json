@@ -1,5 +1,5 @@
 {
-  "date": "2026-07-24T07:07:01.667Z",
+  "date": "2026-07-24T11:03:01.044Z",
   "summary": {
     "total_sites": 3,
     "successful_sites": 3,
@@ -260,6 +260,13 @@
     },
     {
       "site": "Bloom and Fresh",
+      "name": "Part-time Lover",
+      "price": 2999.9,
+      "category": "Karma/Diğer",
+      "url": ""
+    },
+    {
+      "site": "Bloom and Fresh",
       "name": "Rio",
       "price": 2399.9,
       "category": "Karma/Diğer",
@@ -386,6 +393,13 @@
     },
     {
       "site": "Bloom and Fresh",
+      "name": "B&F Macarons (12'li)",
+      "price": 1249.9,
+      "category": "Karma/Diğer",
+      "url": ""
+    },
+    {
+      "site": "Bloom and Fresh",
       "name": "Brownies Food & Co. Premium Mixbox (12’li)",
       "price": 1449.9,
       "category": "Karma/Diğer",
@@ -407,22 +421,8 @@
     },
     {
       "site": "Bloom and Fresh",
-      "name": "Lure Chocolate by Swissotel The Bosphorus (70’li Pralin)",
-      "price": 3999.9,
-      "category": "Karma/Diğer",
-      "url": ""
-    },
-    {
-      "site": "Bloom and Fresh",
-      "name": "Printworks The Essentials Deniz Ürünleri Seti",
-      "price": 4299.9,
-      "category": "Karma/Diğer",
-      "url": ""
-    },
-    {
-      "site": "Bloom and Fresh",
-      "name": "Printworks The Essentials Büyük Şarap Seti",
-      "price": 4999.9,
+      "name": "Brownies Food & Co. Trufflove Çikolata (9 adet)",
+      "price": 1349.9,
       "category": "Karma/Diğer",
       "url": ""
     }
@@ -437,9 +437,9 @@
       },
       "Bloom and Fresh": {
         "product_count": 30,
-        "avg_price": "2703.23",
+        "avg_price": "2446.56",
         "min_price": "1249.90",
-        "max_price": "4999.90"
+        "max_price": "3999.90"
       }
     },
     "by_category": {
@@ -476,10 +476,10 @@
           },
           "Bloom and Fresh": {
             "count": 28,
-            "avg": "2610.61"
+            "avg": "2335.61"
           }
         },
-        "avg_price": "2484.90"
+        "avg_price": "2228.24"
       },
       "Lisyantus": {
         "count": 1,
