@@ -1,5 +1,5 @@
 {
-  "date": "2026-07-27T08:01:59.288Z",
+  "date": "2026-07-27T12:18:57.305Z",
   "summary": {
     "total_sites": 3,
     "successful_sites": 3,
@@ -330,13 +330,6 @@
     },
     {
       "site": "Bloom and Fresh",
-      "name": "Wonder",
-      "price": 2499.9,
-      "category": "Karma/Diğer",
-      "url": ""
-    },
-    {
-      "site": "Bloom and Fresh",
       "name": "Dark Sienna Gold & Brownies Mixbox (6'lı) Bundle",
       "price": 2349.9,
       "category": "Karma/Diğer",
@@ -425,6 +418,13 @@
       "price": 1349.9,
       "category": "Karma/Diğer",
       "url": ""
+    },
+    {
+      "site": "Bloom and Fresh",
+      "name": "Harem Chocolate Love Kutu (215g)",
+      "price": 1499.9,
+      "category": "Karma/Diğer",
+      "url": ""
     }
   ],
   "price_analysis": {
@@ -437,7 +437,7 @@
       },
       "Bloom and Fresh": {
         "product_count": 30,
-        "avg_price": "2446.56",
+        "avg_price": "2413.23",
         "min_price": "1249.90",
         "max_price": "3999.90"
       }
@@ -466,10 +466,10 @@
           },
           "Bloom and Fresh": {
             "count": 28,
-            "avg": "2335.61"
+            "avg": "2299.90"
           }
         },
-        "avg_price": "2198.58"
+        "avg_price": "2166.33"
       },
       "Papatya": {
         "count": 4,
