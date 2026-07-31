@@ -1,5 +1,5 @@
 {
-  "date": "2026-07-31T11:28:00.695Z",
+  "date": "2026-07-31T13:57:31.103Z",
   "summary": {
     "total_sites": 3,
     "successful_sites": 3,
@@ -295,6 +295,13 @@
     },
     {
       "site": "Bloom and Fresh",
+      "name": "Lilac Stripes",
+      "price": 2699.9,
+      "category": "Karma/Diğer",
+      "url": ""
+    },
+    {
+      "site": "Bloom and Fresh",
       "name": "Gina Gummy Pot",
       "price": 2599.9,
       "category": "Karma/Diğer",
@@ -418,13 +425,6 @@
       "price": 3299.9,
       "category": "Karma/Diğer",
       "url": ""
-    },
-    {
-      "site": "Bloom and Fresh",
-      "name": "Printworks The Essentials Büyük Peynir Aksesuarları Seti",
-      "price": 4999.9,
-      "category": "Karma/Diğer",
-      "url": ""
     }
   ],
   "price_analysis": {
@@ -437,7 +437,7 @@
       },
       "Bloom and Fresh": {
         "product_count": 30,
-        "avg_price": "2796.56",
+        "avg_price": "2719.90",
         "min_price": "1249.90",
         "max_price": "4999.90"
       }
@@ -476,10 +476,10 @@
           },
           "Bloom and Fresh": {
             "count": 28,
-            "avg": "2710.61"
+            "avg": "2628.47"
           }
         },
-        "avg_price": "2601.54"
+        "avg_price": "2524.87"
       },
       "Gerbera": {
         "count": 2,
