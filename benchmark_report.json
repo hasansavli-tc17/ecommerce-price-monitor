@@ -1,5 +1,5 @@
 {
-  "date": "2026-08-04T07:12:47.556Z",
+  "date": "2026-08-04T11:21:47.458Z",
   "summary": {
     "total_sites": 3,
     "successful_sites": 3,
@@ -218,6 +218,13 @@
     },
     {
       "site": "Bloom and Fresh",
+      "name": "Pink Peonies",
+      "price": 3.9999,
+      "category": "Karma/Diğer",
+      "url": ""
+    },
+    {
+      "site": "Bloom and Fresh",
       "name": "Lover's Dilemma",
       "price": 3.3999,
       "category": "Karma/Diğer",
@@ -234,13 +241,6 @@
       "site": "Bloom and Fresh",
       "name": "Athena",
       "price": 1.5999,
-      "category": "Karma/Diğer",
-      "url": ""
-    },
-    {
-      "site": "Bloom and Fresh",
-      "name": "Athena Double",
-      "price": 2.4999,
       "category": "Karma/Diğer",
       "url": ""
     },
@@ -267,13 +267,6 @@
     },
     {
       "site": "Bloom and Fresh",
-      "name": "Rio",
-      "price": 2.3999,
-      "category": "Karma/Diğer",
-      "url": ""
-    },
-    {
-      "site": "Bloom and Fresh",
       "name": "Gemma",
       "price": 1.7999,
       "category": "Karma/Diğer",
@@ -281,15 +274,15 @@
     },
     {
       "site": "Bloom and Fresh",
-      "name": "Becky",
-      "price": 3.5999,
+      "name": "Olivrosa",
+      "price": 3.1999,
       "category": "Karma/Diğer",
       "url": ""
     },
     {
       "site": "Bloom and Fresh",
-      "name": "Olivrosa",
-      "price": 3.1999,
+      "name": "Peonies in a Vase",
+      "price": 4.7999,
       "category": "Karma/Diğer",
       "url": ""
     },
@@ -425,6 +418,13 @@
       "price": 4.2999,
       "category": "Karma/Diğer",
       "url": ""
+    },
+    {
+      "site": "Bloom and Fresh",
+      "name": "Printworks The Essentials Large Wine Set",
+      "price": 4.9999,
+      "category": "Karma/Diğer",
+      "url": ""
     }
   ],
   "price_analysis": {
@@ -437,9 +437,9 @@
       },
       "Bloom and Fresh": {
         "product_count": 30,
-        "avg_price": "2.63",
+        "avg_price": "2.80",
         "min_price": "1.25",
-        "max_price": "4.30"
+        "max_price": "5.00"
       }
     },
     "by_category": {
@@ -476,10 +476,10 @@
           },
           "Bloom and Fresh": {
             "count": 29,
-            "avg": "2.58"
+            "avg": "2.76"
           }
         },
-        "avg_price": "88.56"
+        "avg_price": "88.72"
       },
       "Papatya": {
         "count": 4,
