@@ -1,5 +1,5 @@
 {
-  "date": "2026-08-07T12:55:51.360Z",
+  "date": "2026-08-07T15:53:40.133Z",
   "summary": {
     "total_sites": 3,
     "successful_sites": 3,
@@ -33,13 +33,6 @@
       "price": 799.99,
       "category": "Gül",
       "url": "https://www.ciceksepeti.com/kraft-bukette-mor-lisyantus-ve-luna-turuncu-gul-cprm134"
-    },
-    {
-      "site": "Çiçek Sepeti",
-      "name": "Pembe Buket Kağıtlı Karışık Lisyantuslar",
-      "price": 799.99,
-      "category": "Lisyantus",
-      "url": "https://www.ciceksepeti.com/pembe-buket-kagitli-karisik-lisyantuslar-vbt1999"
     },
     {
       "site": "Çiçek Sepeti",
@@ -215,6 +208,13 @@
       "price": 709.99,
       "category": "Gül",
       "url": "https://www.ciceksepeti.com/kelebek-bukette-kirmizi-guller-ve-beyaz-papatyalar-at6322"
+    },
+    {
+      "site": "Çiçek Sepeti",
+      "name": "Pembe Gazete Kağıdı Bukette Beyaz Papatyalar",
+      "price": 529.99,
+      "category": "Papatya",
+      "url": "https://www.ciceksepeti.com/pembe-gazete-kagidi-bukette-beyaz-papatyalar-at6317"
     },
     {
       "site": "Bloom and Fresh",
@@ -431,7 +431,7 @@
     "by_site": {
       "Çiçek Sepeti": {
         "product_count": 30,
-        "avg_price": "901.46",
+        "avg_price": "892.46",
         "min_price": "509.99",
         "max_price": "2649.00"
       },
@@ -458,14 +458,14 @@
         "avg_price": "937.63"
       },
       "Lisyantus": {
-        "count": 3,
+        "count": 2,
         "prices_by_site": {
           "Çiçek Sepeti": {
-            "count": 3,
-            "avg": "683.32"
+            "count": 2,
+            "avg": "624.99"
           }
         },
-        "avg_price": "683.32"
+        "avg_price": "624.99"
       },
       "Karma/Diğer": {
         "count": 30,
@@ -492,14 +492,14 @@
         "avg_price": "584.99"
       },
       "Papatya": {
-        "count": 3,
+        "count": 4,
         "prices_by_site": {
           "Çiçek Sepeti": {
-            "count": 3,
-            "avg": "819.99"
+            "count": 4,
+            "avg": "747.49"
           }
         },
-        "avg_price": "819.99"
+        "avg_price": "747.49"
       }
     }
   }
