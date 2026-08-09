@@ -1,5 +1,5 @@
 {
-  "date": "2026-08-09T12:42:34.792Z",
+  "date": "2026-08-09T15:27:50.563Z",
   "summary": {
     "total_sites": 3,
     "successful_sites": 3,
@@ -61,13 +61,6 @@
       "price": 619.99,
       "category": "Gül",
       "url": "https://www.ciceksepeti.com/9-lu-kirmizi-gul-cicek-buketi-at6295"
-    },
-    {
-      "site": "Çiçek Sepeti",
-      "name": "Kraft Buket Kağıdında 25'li Kırmızı Gül Buketi",
-      "price": 1099,
-      "category": "Gül",
-      "url": "https://www.ciceksepeti.com/kraft-buket-kagidinda-25-li-kirmizi-gul-buketi-at6291"
     },
     {
       "site": "Çiçek Sepeti",
@@ -187,6 +180,13 @@
       "price": 689.99,
       "category": "Gül",
       "url": "https://www.ciceksepeti.com/kraft-buket-kagidinda-9-lu-kirmizi-gul-aranjmani-at5790"
+    },
+    {
+      "site": "Çiçek Sepeti",
+      "name": "Kraft Buket Kağıdında 25'li Kırmızı Gül Buketi",
+      "price": 1099,
+      "category": "Gül",
+      "url": "https://www.ciceksepeti.com/kraft-buket-kagidinda-25-li-kirmizi-gul-buketi-at6291"
     },
     {
       "site": "Çiçek Sepeti",
