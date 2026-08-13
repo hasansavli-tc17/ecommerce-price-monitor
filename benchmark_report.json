@@ -1,5 +1,5 @@
 {
-  "date": "2026-08-13T10:01:18.771Z",
+  "date": "2026-08-13T13:02:00.730Z",
   "summary": {
     "total_sites": 3,
     "successful_sites": 3,
@@ -302,6 +302,13 @@
     },
     {
       "site": "Bloom and Fresh",
+      "name": "Valery Toscana",
+      "price": 2.3999,
+      "category": "Karma/Diğer",
+      "url": ""
+    },
+    {
+      "site": "Bloom and Fresh",
       "name": "Coral Pink",
       "price": 2.4999,
       "category": "Karma/Diğer",
@@ -372,15 +379,15 @@
     },
     {
       "site": "Bloom and Fresh",
-      "name": "Brownies Food & Co. Premium Mixbox (pack of 12)",
-      "price": 1.6999,
+      "name": "Melodi Crepe with Whole Hazelnuts and Milk Chocolate (120g)",
+      "price": 89990,
       "category": "Karma/Diğer",
       "url": ""
     },
     {
       "site": "Bloom and Fresh",
-      "name": "Birthday Box Black",
-      "price": 1.7999,
+      "name": "Melodi Special Edition Gift Chocolate (950g)",
+      "price": 3.5999,
       "category": "Karma/Diğer",
       "url": ""
     },
@@ -388,6 +395,13 @@
       "site": "Bloom and Fresh",
       "name": "Brownies Food & Co. Truffle Chocolate (9 pieces)",
       "price": 1.3499,
+      "category": "Karma/Diğer",
+      "url": ""
+    },
+    {
+      "site": "Bloom and Fresh",
+      "name": "Godiva Blue Holographic Pattern Domes Chocolate Box",
+      "price": 69990,
       "category": "Karma/Diğer",
       "url": ""
     },
@@ -411,20 +425,6 @@
       "price": 4.9999,
       "category": "Karma/Diğer",
       "url": ""
-    },
-    {
-      "site": "Bloom and Fresh",
-      "name": "Printworks The Essentials Falafel Set",
-      "price": 3.2999,
-      "category": "Karma/Diğer",
-      "url": ""
-    },
-    {
-      "site": "Bloom and Fresh",
-      "name": "Printworks The Essentials Large Cheese Accessories Set",
-      "price": 4.9999,
-      "category": "Karma/Diğer",
-      "url": ""
     }
   ],
   "price_analysis": {
@@ -437,9 +437,9 @@
       },
       "Bloom and Fresh": {
         "product_count": 30,
-        "avg_price": "2.89",
+        "avg_price": "5335.36",
         "min_price": "1.25",
-        "max_price": "5.00"
+        "max_price": "89990.00"
       }
     },
     "by_category": {
@@ -466,10 +466,10 @@
           },
           "Bloom and Fresh": {
             "count": 29,
-            "avg": "2.85"
+            "avg": "5519.20"
           }
         },
-        "avg_price": "48.15"
+        "avg_price": "5208.61"
       },
       "Lisyantus": {
         "count": 2,
