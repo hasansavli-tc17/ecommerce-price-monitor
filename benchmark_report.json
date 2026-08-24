@@ -1,5 +1,5 @@
 {
-  "date": "2026-08-24T12:41:59.885Z",
+  "date": "2026-08-24T15:35:58.101Z",
   "summary": {
     "total_sites": 3,
     "successful_sites": 3,
@@ -400,13 +400,6 @@
     },
     {
       "site": "Bloom and Fresh",
-      "name": "Godiva Blue Holographic Pattern Domes Chocolate Box",
-      "price": 69990,
-      "category": "Karma/Diğer",
-      "url": ""
-    },
-    {
-      "site": "Bloom and Fresh",
       "name": "Lure Chocolate by Swissotel The Bosphorus (70's Praline)",
       "price": 3.9999,
       "category": "Karma/Diğer",
@@ -425,6 +418,13 @@
       "price": 4.9999,
       "category": "Karma/Diğer",
       "url": ""
+    },
+    {
+      "site": "Bloom and Fresh",
+      "name": "Printworks The Essentials Falafel Set",
+      "price": 3.2999,
+      "category": "Karma/Diğer",
+      "url": ""
     }
   ],
   "price_analysis": {
@@ -437,7 +437,7 @@
       },
       "Bloom and Fresh": {
         "product_count": 30,
-        "avg_price": "5335.37",
+        "avg_price": "3002.48",
         "min_price": "1.25",
         "max_price": "89990.00"
       }
@@ -466,10 +466,10 @@
           },
           "Bloom and Fresh": {
             "count": 29,
-            "avg": "5519.21"
+            "avg": "3105.88"
           }
         },
-        "avg_price": "5360.24"
+        "avg_price": "3027.35"
       },
       "Lisyantus": {
         "count": 1,
