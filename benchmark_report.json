@@ -1,5 +1,5 @@
 {
-  "date": "2026-08-26T09:37:14.391Z",
+  "date": "2026-08-26T12:44:23.241Z",
   "summary": {
     "total_sites": 3,
     "successful_sites": 3,
@@ -323,6 +323,13 @@
     },
     {
       "site": "Bloom and Fresh",
+      "name": "Lausanne Gold",
+      "price": 2.5999,
+      "category": "Karma/Diğer",
+      "url": ""
+    },
+    {
+      "site": "Bloom and Fresh",
       "name": "Dark Sienna Gold & Brownies Mixbox (6-pack) Bundle",
       "price": 2.4499,
       "category": "Karma/Diğer",
@@ -418,13 +425,6 @@
       "price": 4.9999,
       "category": "Karma/Diğer",
       "url": ""
-    },
-    {
-      "site": "Bloom and Fresh",
-      "name": "Printworks The Essentials Falafel Set",
-      "price": 3.2999,
-      "category": "Karma/Diğer",
-      "url": ""
     }
   ],
   "price_analysis": {
@@ -437,7 +437,7 @@
       },
       "Bloom and Fresh": {
         "product_count": 30,
-        "avg_price": "3002.41",
+        "avg_price": "3002.39",
         "min_price": "1.25",
         "max_price": "89990.00"
       }
@@ -466,10 +466,10 @@
           },
           "Bloom and Fresh": {
             "count": 29,
-            "avg": "3105.81"
+            "avg": "3105.78"
           }
         },
-        "avg_price": "3027.28"
+        "avg_price": "3027.26"
       },
       "Lisyantus": {
         "count": 1,
