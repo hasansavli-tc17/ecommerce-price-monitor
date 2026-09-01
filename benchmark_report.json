@@ -1,5 +1,5 @@
 {
-  "date": "2026-09-01T09:32:49.552Z",
+  "date": "2026-09-01T13:55:04.667Z",
   "summary": {
     "total_sites": 3,
     "successful_sites": 3,
@@ -303,7 +303,7 @@
     {
       "site": "Bloom and Fresh",
       "name": "Gina Stripes",
-      "price": 2.7999,
+      "price": 2.5999,
       "category": "Karma/Diğer",
       "url": ""
     },
@@ -476,7 +476,7 @@
           },
           "Bloom and Fresh": {
             "count": 29,
-            "avg": "2.88"
+            "avg": "2.87"
           }
         },
         "avg_price": "25.11"
