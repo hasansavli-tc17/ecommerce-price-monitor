@@ -1,5 +1,5 @@
 {
-  "date": "2026-09-02T08:57:06.154Z",
+  "date": "2026-09-02T13:12:55.466Z",
   "summary": {
     "total_sites": 3,
     "successful_sites": 3,
@@ -274,13 +274,6 @@
     },
     {
       "site": "Bloom and Fresh",
-      "name": "Chloe Bordeaux",
-      "price": 2.5999,
-      "category": "Karma/Diğer",
-      "url": ""
-    },
-    {
-      "site": "Bloom and Fresh",
       "name": "Verona Glam",
       "price": 3.5999,
       "category": "Karma/Diğer",
@@ -425,6 +418,13 @@
       "price": 4.2999,
       "category": "Karma/Diğer",
       "url": ""
+    },
+    {
+      "site": "Bloom and Fresh",
+      "name": "Printworks The Essentials Large Wine Set",
+      "price": 4.9999,
+      "category": "Karma/Diğer",
+      "url": ""
     }
   ],
   "price_analysis": {
@@ -437,7 +437,7 @@
       },
       "Bloom and Fresh": {
         "product_count": 30,
-        "avg_price": "2.83",
+        "avg_price": "2.91",
         "min_price": "1.25",
         "max_price": "5.00"
       }
@@ -476,10 +476,10 @@
           },
           "Bloom and Fresh": {
             "count": 29,
-            "avg": "2.79"
+            "avg": "2.87"
           }
         },
-        "avg_price": "25.03"
+        "avg_price": "25.11"
       },
       "Gerbera": {
         "count": 2,
