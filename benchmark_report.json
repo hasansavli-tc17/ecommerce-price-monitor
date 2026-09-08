@@ -1,5 +1,5 @@
 {
-  "date": "2026-09-08T08:59:25.415Z",
+  "date": "2026-09-08T13:17:57.410Z",
   "summary": {
     "total_sites": 3,
     "successful_sites": 3,
@@ -303,7 +303,7 @@
     {
       "site": "Bloom and Fresh",
       "name": "Gina Stripes",
-      "price": 2.5999,
+      "price": 2.7999,
       "category": "Karma/Diğer",
       "url": ""
     },
@@ -437,7 +437,7 @@
       },
       "Bloom and Fresh": {
         "product_count": 30,
-        "avg_price": "2.84",
+        "avg_price": "2.85",
         "min_price": "1.25",
         "max_price": "5.00"
       }
@@ -489,7 +489,7 @@
             "avg": "2.81"
           }
         },
-        "avg_price": "28.71"
+        "avg_price": "28.72"
       },
       "Gerbera": {
         "count": 2,
